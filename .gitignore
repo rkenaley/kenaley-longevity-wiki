@@ -1,0 +1,25 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+*.log
+
+# Sensitive files protection (defense in depth)
+_archive/
+*.key
+*.pem
+*.asc
+*.env

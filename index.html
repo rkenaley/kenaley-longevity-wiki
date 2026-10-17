@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Kenaley Longevity Protocol v5.0 | Interactive Biophysical Wiki</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <span>KENALEY PROTOCOL</span>
+      <span class="nav-brand-badge">v5.0 WIKI</span>
+    </div>
+    <div class="nav-search">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="main-search" class="search-input" placeholder="Search 40 interventions, mechanisms, biomarkers, drugs... (Press '/' to focus)">
+    </div>
+    <div class="nav-links">
+      <a href="#spreadsheet" class="nav-link">Master Index</a>
+      <a href="#timeline" class="nav-link">24h Schedule</a>
+      <a href="#infradian" class="nav-link">Infradian</a>
+      <a href="#pillbox" class="nav-link">Pillbox</a>
+      <a href="#recipes" class="nav-link">Kitchen</a>
+      <a href="#athletic" class="nav-link">BMT Athletic</a>
+    </div>
+    <div class="nav-actions">
+      <a href="KENALEY_LONGEVITY_V5_MASTER_LLM.md" class="btn btn-primary btn-sm" download title="Download full lossless markdown for LLMs">🤖 LLM Master .md</a>
+      <a href="Kenaley_Longevity_Whitepaper_v5.pdf" class="btn btn-secondary btn-sm" download title="Download official compiled 39-page PDF">📄 PDF Whitepaper</a>
+      <button id="theme-toggle" class="btn btn-secondary btn-sm" aria-label="Toggle theme">☀️</button>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-tag">🧬 Rejuvenation Olympics Gold Benchmark &bull; v5.0 Architectural Edition</div>
+    <h1 class="hero-title">The Kenaley Longevity Architecture</h1>
+    <p class="hero-subtitle">
+      A 100% quantified, biophysically grounded human rejuvenation system. Designed for maximum asymmetric expected value, lifetime ApoB eradication, epigenetic clock deceleration (DunedinPACE &lt; 0.45), tendon elasticity, and systemic autophagic clearance.
+    </p>
+
+    <!-- Key Metrics Grid -->
+    <div class="hero-stats">
+      <div class="stat-card">
+        <div class="stat-value">40</div>
+        <div class="stat-label">Active Interventions</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">7</div>
+        <div class="stat-label">Biological Pillars</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">&lt; 0.45</div>
+        <div class="stat-label">DunedinPACE Pace</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">&lt; 35</div>
+        <div class="stat-label">ApoB (mg/dL)</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value">4 Slots</div>
+        <div class="stat-label">Pillbox Matrix</div>
+      </div>
+    </div>
+
+    <!-- Quick Download Action Bar -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin-top: 1.5rem;">
+      <a href="KENALEY_LONGEVITY_V5_MASTER_LLM.md" class="btn btn-primary" download>
+        🤖 Download Lossless LLM Master (.md)
+      </a>
+      <a href="Kenaley_Longevity_Whitepaper_v5.pdf" class="btn btn-secondary" download>
+        📑 Download Compiled Whitepaper (.pdf)
+      </a>
+      <a href="Kenaley_Pillbox_Matrix_Card.pdf" class="btn btn-secondary" download>
+        💊 Download 1-Page Pillbox Card (.pdf)
+      </a>
+      <a href="Kenaley_Protocol_Interventions_Index.xlsx" class="btn btn-secondary" download>
+        📊 Download Full Spreadsheet (.xlsx)
+      </a>
+    </div>
+  </header>
+
+  <!-- Interactive Wiki Tab Navigation -->
+  <div class="tab-container">
+    <nav class="tabs-nav">
+      <button class="tab-btn active" data-tab="spreadsheet">📊 Master Index Spreadsheet</button>
+      <button class="tab-btn" data-tab="timeline">⏰ 24-Hour Circadian Schedule</button>
+      <button class="tab-btn" data-tab="infradian">🔄 Infradian Macro-Cycle</button>
+      <button class="tab-btn" data-tab="pillbox">💊 Physical Pillbox Matrix</button>
+      <button class="tab-btn" data-tab="recipes">🥣 Kitchen Recipes & Powders</button>
+      <button class="tab-btn" data-tab="athletic">⚡ BMT Athletic Performance</button>
+      <button class="tab-btn" data-tab="graveyard">⚰️ Epistemic Graveyard</button>
+    </nav>
+
+    <!-- TAB 1: MASTER INDEX SPREADSHEET -->
+    <div id="spreadsheet" class="tab-pane active">
+      <div class="controls-bar">
+        <div class="filter-group">
+          <label for="filter-pillar" style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary);">Pillar:</label>
+          <select id="filter-pillar" class="filter-select">
+            <option value="all">All 7 Pillars</option>
+            <option value="Metabolic">Pillar I: Metabolic Substrate</option>
+            <option value="Mitochondrial">Pillar II: Mitochondrial Dynamics</option>
+            <option value="Cardiovascular">Pillar III: Cardiovascular & ApoB</option>
+            <option value="Senescence">Pillar IV: Senolytics & TPE</option>
+            <option value="Endocrine">Pillar V: Endocrine & Peptides</option>
+            <option value="Neuro">Pillar VI: Neuro-Endocrine & Apothecary</option>
+            <option value="Systems">Pillar VII: Systems & Hardware</option>
+          </select>
+
+          <label for="filter-tier" style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); margin-left: 0.75rem;">Tier:</label>
+          <select id="filter-tier" class="filter-select">
+            <option value="all">All Conviction Tiers</option>
+            <option value="CORE BET">Core Bet</option>
+            <option value="HIGH CONVICTION">High Conviction</option>
+            <option value="EXPLORATORY">Exploratory</option>
+            <option value="EXPERIMENTAL">Experimental</option>
+            <option value="RETIRED">Retired</option>
+          </select>
+        </div>
+        <div id="record-count" style="font-size: 0.85rem; font-weight: 700; color: var(--accent-blue); font-family: var(--font-mono);">
+          45 Interventions
+        </div>
+      </div>
+
+      <div class="table-container">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Intervention Name</th>
+              <th>Pillar</th>
+              <th>Tier</th>
+              <th>Evidence</th>
+              <th>P(Healthspan)</th>
+              <th>Est. Cost</th>
+            </tr>
+          </thead>
+          <tbody id="spreadsheet-body">
+            <!-- Injected via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- TAB 2: 24-HOUR CIRCADIAN SCHEDULE -->
+    <div id="timeline" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>The 24-Hour Master Chrono-Architecture</h2>
+        <p style="color: var(--text-secondary);">
+          Strict circadian synchronization eliminates kinetic collisions, optimizes hormonal pulsatility, and aligns cellular nutrient sensing with metabolic flux.
+        </p>
+      </div>
+
+      <div class="timeline-track">
+        <!-- 06:30 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">06:30 &ndash; 07:00</div>
+          <h3 class="timeline-title">Awakening & Circadian SCN Photon Sync</h3>
+          <p style="color: var(--text-secondary);">
+            10-15 minutes of direct solar photon exposure to reset the suprachiasmatic nucleus. Hydrate with 24 oz purified RO water + electrolyte minerals.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/06_urolithin_a.html" class="timeline-pill-tag">Slot 1: Urolithin A (1000mg)</a>
+            <a href="modules/07_spermidine.html" class="timeline-pill-tag">Slot 1: Spermidine (15-20mg)</a>
+            <a href="modules/23_calcium_akg.html" class="timeline-pill-tag">Slot 1: Ca-AKG (1000mg)</a>
+            <a href="modules/10_microdose_tadalafil.html" class="timeline-pill-tag">Slot 1: Tadalafil (2.5-5mg)</a>
+            <a href="modules/22_selegiline_microdose.html" class="timeline-pill-tag">Sublingual Selegiline (0.25mg M/W/F)</a>
+          </div>
+        </div>
+
+        <!-- 07:00 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">07:00 &ndash; 11:30</div>
+          <h3 class="timeline-title">Fasted Deep Work & Cognitive Focus Window</h3>
+          <p style="color: var(--text-secondary);">
+            Maximal fasted dopaminergic and cholinergic focus. Black coffee or ceremonial green tea. Optional morning collagen broth drink.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Warm Collagen Broth (15g)</a>
+            <a href="modules/26_piracetam_cdp_choline.html" class="timeline-pill-tag">Piracetam + CDP-Choline</a>
+          </div>
+        </div>
+
+        <!-- 11:30 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">11:30 &ndash; 12:00</div>
+          <h3 class="timeline-title">Pre-Workout Joint & Tendon Collagen Ingestion</h3>
+          <p style="color: var(--text-secondary);">
+            Consume 15g Hydrolyzed Collagen Peptides with 500mg Liposomal Vitamin C 30-45 minutes before athletic loading to drive amino acids into avascular fascial matrices.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Collagen Broth Drink</a>
+            <a href="modules/36_ecm_glycation_defense.html" class="timeline-pill-tag">Fascial Crosslink Priming</a>
+          </div>
+        </div>
+
+        <!-- 12:00 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">12:00 &ndash; 13:15</div>
+          <h3 class="timeline-title">Athletic Performance Window: Zac Goodman BMT & CNS Sprints</h3>
+          <p style="color: var(--text-secondary);">
+            Dynamic elasticity, paused box squats, DB weighted jumps, thrower's bench, and maximum-velocity sprinting. A/B/A rolling periodization.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/38_athletic_bmt_sprinting.html" class="timeline-pill-tag">Module 38: BMT Day A / Day B</a>
+            <a href="modules/38_athletic_bmt_sprinting.html" class="timeline-pill-tag">Box Squats & Sprints</a>
+          </div>
+        </div>
+
+        <!-- 13:30 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">13:30 &ndash; 14:15</div>
+          <h3 class="timeline-title">Post-Workout Nutrition & Main Refuel (Meal 1)</h3>
+          <p style="color: var(--text-secondary);">
+            Primary carbohydrate refuel: Pressure-Cooker Retrograded RS3 Starch (rice/sweet potato) + lean animal protein.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/01_acarbose.html" class="timeline-pill-tag" style="background: rgba(244,63,94,0.2); border-color: var(--accent-rose);">Slot 2: Acarbose (25-50mg) First Bite!</a>
+            <a href="modules/08_apob_eradication.html" class="timeline-pill-tag">Slot 2: Bempedoic + Ezetimibe</a>
+            <a href="modules/09_vitamin_k2_mk7.html" class="timeline-pill-tag">Slot 2: Vitamin K2 MK-7 + D3/Retinol</a>
+            <a href="modules/11_aged_garlic_sac.html" class="timeline-pill-tag">Slot 2: Kyolic Garlic SAC</a>
+            <a href="modules/12_krill_oil_mfsd2a.html" class="timeline-pill-tag">Slot 2: Antarctic Krill Oil (PC-DHA)</a>
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Pressure Cooker RS3 Starch</a>
+          </div>
+        </div>
+
+        <!-- 16:00 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">16:00 &ndash; 16:30</div>
+          <h3 class="timeline-title">Functional Powder Vehicle: "One Smoothie Per Day"</h3>
+          <p style="color: var(--text-secondary);">
+            Late afternoon antioxidant and cellular powder matrix in a frozen wild blueberry & coconut water base. Zero protein, zero dairy.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Blueberry Powder Vehicle</a>
+            <a href="modules/02_taurine.html" class="timeline-pill-tag">Taurine (3-5g)</a>
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Chondroitin + Amla + Glycine + Agaricus</a>
+          </div>
+        </div>
+
+        <!-- 17:30 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">17:30 &ndash; 18:45</div>
+          <h3 class="timeline-title">Thermal Hormesis (Finnish Sauna) & Photobiomodulation</h3>
+          <p style="color: var(--text-secondary);">
+            Take Slot 3 mini-pouch 60m prior. 20-30 min Finnish Sauna at 80-90°C (HSP70 induction) followed by full-body 660/850nm red/NIR light.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/28_finnish_thermal_sauna.html" class="timeline-pill-tag">Finnish Sauna (Trumpkin Model)</a>
+            <a href="modules/30_photobiomodulation_pbm.html" class="timeline-pill-tag">660nm & 850nm PBM Panel</a>
+          </div>
+        </div>
+
+        <!-- 21:00 -->
+        <div class="timeline-block">
+          <div class="timeline-dot"></div>
+          <div class="timeline-time">21:00 &ndash; 22:30</div>
+          <h3 class="timeline-title">Evening Collagen Mugcake, Bedtime Dispensary & Sleep</h3>
+          <p style="color: var(--text-secondary);">
+            Somnogenic collagen mugcake, nocturnal peptides, 3M micropore mouth taping, taVNS vagal stimulation, and deep slow-wave glymphatic sleep.
+          </p>
+          <div class="timeline-pills">
+            <a href="modules/37_precision_nutrition_recipes.html" class="timeline-pill-tag">Collagen Microwave Mugcake</a>
+            <a href="modules/19_ipamorelin_cjc1295.html" class="timeline-pill-tag">Ipamorelin + CJC-1295 SubQ</a>
+            <a href="modules/31_sleep_architecture_tavns.html" class="timeline-pill-tag">Mouth Taping & taVNS Vagal Nerve</a>
+            <span class="timeline-pill-tag">Slot 4: Magnesium L-Threonate + Theanine + Inositol</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 3: INFRADIAN MACRO-CYCLE -->
+    <div id="infradian" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>The Infradian Master Architecture: Periodic & Pulsed Protocols</h2>
+        <p style="color: var(--text-secondary);">
+          Interventions that operate on monthly, quarterly, semiannual, or annual cadences. Never dose these continuous daily.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <!-- Monthly Pulse -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Monthly Cadence</span>
+            <span class="badge badge-pillar">Senescence</span>
+          </div>
+          <h3 class="card-title">Mayo Pulsed Fisetin (2-Day Hit-and-Run)</h3>
+          <p class="card-desc">
+            20 mg/kg/day taken for 2 consecutive days each month. Clears accumulated senescent cells and dampens SASP inflammatory cytokines without continuous immunosuppression.
+          </p>
+          <a href="modules/14_mayo_fisetin.html" class="btn btn-secondary btn-sm">Explore Module 14 &rarr;</a>
+        </div>
+
+        <!-- Quarterly Pulse: FMD -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Quarterly Cadence</span>
+            <span class="badge badge-pillar">Autophagy & Stem Cells</span>
+          </div>
+          <h3 class="card-title">Valter Longo Fasting Mimicking Diet (FMD)</h3>
+          <p class="card-desc">
+            5-day plant-based caloric restriction cycle (Day 1: 1,100 kcal, Days 2-5: 725 kcal) with vegetable glycerol. Drives systemic autophagic purge followed by a massive stem cell regenerative rebound upon refeeding.
+          </p>
+          <a href="modules/39_longo_fmd.html" class="btn btn-secondary btn-sm">Explore Module 39 &rarr;</a>
+        </div>
+
+        <!-- Quarterly Pulse: TPE -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-high">Quarterly Cadence</span>
+            <span class="badge badge-pillar">Hematology</span>
+          </div>
+          <h3 class="card-title">Therapeutic Plasma Exchange (Dave Pascoe NBE)</h3>
+          <p class="card-desc">
+            Neutral Blood Exchange replacing circulating plasma with 5% human serum albumin and saline. Evacuates circulating inflammatory factors, microplastics, and pro-aging SASP proteins. Followed by mineral reconstitution.
+          </p>
+          <a href="modules/15_pascoe_plasmapheresis.html" class="btn btn-secondary btn-sm">Explore Module 15 &rarr;</a>
+        </div>
+
+        <!-- Quarterly Pulse: Turnbuckle Fission -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-exploratory">Quarterly Cadence</span>
+            <span class="badge badge-pillar">Mitochondria</span>
+          </div>
+          <h3 class="card-title">Turnbuckle Mitochondrial Fission Cycle</h3>
+          <p class="card-desc">
+            4-day acute fission induction to shatter aged, mutated mitochondrial networks, immediately followed by high-dose fusion, cardiolipin remodeling, and PQQ biogenesis.
+          </p>
+          <a href="modules/03_turnbuckle.html" class="btn btn-secondary btn-sm">Explore Module 03 &rarr;</a>
+        </div>
+
+        <!-- Semiannual Pulse: Epitalon -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-high">Semiannual Cadence</span>
+            <span class="badge badge-pillar">Epigenetics & Pineal</span>
+          </div>
+          <h3 class="card-title">Epitalon Pineal Bioregulator Cycle</h3>
+          <p class="card-desc">
+            10-day semiannual subcutaneous protocol (1.0 mg subQ daily for 10 days). Restores pineal melatonin rhythmicity, upregulates telomerase catalytic subunit (TERT), and reduces chromosomal aberrations.
+          </p>
+          <a href="modules/20_epitalon.html" class="btn btn-secondary btn-sm">Explore Module 20 &rarr;</a>
+        </div>
+
+        <!-- Annual Protocol: HBOT -->
+        <div class="pulse-card">
+          <div class="card-badge-row">
+            <span class="badge badge-high">Annual Cadence</span>
+            <span class="badge badge-pillar">Hardware</span>
+          </div>
+          <h3 class="card-title">Protocolized HBOT (Hyperoxic-Hypoxic Trigger)</h3>
+          <p class="card-desc">
+            60-session annual hyperbaric protocol at 2.0 ATA with intermittent 20-minute 100% O2 pulses. Exploits the hyperoxic-hypoxic paradox to trigger HIF-1alpha, telomere lengthening, and circulating stem cell expansion.
+          </p>
+          <a href="modules/29_protocolized_hbot.html" class="btn btn-secondary btn-sm">Explore Module 29 &rarr;</a>
+        </div>
+      </div>
+      
+      <div style="text-align: center; margin-top: 2rem;">
+        <a href="modules/40_infradian_pulsed_cadence.html" class="btn btn-primary">
+          Read Complete Module 40: The Infradian Master Architecture &rarr;
+        </a>
+      </div>
+    </div>
+
+    <!-- TAB 4: PHYSICAL PILLBOX MATRIX -->
+    <div id="pillbox" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>Physical Pillbox Dispenser: 4-Compartment Adherence Card</h2>
+        <p style="color: var(--text-secondary);">
+          Organize standard 7-day AM/Midday/Pre-Sauna/Bedtime physical pill organizers. Eliminates daily cognitive friction.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <!-- Slot 1 -->
+        <div class="pillbox-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">SLOT 1: AM FASTED</span>
+            <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent-blue);">07:00 - 08:30</span>
+          </div>
+          <h3 class="card-title">Fasted Mitophagy & Epigenetics</h3>
+          <p class="card-desc">Take upon waking with 20 oz purified RO water in a 100% fasted state.</p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Urolithin A:</strong> 1,000 mg (2 softgels)</li>
+            <li><strong>Spermidine:</strong> 15-20 mg (1-2 caps)</li>
+            <li><strong>Calcium-AKG:</strong> 1,000 mg (2 tabs)</li>
+            <li><strong>Liposomal Vit C:</strong> 500 mg (1 cap)</li>
+            <li><strong>Apigenin:</strong> 50 mg (1 cap)</li>
+            <li><strong>Microdose Tadalafil:</strong> 2.5-5.0 mg (1 tab)</li>
+            <li><strong>Lithium Orotate:</strong> 5 mg elemental (1 cap)</li>
+            <li><strong>Cat's Claw AC-11:</strong> 350-700 mg (1-2 caps)</li>
+          </ul>
+          <span style="font-size: 0.8rem; color: var(--accent-amber);">Non-Pillbox: Selegiline 0.25mg Sublingual (M/W/F)</span>
+        </div>
+
+        <!-- Slot 2 -->
+        <div class="pillbox-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">SLOT 2: MIDDAY MEAL 1</span>
+            <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent-blue);">13:30 - 14:15</span>
+          </div>
+          <h3 class="card-title">Vascular, Lipids & Glycation</h3>
+          <p class="card-desc">Take with main post-workout starch meal (Pressure Cooker RS3 + lean protein).</p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Acarbose:</strong> 25-50 mg (FIRST FORKFUL)</li>
+            <li><strong>Bempedoic Acid + Ezetimibe:</strong> 180mg / 10mg</li>
+            <li><strong>Citrus Bergamot:</strong> 500 mg</li>
+            <li><strong>Vitamin K2 MK-7:</strong> 200 mcg</li>
+            <li><strong>Vitamin D3 + Retinol:</strong> 3000 IU / 2500 IU</li>
+            <li><strong>Kyolic Garlic (SAC):</strong> 600 mg</li>
+            <li><strong>Rhamnan Sulfate:</strong> 100 mg</li>
+            <li><strong>Antarctic Krill Oil:</strong> 1,000 - 2,000 mg</li>
+            <li><strong>Olive Leaf Extract:</strong> 500 mg</li>
+            <li><strong>Benfotiamine + Carnosine:</strong> 150mg / 500mg</li>
+            <li><strong>L-Ergothioneine:</strong> 25 mg</li>
+          </ul>
+        </div>
+
+        <!-- Slot 3 -->
+        <div class="pillbox-card">
+          <div class="card-badge-row">
+            <span class="badge badge-high">SLOT 3: PRE-HORMESIS</span>
+            <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent-blue);">16:30 - 17:00</span>
+          </div>
+          <h3 class="card-title">Thermal & Athletic Priming</h3>
+          <p class="card-desc">Carry in separate mini-pouch. Ingest 60 min before Finnish Sauna or training.</p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Electrolyte Salt Cap:</strong> 1,000 mg NaCl + K/Mg</li>
+            <li><strong>Quercetin Phytosome:</strong> 250 mg</li>
+            <li><strong>EGCG Green Tea Extract:</strong> 200 mg</li>
+            <li><strong>Sulforaphane / BrocElite:</strong> 10 mg</li>
+          </ul>
+        </div>
+
+        <!-- Slot 4 -->
+        <div class="pillbox-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">SLOT 4: BEDTIME SLEEP</span>
+            <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--accent-blue);">21:30 - 22:30</span>
+          </div>
+          <h3 class="card-title">Glymphatics & Slow-Wave Sleep</h3>
+          <p class="card-desc">Take 30 min before bed with small sip of water after mouth taping & taVNS.</p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Magnesium L-Threonate:</strong> 144 mg elemental</li>
+            <li><strong>Magnesium Bisglycinate:</strong> 200 mg elemental</li>
+            <li><strong>L-Theanine:</strong> 200 mg</li>
+            <li><strong>Apigenin:</strong> 50 mg</li>
+            <li><strong>Myo-Inositol:</strong> 2,000 mg</li>
+            <li><strong>Taurine:</strong> 1,000 - 2,000 mg</li>
+          </ul>
+          <span style="font-size: 0.8rem; color: var(--accent-purple);">SubQ Injection: Ipamorelin (200mcg) + CJC-1295 (100mcg) Mon-Fri</span>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 1.5rem;">
+        <a href="Kenaley_Pillbox_Matrix_Card.pdf" class="btn btn-secondary" download>
+          📄 Download 1-Page Printable Pillbox PDF Cheat Sheet
+        </a>
+      </div>
+    </div>
+
+    <!-- TAB 5: KITCHEN RECIPES & POWDER VEHICLES -->
+    <div id="recipes" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>Precision Longevity Kitchen & Powder Vehicles (Module 37)</h2>
+        <p style="color: var(--text-secondary);">
+          Practical kitchen protocols solving adherence bottlenecks: warming collagen broths, somnogenic mugcakes, pressure-cooked RS3 starches, and the daily powder smoothie vehicle.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <!-- Recipe 1: Broth -->
+        <div class="recipe-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Morning / Pre-Workout</span>
+            <span class="badge badge-pillar">ECM & Fascia</span>
+          </div>
+          <h3 class="card-title">15g Collagen Broth with Liposomal C</h3>
+          <p class="card-desc">
+            Warm, savory functional beverage delivering 15g hydrolyzed bovine/marine collagen peptides with 500mg Liposomal Vitamin C. Taken either upon waking or 30-45 minutes before athletic loading.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li>12-16 oz hot bone broth (or Better Than Bouillon Organic)</li>
+            <li>15g Hydrolyzed Collagen Peptides (unflavored)</li>
+            <li>500mg Liposomal Vitamin C (essential prolyl hydroxylase cofactor)</li>
+            <li>Pinch of Celtic sea salt & ground black pepper</li>
+          </ul>
+          <a href="modules/37_precision_nutrition_recipes.html" class="btn btn-secondary btn-sm">Full Recipe & Mechanism &rarr;</a>
+        </div>
+
+        <!-- Recipe 2: Mugcake -->
+        <div class="recipe-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Nighttime Treat</span>
+            <span class="badge badge-pillar">Sleep & Connective Tissue</span>
+          </div>
+          <h3 class="card-title">Evening Collagen Microwave Mugcake</h3>
+          <p class="card-desc">
+            A 60-second functional microwave cake delivering 15g collagen and cocoa polyphenols without disrupting sleep. Provides glycine for core temperature drop and slow-wave sleep.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li>15g Hydrolyzed Collagen Peptides</li>
+            <li>1 tbsp raw unsweetened cocoa powder (high flavanols)</li>
+            <li>1 tbsp almond flour or oat fiber</li>
+            <li>1/4 tsp baking powder + Ceylon cinnamon</li>
+            <li>3-4 tbsp unsweetened almond milk + stevia/monkfruit</li>
+            <li>Microwave on medium-low for 45-60 seconds</li>
+          </ul>
+          <a href="modules/37_precision_nutrition_recipes.html" class="btn btn-secondary btn-sm">Full Recipe & Mechanism &rarr;</a>
+        </div>
+
+        <!-- Recipe 3: Smoothie -->
+        <div class="recipe-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Late Afternoon</span>
+            <span class="badge badge-pillar">Powder Vehicle</span>
+          </div>
+          <h3 class="card-title">"One Smoothie Per Day" Carb-Only Powder Vehicle</h3>
+          <p class="card-desc">
+            Consolidates all bulky, unpalatable powders into a single delicious polyphenol vehicle. Strict zero-protein, zero-dairy formulation to prevent kinetic collision with post-workout leucine.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li>1 cup frozen organic wild blueberries (anthocyanins)</li>
+            <li>1 cup unsweetened coconut water + lemon juice</li>
+            <li>Chondroitin Sulfate: 1,200 mg powder</li>
+            <li>Amla Fruit Extract: 1,000 mg powder</li>
+            <li>Taurine: 3,000 - 5,000 mg powder</li>
+            <li>Glycine: 3,000 - 5,000 mg powder</li>
+            <li>Organic Greens (Spirulina/Chlorella): 5 g</li>
+            <li>Agaricus Blazei Murill Mushroom: 1,000 mg</li>
+            <li>Creatine Monohydrate: 5 g</li>
+          </ul>
+          <a href="modules/37_precision_nutrition_recipes.html" class="btn btn-secondary btn-sm">Full Recipe & Mechanism &rarr;</a>
+        </div>
+
+        <!-- Recipe 4: RS3 Starch -->
+        <div class="recipe-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Meal 1 Post-Workout</span>
+            <span class="badge badge-pillar">Gut Microbiome</span>
+          </div>
+          <h3 class="card-title">Pressure Cooker Retrograded RS3 Resistant Starch</h3>
+          <p class="card-desc">
+            High-amylose white rice, purple potatoes, or steel-cut oats prepared in an Instant Pot / pressure cooker, followed by 12-24h refrigeration at 4°C to induce crystalline retrogradation.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li>Pressure cook high-amylose jasmine or basmati rice (1:1.25 water)</li>
+            <li>Add 1 tbsp extra virgin coconut oil / olive oil (lipid-amylose complexing)</li>
+            <li>Refrigerate at 4°C (39°F) for minimum 12 hours</li>
+            <li>Gently reheat under 65°C to preserve retrograded RS3 structure</li>
+            <li>Pair with Acarbose 25-50mg on first forkful</li>
+          </ul>
+          <a href="modules/37_precision_nutrition_recipes.html" class="btn btn-secondary btn-sm">Full Recipe & Mechanism &rarr;</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 6: ATHLETIC PERFORMANCE BMT HUB -->
+    <div id="athletic" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>Athletic Performance Architecture: Zac Goodman BMT & Sprinting (Module 38)</h2>
+        <p style="color: var(--text-secondary);">
+          Building indestructible fascia, deep joint mobility, elastic rate of force development (RFD), and maximum velocity without chronic joint wear.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <!-- Day A -->
+        <div class="training-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Session Day A</span>
+            <span class="badge badge-pillar">Lower Elasticity</span>
+          </div>
+          <h3 class="card-title">Lower Power, Paused Box Squats & Hurdle Hops</h3>
+          <p class="card-desc">
+            Heavy neuromuscular potentiation followed immediately by elastic spring hops and posterior chain deceleration.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Paused Box Squats:</strong> 4-5 sets &times; 2-3 reps at 80-85% 1RM (full dead-stop on box to eliminate stretch reflex)</li>
+            <li><strong>DB Weighted Jumps:</strong> 4 sets &times; 4 reps with 15-20% bodyweight</li>
+            <li><strong>Elastic Hurdle Jumps / Pogo Plyos:</strong> 4 sets &times; 6 reps (ground contact time &lt; 150ms)</li>
+            <li><strong>Secondary Hinge:</strong> Romanian Deadlift (RDL) or Nordic Hamstring Curls (3 sets &times; 6-8 reps)</li>
+            <li><strong>BMT Foot & Tibialis Drills:</strong> Slant-board tibialis raises & soleus calf raises</li>
+          </ul>
+          <a href="modules/38_athletic_bmt_sprinting.html" class="btn btn-secondary btn-sm">Explore Routine Details &rarr;</a>
+        </div>
+
+        <!-- Day B -->
+        <div class="training-card">
+          <div class="card-badge-row">
+            <span class="badge badge-core">Session Day B</span>
+            <span class="badge badge-pillar">Upper Explosive & Sprinting</span>
+          </div>
+          <h3 class="card-title">Thrower's Bench, Fresh-CNS Sprints & Upper Plyos</h3>
+          <p class="card-desc">
+            High-velocity rotational elasticity, maximum-velocity sprinting with fresh central nervous system, and upper body power.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li><strong>Thrower's Bench Press:</strong> 4-5 sets &times; 3-5 reps (accentuated eccentric with explosive concentric drive)</li>
+            <li><strong>Fresh-CNS Maximum Velocity Sprints:</strong> 4-6 reps &times; 10-30m flat-out sprints (2-3 min complete rest between reps)</li>
+            <li><strong>Medicine Ball Rotational Slams:</strong> 3 sets &times; 5 reps per side</li>
+            <li><strong>Weighted Pull-Ups / Chest-Supported Rows:</strong> 4 sets &times; 6 reps</li>
+            <li><strong>Overhead Fascial Carries / Hangs:</strong> 3 sets &times; 60 seconds</li>
+          </ul>
+          <a href="modules/38_athletic_bmt_sprinting.html" class="btn btn-secondary btn-sm">Explore Routine Details &rarr;</a>
+        </div>
+
+        <!-- Off Days -->
+        <div class="training-card">
+          <div class="card-badge-row">
+            <span class="badge badge-high">Active Recovery</span>
+            <span class="badge badge-pillar">Aerobic Base</span>
+          </div>
+          <h3 class="card-title">Zone 2 Aerobic Base & Fascial Skill Work</h3>
+          <p class="card-desc">
+            Mitochondrial density in slow-twitch muscle fibers, microvascular capillary angiogenesis, and soft-tissue remodel.
+          </p>
+          <ul style="padding-left: 1.25rem; font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+            <li>45-60 minutes strict Zone 2 steady-state nasal breathing cardio (120-135 bpm)</li>
+            <li>Ruck marching (30-45 lbs), inclined treadmill walk, or Concept2 row</li>
+            <li>Multi-planar ankle, hip, and thoracic mobility flow</li>
+            <li>Foam rolling & lacrosse ball plantar fascia release</li>
+          </ul>
+          <a href="modules/38_athletic_bmt_sprinting.html" class="btn btn-secondary btn-sm">Explore Routine Details &rarr;</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 7: EPISTEMIC GRAVEYARD -->
+    <div id="graveyard" class="tab-pane">
+      <div style="margin-bottom: 2rem;">
+        <h2>The Epistemic Graveyard: Retired & Deprecated Interventions</h2>
+        <p style="color: var(--text-secondary);">
+          Ruthless pruning of hypotheses when empirical human trials or biophysical realities contradict theoretical enthusiasm.
+        </p>
+      </div>
+
+      <div class="cards-grid">
+        <div class="recipe-card" style="border-left: 4px solid var(--accent-rose);">
+          <span class="badge badge-retired">RET-01</span>
+          <h3 class="card-title" style="margin-top: 0.5rem;">Chronic Daily Metformin in Resistance Lifters</h3>
+          <p class="card-desc">
+            <strong>Cause of Termination:</strong> MASTERS Trial (Walton et al., Aging Cell 2019) demonstrated 30-50% blunting of muscle hypertrophy and impaired mitochondrial respiration. Replaced with Acarbose (Module 01) which acts purely in gut lumen.
+          </p>
+        </div>
+
+        <div class="recipe-card" style="border-left: 4px solid var(--accent-rose);">
+          <span class="badge badge-retired">RET-02</span>
+          <h3 class="card-title" style="margin-top: 0.5rem;">Dasatinib + Quercetin (D+Q) Senolytics</h3>
+          <p class="card-desc">
+            <strong>Cause of Termination:</strong> Off-target hematological toxicities, pleural effusions, and pulmonary arterial hypertension risks from dasatinib tyrosine kinase inhibition. Replaced with Mayo Pulsed Fisetin (Module 14).
+          </p>
+        </div>
+
+        <div class="recipe-card" style="border-left: 4px solid var(--accent-rose);">
+          <span class="badge badge-retired">RET-03</span>
+          <h3 class="card-title" style="margin-top: 0.5rem;">Continuous C60 Fullerene in Olive Oil (Baati Protocol)</h3>
+          <p class="card-desc">
+            <strong>Cause of Termination:</strong> Independent replication failure (Grohn et al., 2021) and light-induced phototoxicity generating cytotoxic epoxides with indefinite tissue bioaccumulation. Replaced by SS-31 and DLPC (Modules 04, 35).
+          </p>
+        </div>
+
+        <div class="recipe-card" style="border-left: 4px solid var(--accent-rose);">
+          <span class="badge badge-retired">RET-04</span>
+          <h3 class="card-title" style="margin-top: 0.5rem;">Supraphysiological TRT & Continuous rhGH</h3>
+          <p class="card-desc">
+            <strong>Cause of Termination:</strong> Complete HPG axis shutdown, elevated hematocrit/thrombotic risks, insulin resistance, and oncogenic transformation risks. Replaced with Enclomiphene microdosing (Module 17) and pulsatile GHRH/GHRP secretagogues (Module 19).
+          </p>
+        </div>
+
+        <div class="recipe-card" style="border-left: 4px solid var(--accent-rose);">
+          <span class="badge badge-retired">RET-05</span>
+          <h3 class="card-title" style="margin-top: 0.5rem;">Chronic High-Dose Non-Selective Antioxidants Post-Workout</h3>
+          <p class="card-desc">
+            <strong>Cause of Termination:</strong> Landmark trials (Ristow et al., PNAS 2009; Paulsen et al., 2014) proved post-workout mega-dose Vitamin C & E blunts PGC-1alpha and exercise adaptations. Replaced by strict timing separation and PQQ (Module 05).
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="KENALEY_LONGEVITY_V5_MASTER_LLM.md">🤖 Lossless LLM Master (.md)</a>
+      <a href="Kenaley_Longevity_Whitepaper_v5.pdf">📄 Whitepaper PDF</a>
+      <a href="Kenaley_Pillbox_Matrix_Card.pdf">💊 Pillbox Matrix PDF</a>
+      <a href="Kenaley_Protocol_Interventions_Index.xlsx">📊 Interventions Excel (.xlsx)</a>
+    </div>
+    <p>The Kenaley Longevity Protocol v5.0 &copy; 2026 Ryan Kenaley. Rejuvenation Olympics Benchmark.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
