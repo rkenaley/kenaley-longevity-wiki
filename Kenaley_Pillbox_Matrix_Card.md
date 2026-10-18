@@ -18,8 +18,10 @@
 | **`24`** | **Cat's Claw (AC-11)** | 350–700 mg | 1–2 capsules | PARP / Base Excision Repair & NF-$\kappa$B suppression |
 
 > **⚠️ NON-PILLBOX AM ITEMS:**
-> * **Module `22` (Selegiline):** 0.25 mg **sublingual** tablet (Mon / Wed / Fri only). *Do not swallow whole.*
-> * **Module `37` (Morning Option):** Restorative Broth Drink (15 g Collagen Peptides + Liposomal Vit C).
+> * **Module `22` (Selegiline):** 
+>   * *Option A (Sublingual):* 0.25 mg sublingual tablet (Mon / Wed / Fri only). *Dissolve under tongue; do not swallow.*
+>   * *Option B (Swallowed / Kiesow Method):* 1.25 mg oral swallowed (1/4 of a 5 mg generic tablet, Mon–Fri, weekends off). ~90% first-pass hepatic clearance yields 0.12–0.15 mg systemic parent selegiline with mild neuroprotective amine metabolites.
+> * **Module `37` (Morning / Pre-Workout Option):** Restorative Broth Drink (15 g Collagen Peptides + 500 mg Liposomal Vit C + 200–500 mg High-Molecular-Weight Hyaluronic Acid).
 
 ---
 
@@ -75,13 +77,14 @@
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🫐 DAILY POWDER SMOOTHIE (Carb-Only / 10:00 AM)                            │
 │ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
-│ • Chondroitin Sulfate: 1,200 mg   • Taurine Powder: 2.0–3.0 g               │
-│ • Amla Powder: 2.0–3.0 g          • Pure Glycine: 5.0–10.0 g                │
-│ • Super-Greens Powder: 5.0–10.0 g • Agaricus blazei: 500–1,000 mg           │
-│ • Creatine Monohydrate: 5.0 g                                               │
+│ • Chondroitin Sulfate: 1,200 mg (STRICTLY NO Glucosamine: anti-glycation)  │
+│ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 allosteric activator)   │
+│ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g               │
+│ • Pure Glycine: 5.0–10.0 g        • Super-Greens Powder: 5.0–10.0 g         │
+│ • Agaricus blazei: 500–1,000 mg   • Creatine Monohydrate: 5.0 g             │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🥣 TENDON / PRE-WORKOUT BROTH (15:00 or Morning)                            │
-│ 12-16 oz Warm Broth (Better Than Bouillon) + 15 g Collagen + Liposomal C    │
+│ 12-16 oz Warm Broth + 15 g Collagen + Liposomal C + 200–500 mg HMW-HA       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (20:45)                                        │
 │ 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave)            │
@@ -91,7 +94,7 @@
 │ 2. Apply topical Tretinoin 0.05% to face (`32`)                             │
 │ 3. 15-minute pre-sleep auricular taVNS session (left tragus - `31`)        │
 │ 4. Apply 3M Micropore surgical mouth tape horizontally (`31`)               │
-│ 5. Verify bedroom ERV ventilation running (CO2 < 750 ppm / 66°F - `33`)     │
+│ 5. Optional Needle-Free Travel Fallback: 5.0–8.0 g L-Ornithine + Choline (`19`)
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -108,6 +111,8 @@
 | **Quarterly**| **Pascoe TPE / Apheresis (`15`)** | 800 mL donor plasma donation $\to$ Post-donation Whey + EAAs + GlyNAC + Silymarin | Reconstitution stack taken immediately post-apheresis. |
 | **Quarterly**| **Turnbuckle Fission Shock (`03`)**| Days 1–2: NMN (500mg) + TMG (1g) fission $\to$ Days 3–7: PQQ (20mg) + DLPC (2.4g) fusion | Fumarate IMM latching separated by $\ge 24\text{h}$ from Slot 1 Ca-AKG (`23`). |
 | **Semiannual**| **Khavinson Epitalon Pulse (`20`)**| 5–10 mg Ala-Glu-Asp-Gly SC morning injection daily $\times$ 10 consecutive days | Subcutaneous injection taken upon waking alongside Slot 1. |
-| **Semiannual**| **Concentrated HBOT Block (`29`)** | 20–30 sessions @ 2.0 ATA with air breaks (Hyperoxic-Hypoxic Paradox) | Enforce strict 4-hour antioxidant exclusion window before/after. |
+| **Semiannual**| **TM5614 (RS5614) PAI-1 Pulse (`40`)**| 60–120 mg oral daily $\times$ 30–60 days (PAI-1 clearance, PCSK9 reduction, stem cell niche) | Take in the morning with Slot 1 or Meal 1. |
+| **Annual**    | **Concentrated HBOT Block (`29`)** | 20–30 sessions @ 2.0 ATA with air breaks (Hyperoxic-Hypoxic Paradox) | Enforce strict 4-hour antioxidant exclusion window before/after. |
 | **Biennial**  | **TRIIM Thymic Pulse (`19`)**      | 6-week pulse: Ipamorelin/CJC-1295 + DHEA (50mg) + Acarbose + Zinc (30mg) | Administered nightly before bed during the 6-week window only. |
+
 

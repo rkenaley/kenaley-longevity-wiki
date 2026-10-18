@@ -192,8 +192,10 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 | **`24`** | **Cat's Claw (AC-11)** | 350–700 mg | 1–2 capsules | PARP / Base Excision Repair & NF-$\kappa$B suppression |
 
 > **⚠️ NON-PILLBOX AM ITEMS:**
-> * **Module `22` (Selegiline):** 0.25 mg **sublingual** tablet (Mon / Wed / Fri only). *Do not swallow whole.*
-> * **Module `37` (Morning Option):** Restorative Broth Drink (15 g Collagen Peptides + Liposomal Vit C).
+> * **Module `22` (Selegiline):** 
+>   * *Option A (Sublingual):* 0.25 mg sublingual tablet (Mon / Wed / Fri only). *Dissolve under tongue; do not swallow.*
+>   * *Option B (Swallowed / Kiesow Method):* 1.25 mg oral swallowed (1/4 of a 5 mg generic tablet, Mon–Fri, weekends off). ~90% first-pass hepatic clearance yields 0.12–0.15 mg systemic parent selegiline with mild neuroprotective amine metabolites.
+> * **Module `37` (Morning / Pre-Workout Option):** Restorative Broth Drink (15 g Collagen Peptides + 500 mg Liposomal Vit C + 200–500 mg High-Molecular-Weight Hyaluronic Acid).
 
 ---
 
@@ -249,13 +251,14 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🫐 DAILY POWDER SMOOTHIE (Carb-Only / 10:00 AM)                            │
 │ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
-│ • Chondroitin Sulfate: 1,200 mg   • Taurine Powder: 2.0–3.0 g               │
-│ • Amla Powder: 2.0–3.0 g          • Pure Glycine: 5.0–10.0 g                │
-│ • Super-Greens Powder: 5.0–10.0 g • Agaricus blazei: 500–1,000 mg           │
-│ • Creatine Monohydrate: 5.0 g                                               │
+│ • Chondroitin Sulfate: 1,200 mg (STRICTLY NO Glucosamine: anti-glycation)  │
+│ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 allosteric activator)   │
+│ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g               │
+│ • Pure Glycine: 5.0–10.0 g        • Super-Greens Powder: 5.0–10.0 g         │
+│ • Agaricus blazei: 500–1,000 mg   • Creatine Monohydrate: 5.0 g             │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🥣 TENDON / PRE-WORKOUT BROTH (15:00 or Morning)                            │
-│ 12-16 oz Warm Broth (Better Than Bouillon) + 15 g Collagen + Liposomal C    │
+│ 12-16 oz Warm Broth + 15 g Collagen + Liposomal C + 200–500 mg HMW-HA       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (20:45)                                        │
 │ 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave)            │
@@ -265,7 +268,7 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 │ 2. Apply topical Tretinoin 0.05% to face (`32`)                             │
 │ 3. 15-minute pre-sleep auricular taVNS session (left tragus - `31`)        │
 │ 4. Apply 3M Micropore surgical mouth tape horizontally (`31`)               │
-│ 5. Verify bedroom ERV ventilation running (CO2 < 750 ppm / 66°F - `33`)     │
+│ 5. Optional Needle-Free Travel Fallback: 5.0–8.0 g L-Ornithine + Choline (`19`)
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -282,8 +285,10 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 | **Quarterly**| **Pascoe TPE / Apheresis (`15`)** | 800 mL donor plasma donation $\to$ Post-donation Whey + EAAs + GlyNAC + Silymarin | Reconstitution stack taken immediately post-apheresis. |
 | **Quarterly**| **Turnbuckle Fission Shock (`03`)**| Days 1–2: NMN (500mg) + TMG (1g) fission $\to$ Days 3–7: PQQ (20mg) + DLPC (2.4g) fusion | Fumarate IMM latching separated by $\ge 24\text{h}$ from Slot 1 Ca-AKG (`23`). |
 | **Semiannual**| **Khavinson Epitalon Pulse (`20`)**| 5–10 mg Ala-Glu-Asp-Gly SC morning injection daily $\times$ 10 consecutive days | Subcutaneous injection taken upon waking alongside Slot 1. |
-| **Semiannual**| **Concentrated HBOT Block (`29`)** | 20–30 sessions @ 2.0 ATA with air breaks (Hyperoxic-Hypoxic Paradox) | Enforce strict 4-hour antioxidant exclusion window before/after. |
+| **Semiannual**| **TM5614 (RS5614) PAI-1 Pulse (`40`)**| 60–120 mg oral daily $\times$ 30–60 days (PAI-1 clearance, PCSK9 reduction, stem cell niche) | Take in the morning with Slot 1 or Meal 1. |
+| **Annual**    | **Concentrated HBOT Block (`29`)** | 20–30 sessions @ 2.0 ATA with air breaks (Hyperoxic-Hypoxic Paradox) | Enforce strict 4-hour antioxidant exclusion window before/after. |
 | **Biennial**  | **TRIIM Thymic Pulse (`19`)**      | 6-week pulse: Ipamorelin/CJC-1295 + DHEA (50mg) + Acarbose + Zinc (30mg) | Administered nightly before bed during the 6-week window only. |
+
 
 
 
@@ -311,6 +316,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 
 ### Ingredients & Preparation
 * **15 g Hydrolyzed Collagen Peptides** (Type I & III, pasture-raised bovine or marine).
+* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA):** Soluble linear glycosaminoglycan that binds to aggrecan and CD44 in cartilage and intervertebral discs, stimulating endogenous synoviocyte HA synthesis and retaining axial disc hydration.
 * **12–16 oz Warm Broth Base:** 
   * High-quality commercial or homemade bone/cartilage stock, OR
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
@@ -375,14 +381,27 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 │ 🧪 THE POWDER PAYLOAD                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Chondroitin Sulfate: 1,200 mg (Extracellular matrix / CD44 signaling)    │
-│ 2. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
-│ 3. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
-│ 4. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
-│ 5. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
-│ 6. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
-│ 7. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
+│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 activator)     │
+│ 3. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
+│ 4. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
+│ 5. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
+│ 6. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
+│ 7. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
+│ 8. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+### The Anti-Glycation Mandate: Why Chondroitin Sulfate is Selected and Glucosamine is Strictly Excluded
+A foundational principle of the Kenaley Architecture (Module 36 & Module 37) is the **strict exclusion of oral Glucosamine**. While ubiquitous in commercial joint supplements, Glucosamine is an unchelated, open-chain amino monosaccharide ($C_6H_{13}NO_5$) carrying a reactive free amino group. 
+
+* **The Hexosamine & Glycation Trap:** Free oral glucosamine enters enterocytes and systemic circulation, feeding directly into the **hexosamine biosynthetic pathway (HBP)**. In circulating plasma and interstitial fluid, free amino sugars readily react non-enzymatically with glucose, fructose, and structural proteins via the classical Maillard reaction. This generates highly reactive $\alpha$-dicarbonyl intermediates—specifically **methylglyoxal (MGO)** and **3-deoxyglucosone**—which accelerate the irreversible formation of **Advanced Glycation End-Products (AGEs)** such as glucosepane crosslinks on long-lived articular cartilage collagen, vascular elastin, and basement membranes.
+* **The Chondroitin Solution:** Conversely, **Chondroitin Sulfate** is an already fully polymerized, high-molecular-weight sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$). Because its reactive hemiacetal/aldehyde carbons are securely locked within rigid $\beta\text{-(1}\to\text{3)}$ and $\beta\text{-(1}\to\text{4)}$ glycosidic bonds, **Chondroitin CANNOT participate in open-chain reducing sugar glycation**. It safely binds up to 1,000 times its volume in water, provides hydrostatic compressive resilience to cartilage, downregulates catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses NF-$\kappa$B inflammatory signaling without any glycation liability.
+
+### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
+The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
+* Cyanidin binds directly to an allosteric pocket on SIRT6, accelerating the catalytic deacetylation of histone **H3 lysine 9 (H3K9ac)** and **H3 lysine 56 (H3K56ac)**.
+* This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
+* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
 
 ### Blending Instructions
 1. Add the cold water/coconut water and lemon juice to a high-speed blender container.
@@ -843,6 +862,16 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
   2. **Coronary Artery Plaque Quantification:** Cleerly Coronary CT Angiography (quantitative tracking of total plaque volume, low-attenuation non-calcified vulnerable plaque, and calcified atheroma).
   3. **Body Composition & Bone Mineral Density:** Full-body DEXA scan (tracking visceral adipose tissue [VAT $< 0.5\text{ lbs}$] and femoral/lumbar T-scores).
   4. **Brain & Systemic Oncological MRI:** Whole-body MRI scan (evaluating silent subclinical oncological lesions, cerebral small vessel disease, and ventricular volumes).
+
+### D. Frontier Infradian Pulse Candidate: TM5614 (RS5614) Oral PAI-1 Inhibitor Pulse
+* **The Biological Rationale:** The landmark discovery of the Berne, Indiana Old Order Amish cohort carrying a heterozygous null mutation in *SERPINE1* (encoding Plasminogen Activator Inhibitor-1, PAI-1) demonstrated that lifelong ~50% PAI-1 reduction produces an average **7-year human lifespan extension**, 10% longer telomeres, 28% lower fasting insulin, and complete absence of diabetes and vascular stiffening.
+* **The Senolytic & Stem Cell Mechanism:** PAI-1 is a cornerstone component of the Senescence-Associated Secretory Phenotype (SASP). Elevated PAI-1 locks cells into senescent arrest, drives organ fibrosis, and traps the bone marrow hematopoietic stem cell (HSC) niche in dormancy. **TM5614** (developed by Tohoku University / Renascience and an XPRIZE Healthspan candidate) is an orally bioavailable small-molecule PAI-1 inhibitor that blocks the vitronectin-binding site of active PAI-1.
+* **The Proposed Infradian Protocol:**
+  * **Cadence:** 30-day to 60-day concentrated annual or semi-annual pulse.
+  * **Dosing:** 60 mg to 120 mg oral daily with breakfast.
+  * **Downstream Synergy:** Downregulates hepatic PCSK9 transcription (further lowering ApoB), clears fibrotic senescent niches in lungs, kidneys, and vasculature, and mobilizes endogenous HSCs for systemic regeneration.
+  * **Surveillance:** Baseline and Day-30 PT/INR, aPTT, fibrinogen, and liver panel (ALT/AST).
+
 
 
 ---
@@ -1901,7 +1930,12 @@ Must be taken in a completely fasted state (insulin blunts GH release). Continuo
 ---
 
 ## 5. Precise Operational Protocol
-100mcg Ipamorelin + 100mcg CJC-1295 No-DAC injected subcutaneously immediately pre-bed, strictly 5 days on / 2 days off, in a 3-hour fasted state.
+* **Primary Protocol (Pulsatile SubQ):** 100–200 mcg Ipamorelin + 100 mcg CJC-1295 No-DAC injected subcutaneously immediately before bed, strictly 5 nights on / 2 nights off, in a minimum 3-hour postprandial fasted state.
+* **Secondary / Needle-Free Travel Fallback Protocol (The Kiesow Oral Method):**
+  * *Context:* When traveling internationally, flying through customs without refrigerated peptide transport, or during off-cycle peptide washout periods.
+  * *Dosing:* **5.0 g to 8.0 g pure L-Ornithine powder** + 250–500 mg Choline Bitartrate / Alpha-GPC dissolved in 8 oz cold RO water, ingested 30 minutes before sleep on an empty stomach (3+ hours post-dinner).
+  * *Mechanism:* Discovered empirically by Paul Kiesow (1998 *Life Extension* protocol), oral L-ornithine enhances nocturnal growth hormone release by suppressing hypothalamic somatostatin tone, clearing hepatic ammonia, and promoting GABAergic slow-wave sleep. Kiesow famously credited bedtime ornithine with intervertebral disc rehydration and a measured +1.125-inch axial stature expansion.
+  * *Safety Boundary:* **Cap dose at 8.0 g maximum.** Doses exceeding 10–12 g risk severe osmotic hyperosmolar diarrhea, cramping, and excessive polyamine pathway flux (ODC activity).
 
 ---
 
@@ -1912,12 +1946,13 @@ Must be taken in a completely fasted state (insulin blunts GH release). Continuo
 ---
 
 ## 7. Epistemic Frontier Questions (For Advanced AI Interrogation)
-> What is the exact nocturnal area-under-the-curve threshold for IGF-1 that stimulates thymic epithelial regeneration without suppressing cellular macroautophagy?
-
+> What is the exact nocturnal area-under-the-curve threshold for IGF-1 that stimulates thymic epithelial regeneration without suppressing cellular macroautophagy, and does high-dose oral ornithine increase intervertebral disc proteoglycan synthesis via mechanical swelling pressure or direct somatotroph-mediated IGF-1 secretion?
 
 ---
+
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
 * **Collision 1 Resolution (Confined to Biennial 6-Week TRIIM Thymic Pulse):** Chronic nightly GH/IGF-1 elevation activates AKT/mTORC1, phosphorylating ULK1 at Ser757 and TFEB at Ser142/211 (blocking `06_Urolithin_A` and `07_Spermidine` autophagy) while accelerating HSC proliferation and **DunedinPACE**. Restrict CJC-1295/Ipamorelin strictly to a **6-week biennial TRIIM-Mimetic Thymic Regeneration Block** co-administered with **DHEA (25–50 mg), Zinc (30 mg), and Acarbose (`01`)/Metformin (500 mg)**. Maintain baseline IGF-1 at $110\text{–}140\text{ ng/mL}$ outside this pulse.
+* **Travel Bridging:** During international travel or non-injection blocks, transition seamlessly to the **L-Ornithine (5–8 g) Oral Fallback** to sustain nocturnal GH pulsatility and deep delta sleep without regulatory or refrigeration friction.
 
 
 ---
@@ -2066,7 +2101,11 @@ Absolute contraindication with SSRIs, SNRIs, tramadol, and strong sympathomimeti
 ---
 
 ## 5. Precise Operational Protocol
-1.0mg oral or 0.5mg sublingual daily taken in the morning with water.
+* **Option A: The Sublingual Route (Maximum Parent Compound Bioavailability):** 0.25 mg to 0.5 mg sublingual taken Monday, Wednesday, and Friday morning upon waking. Dissolve under the tongue for 3-5 minutes. Bypasses hepatic first-pass metabolism by ~800%, delivering pure parent drug to the central nervous system with minimal amphetamine metabolites.
+* **Option B: The Paul Kiesow Swallowed Tablet Protocol (Classic 30-Year Regimen):** 1.25 mg oral swallowed daily, 5 days per week (Monday through Friday, weekends off). 
+  * *Preparation:* Use a precision pill splitter to cut a standard 5 mg tablet (e.g., generic Eldepryl or Selgin) into 4 equal quarters.
+  * *Pharmacokinetics:* Swallowing incurs ~90% first-pass hepatic clearance via CYP2A6, CYP2C19, and CYP3A4, leaving ~0.12–0.15 mg of systemic parent selegiline (achieving striatal MAO-B active-site inhibition comparable to 0.25 mg sublingual) while generating modest physiological concentrations of neuroprotective L-methamphetamine and L-amphetamine metabolites.
+* **Economic Sourcing:** Standard pharmaceutical-grade generic selegiline 5 mg (e.g., Jivan Medical / Indian pharma Selgin) retails at ~INR 85 (~$1.00 USD) per 10-tablet blister strip. At 1.25 mg/day (5 days/week), one blister strip provides a 2-month supply, reducing monthly operational cost to under $0.50 / month.
 
 ---
 
@@ -2077,12 +2116,13 @@ Absolute contraindication with SSRIs, SNRIs, tramadol, and strong sympathomimeti
 ---
 
 ## 7. Epistemic Frontier Questions (For Advanced AI Interrogation)
-> What is the molecular binding target of selegiline's catecholaminergic activity enhancer (CAE) effect on vesicular monoamine transporters (VMAT2) in dopaminergic terminals?
-
+> What is the molecular binding target of selegiline's catecholaminergic activity enhancer (CAE) effect on vesicular monoamine transporters (VMAT2) in dopaminergic terminals, and how does the trace L-methamphetamine metabolite generated via the swallowed route contribute to neurotrophin (BDNF/GDNF) expression compared to pure sublingual delivery?
 
 ---
+
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
-* **Route & Collision 4 Guardrail:** Administer **0.25–0.5 mg Sublingually (Mon/Wed/Fri in Phase 1)** to bypass hepatic CYP2B6 first-pass conversion into L-methamphetamine and L-amphetamine metabolites. **Strictly forbid co-administration with `27` (Mucuna pruriens or DMHA)** to prevent cytosolic dopamine-$o$-quinone autoxidation and nocturnal resting heart rate (RHR) elevation.
+* **Dual-Route Flexibility:** Trainees may utilize either **0.25 mg Sublingual (M/W/F)** or **1.25 mg Oral Swallowed (Mon–Fri, Kiesow quarter-tablet method)**. Both maintain >95% intestinal and hepatic MAO-A activity, completely eliminating tyramine pressor liability ("cheese effect").
+* **Collision Guardrail:** **Strictly forbid co-administration with `27` (Mucuna pruriens or DMHA)** or high-dose sympathomimetics to prevent cytosolic dopamine-$o$-quinone autoxidation and nocturnal resting heart rate (RHR) elevation. Maintain minimum 10-hour clearance before bedtime to prevent sleep architecture interference.
 
 
 ---
@@ -2929,6 +2969,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 
 ### Ingredients & Preparation
 * **15 g Hydrolyzed Collagen Peptides** (Type I & III, pasture-raised bovine or marine).
+* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA):** Soluble linear glycosaminoglycan that binds to aggrecan and CD44 in cartilage and intervertebral discs, stimulating endogenous synoviocyte HA synthesis and retaining axial disc hydration.
 * **12–16 oz Warm Broth Base:** 
   * High-quality commercial or homemade bone/cartilage stock, OR
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
@@ -2993,14 +3034,27 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 │ 🧪 THE POWDER PAYLOAD                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Chondroitin Sulfate: 1,200 mg (Extracellular matrix / CD44 signaling)    │
-│ 2. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
-│ 3. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
-│ 4. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
-│ 5. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
-│ 6. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
-│ 7. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
+│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 activator)     │
+│ 3. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
+│ 4. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
+│ 5. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
+│ 6. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
+│ 7. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
+│ 8. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+### The Anti-Glycation Mandate: Why Chondroitin Sulfate is Selected and Glucosamine is Strictly Excluded
+A foundational principle of the Kenaley Architecture (Module 36 & Module 37) is the **strict exclusion of oral Glucosamine**. While ubiquitous in commercial joint supplements, Glucosamine is an unchelated, open-chain amino monosaccharide ($C_6H_{13}NO_5$) carrying a reactive free amino group. 
+
+* **The Hexosamine & Glycation Trap:** Free oral glucosamine enters enterocytes and systemic circulation, feeding directly into the **hexosamine biosynthetic pathway (HBP)**. In circulating plasma and interstitial fluid, free amino sugars readily react non-enzymatically with glucose, fructose, and structural proteins via the classical Maillard reaction. This generates highly reactive $\alpha$-dicarbonyl intermediates—specifically **methylglyoxal (MGO)** and **3-deoxyglucosone**—which accelerate the irreversible formation of **Advanced Glycation End-Products (AGEs)** such as glucosepane crosslinks on long-lived articular cartilage collagen, vascular elastin, and basement membranes.
+* **The Chondroitin Solution:** Conversely, **Chondroitin Sulfate** is an already fully polymerized, high-molecular-weight sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$). Because its reactive hemiacetal/aldehyde carbons are securely locked within rigid $\beta\text{-(1}\to\text{3)}$ and $\beta\text{-(1}\to\text{4)}$ glycosidic bonds, **Chondroitin CANNOT participate in open-chain reducing sugar glycation**. It safely binds up to 1,000 times its volume in water, provides hydrostatic compressive resilience to cartilage, downregulates catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses NF-$\kappa$B inflammatory signaling without any glycation liability.
+
+### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
+The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
+* Cyanidin binds directly to an allosteric pocket on SIRT6, accelerating the catalytic deacetylation of histone **H3 lysine 9 (H3K9ac)** and **H3 lysine 56 (H3K56ac)**.
+* This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
+* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
 
 ### Blending Instructions
 1. Add the cold water/coconut water and lemon juice to a high-speed blender container.
@@ -3461,6 +3515,16 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
   2. **Coronary Artery Plaque Quantification:** Cleerly Coronary CT Angiography (quantitative tracking of total plaque volume, low-attenuation non-calcified vulnerable plaque, and calcified atheroma).
   3. **Body Composition & Bone Mineral Density:** Full-body DEXA scan (tracking visceral adipose tissue [VAT $< 0.5\text{ lbs}$] and femoral/lumbar T-scores).
   4. **Brain & Systemic Oncological MRI:** Whole-body MRI scan (evaluating silent subclinical oncological lesions, cerebral small vessel disease, and ventricular volumes).
+
+### D. Frontier Infradian Pulse Candidate: TM5614 (RS5614) Oral PAI-1 Inhibitor Pulse
+* **The Biological Rationale:** The landmark discovery of the Berne, Indiana Old Order Amish cohort carrying a heterozygous null mutation in *SERPINE1* (encoding Plasminogen Activator Inhibitor-1, PAI-1) demonstrated that lifelong ~50% PAI-1 reduction produces an average **7-year human lifespan extension**, 10% longer telomeres, 28% lower fasting insulin, and complete absence of diabetes and vascular stiffening.
+* **The Senolytic & Stem Cell Mechanism:** PAI-1 is a cornerstone component of the Senescence-Associated Secretory Phenotype (SASP). Elevated PAI-1 locks cells into senescent arrest, drives organ fibrosis, and traps the bone marrow hematopoietic stem cell (HSC) niche in dormancy. **TM5614** (developed by Tohoku University / Renascience and an XPRIZE Healthspan candidate) is an orally bioavailable small-molecule PAI-1 inhibitor that blocks the vitronectin-binding site of active PAI-1.
+* **The Proposed Infradian Protocol:**
+  * **Cadence:** 30-day to 60-day concentrated annual or semi-annual pulse.
+  * **Dosing:** 60 mg to 120 mg oral daily with breakfast.
+  * **Downstream Synergy:** Downregulates hepatic PCSK9 transcription (further lowering ApoB), clears fibrotic senescent niches in lungs, kidneys, and vasculature, and mobilizes endogenous HSCs for systemic regeneration.
+  * **Surveillance:** Baseline and Day-30 PT/INR, aPTT, fibrinogen, and liver panel (ALT/AST).
+
 
 
 ---
