@@ -101,6 +101,10 @@ MODULE_IMAGES = {
         {"file": "Epitalon divide these doses by 10.PNG", "caption": "Infradian Peptide Pulses: Pineal Epitalon 10-Day Semiannual Reset"},
         {"file": "Stem CEll Factors.jpg", "caption": "Infradian Regenerative Niche: TPE & FMD Stem Cell Mobilization"},
         {"file": "Yamanake molecules.PNG", "caption": "Long-Term Epigenetic Drift Interception via Periodic Infradian Cadence"}
+    ],
+    41: [
+        {"file": "Stem CEll Factors.jpg", "caption": "PAI-1 Inhibition: Hematopoietic Stem Cell Mobilization & Epigenetic Clock Reversal"},
+        {"file": "Antiaging Summary.jpg", "caption": "SASP Suppression & Extracellular Matrix Microvascular Restoration"}
     ]
 }
 
@@ -118,7 +122,7 @@ def get_html_filename(mod_num, name=""):
         30: "30_photobiomodulation_pbm.html", 31: "31_sleep_architecture_tavns.html", 32: "32_topical_dermatology.html",
         33: "33_environmental_defense.html", 34: "34_oral_microbiome_nitrate.html", 35: "35_cardiolipin_remodeling.html",
         36: "36_ecm_glycation_defense.html", 37: "37_precision_nutrition_recipes.html", 38: "38_athletic_bmt_sprinting.html",
-        39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html"
+        39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html", 41: "41_tm5614_oral_pai1_inhibitor.html"
     }
     return slug_map.get(mod_num, f"{mod_num:02d}.html")
 
@@ -145,7 +149,7 @@ def build_subpages(csv_items):
         if m:
             csv_by_mod[int(m.group(1))] = item
 
-    for mod_num in range(1, 41):
+    for mod_num in range(1, 42):
         matches = [f for f in os.listdir(INTERVENTIONS_DIR) if re.match(rf"^{mod_num:02d}_.*\.md$", f)]
         if not matches:
             print(f"Warning: No markdown found for module {mod_num}")
@@ -198,7 +202,7 @@ def build_subpages(csv_items):
             prev_link_html = '<div></div>'
 
         next_link_html = ""
-        if mod_num < 40:
+        if mod_num < 41:
             next_file = get_html_filename(mod_num + 1)
             next_row = csv_by_mod.get(mod_num + 1, {})
             next_title = f"INT-{mod_num+1:02d}: {next_row.get('Intervention', '')}"
@@ -306,7 +310,7 @@ def build_subpages(csv_items):
         with open(subpage_path, "w", encoding="utf-8") as f:
             f.write(full_html)
             
-    print(f"Generated 40 subpages in {os.path.join(WIKI_DIR, 'modules')}")
+    print(f"Generated subpages in {os.path.join(WIKI_DIR, 'modules')}")
 
 def main():
     print("Re-running Kenaley Longevity Protocol Wiki Build with refined markdown parser...")

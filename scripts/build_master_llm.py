@@ -59,14 +59,14 @@ def main():
 > 6. **Athletic Performance Architecture: Zac Goodman BMT, Dynamic Tendon Recoil & CNS Sprinting (Module 38)**
 > 7. **Valter Longo 5-Day Fasting Mimicking Diet (FMD) & Autophagic Purge (Module 39)**
 > 8. **The Infradian Master Architecture: Monthly to Annual Pulsed Protocols (Module 40)**
-> 9. **The Complete 40-Module Interventions Ledger (Dosing, Pharmacokinetics, Biophysical Mechanisms, Cofactors, Failure Modes, Surveillance Biomarkers, Kill Criteria, Epistemic Frontier Questions)**
+> 9. **The Complete 41-Module Interventions Ledger (Dosing, Pharmacokinetics, Biophysical Mechanisms, Cofactors, Failure Modes, Surveillance Biomarkers, Kill Criteria, Epistemic Frontier Questions)**
 > 10. **The Epistemic Graveyard (Retired Interventions & Rationale)**
 > 11. **Comprehensive Drug-Drug Interaction & Kinetic Collision Safety Matrix**
 > 12. **Surveillance Biomarker Reference Ranges & Laboratory Testing Schedule**
 >
 > **HOW YOU MUST RESPOND WHEN QUERIED ON THIS PROTOCOL:**
 > - **Act as an elite Longevity Physician-Biophysicist** versed in molecular biology, pharmacology, endocrinology, and biomechanics.
-> - **Cross-reference user questions against the exact 40 modules, pillbox slots, and kinetic collision rules.**
+> - **Cross-reference user questions against the exact 41 modules, pillbox slots, and kinetic collision rules.**
 > - **Biomarker Analysis:** When the user provides their personal lab test results (ApoB, hsCRP, cystatin C, HbA1c, HOMA-IR, Total/Free Testosterone, Estradiol, LH, FSH, SHBG, IGF-1, etc.), compare them strictly against the quantified target reference ranges in this whitepaper. Identify out-of-range markers, highlight underlying biophysical drivers, and suggest specific titration adjustments or cofactors according to the protocol rules.
 > - **Personalized Recommendations:** Always respect the separation between daily maintenance and infradian pulses (e.g., never take senolytics or mitochondrial fission inducers continuously; maintain the strict separation between AMPK/autophagy windows and post-workout mTOR/hypertrophy windows; observe acarbose starch requirements).
 > - **Safety First:** If a proposed compound or dose risks drug-drug interactions (e.g., Tadalafil + Nitrates, Acarbose on zero-carb meals, Selegiline + high-dose Tyramine, high-dose unchelated minerals, or excessive aromatase inhibition), immediately flag the contraindication with clear biochemical explanations.
@@ -95,14 +95,39 @@ Every intervention is classified under an **Evidence Grade (E1 to E5)** and assi
    Restoration of inner mitochondrial membrane (IMM) cristae architecture via cardiolipin protection (SS-31, DLPC), biogenesis (PQQ), mitophagy (Urolithin A), hypusination-driven autophagy (Spermidine), and cyclic fission/fusion clearing.
 3. **Pillar III: Cardiovascular Hemodynamics, Endothelial Glycocalyx & Atherosclerosis Eradication** (Modules 08, 09, 10, 11, 12, 13, 34)  
    Aggressive lifetime ApoB reduction (<35 mg/dL), heparan sulfate endothelial glycocalyx shielding, continuous microdose cGMP/eNOS tone, vascular elastin decalcification (K2 MK-7), and enterosalivary nitrate engine activation.
-4. **Pillar IV: Cellular Senescence, Senolytics & Hematological Cleansing** (Modules 14, 15, 16)  
-   Intermittent hit-and-run senolytic clearance of senescent cells (Mayo pulsed Fisetin), therapeutic donor plasmapheresis / neutral blood exchange (TPE) to dilute pro-aging systemic circulating factors, and immediate albumin/electrolyte remineralization.
+4. **Pillar IV: Cellular Senescence, Senolytics & Hematological Cleansing** (Modules 14, 15, 16, 41)  
+   Intermittent hit-and-run senolytic clearance of senescent cells (Mayo pulsed Fisetin), oral PAI-1 serpin inhibition for stem cell niche rejuvenation (TM5614), therapeutic donor plasmapheresis / neutral blood exchange (TPE) to dilute pro-aging systemic circulating factors, and immediate albumin/electrolyte remineralization.
 5. **Pillar V: Endocrine Homeostasis, Anabolic Maintenance & Pulsatile Peptides** (Modules 17, 18, 19, 20, 21)  
    Preservation of youthful androgenic and growth hormone signaling without axis shutdown: pure trans-enclomiphene microdosing, suicidal aromatase titration (exemestane), nocturnal pulsatile GHRH/GHRP secretagogues (Ipamorelin/CJC-1295), SHBG displacement, and pineal bioregulation (Epitalon).
 6. **Pillar VI: Neuro-Endocrine Optimization, Nootropics & Neuroprotection** (Modules 22, 23, 24, 25, 26, 27)  
    Sub-microdose MAO-B inhibition for nigrostriatal dopamine preservation (Paul Kiesow selegiline), TET-mediated DNA demethylation (Calcium-AKG), PARP-1 DNA repair (AC-11), GSK-3beta inhibition (lithium orotate), cholinergic membrane fluidity (piracetam/CDP-choline), and neurotrophic apothecary support.
 7. **Pillar VII: Systems Biology, Hardware & Environmental Engineering** (Modules 28, 29, 30, 31, 32, 33, 36, 38, 39, 40)  
    Finnish thermal hyperthermia (HSP70), protocolized HBOT hyperoxic-hypoxic stem cell triggers, systemic 660/850nm photobiomodulation, glymphatic sleep architecture (taVNS & mouth taping), dermatological retinoid/GHK-Cu remodeling, multi-barrier air/water purification, extracellular matrix crosslink defense, BMT dynamic athletic performance, 5-day FMD fasting cycles, and the overarching infradian pulse cadence.
+
+## 1.3 The Compact 8-Tier Functional Taxonomy (Operational Clustering)
+To achieve maximal operational compactness and clear functional synergy, the 41 interventions are consolidated into eight high-yield operational engines:
+
+1. **Tier 1: Postprandial Glycemic Shield & Anti-Glycation Engine** (Modules 01, 36, 37, 38)
+   • Acarbose (25–50 mg) competitive brush-border α-glucosidase delay & cecal starch shunting
+   • Cyanidin-3-Glucoside / C3G (300–330 mg active) SGLT1/GLUT2 inhibition & SIRT6 allostery
+   • Postprandial Box Squats (15–25 reps) & Soleus Pushups contraction-mediated non-insulin GLUT4 clearance
+   • Retrograded RS3 Resistant Starch double-helix crystallization
+   • Extracellular Matrix Carbonyl Trapping (Benfotiamine 300 mg, Carnosine 1,000 mg, Pyridoxamine 50 mg)
+2. **Tier 2: Mitochondrial Cristae Integrity & Organellar Remodeling Suite** (Modules 02, 03, 04, 05, 06, 35)
+   • Tafazzin substrate loading (DLPC), SS-31 cardiolipin electrostatic shielding, Taurine mt-tRNA translation, PQQ biogenesis, and Urolithin A mitophagy.
+3. **Tier 3: Hemodynamic, Endothelial & Calcification Defense Core** (Modules 08, 09, 10, 11, 13, 34)
+   • ApoB eradication (<35 mg/dL), Vitamin K2 MK-7 matrix decalcification, microdose Tadalafil cGMP tone, Aged Garlic SAC plaque regression, and enterosalivary nitrate engine.
+4. **Tier 4: Epigenetic Programming, Chromatin Stability & DNA Repair Axis** (Modules 20, 23, 24, 37, 41)
+   • Calcium-AKG TET1–3 DNA demethylation, Cat's Claw AC-11 PARP/NER stimulation, SIRT6 H3K9/56 deacetylation, and Epitalon pineal telomerase induction.
+5. **Tier 5: Neuro-Dopaminergic & Cognitive Plasticity Vector** (Modules 12, 22, 25, 26, 27, 31)
+   • Sub-microdose Selegiline MAO-B protection, Low-Dose Lithium GSK-3β/BDNF, Piracetam AMPA fluidity, Krill LPC-DHA MFSD2A transport, and glymphatic AQP4 clearance.
+6. **Tier 6: Endocrine Pulsing, Steroidogenesis & Anabolic Preservation Cluster** (Modules 17, 18, 19, 21, 38)
+   • Pure trans-enclomiphene SERM, exemestane suicidal aromatase control, SHBG displacement, pulsatile GH secretagogues / travel OKG stack, and BMT dynamic tendon loading.
+7. **Tier 7: Systemic Cellular Cleansing, Senolysis & Proteome Dilution Suite (Infradian)** (Modules 07, 14, 15, 16, 39, 40, 41)
+   • TM5614 oral PAI-1 serpin inhibition, Mayo pulsed Fisetin senolysis, Spermidine autophagy, Valter Longo 5-day FMD, Pascoe donor plasmapheresis (TPE), and albumin reconstitution.
+8. **Tier 8: Biophysical Environmental & Thermal Hardware Foundation** (Modules 28, 29, 30, 32, 33)
+   • Finnish thermal sauna (HSP70), protocolized HBOT hyperoxic-hypoxic stem cell mobilization, 660/850nm photobiomodulation, HEPA/carbon/RO environmental purity, and topical retinoids/GHK-Cu.
+
 
 ---
 
