@@ -48,5 +48,5 @@ Tretinoin 0.05% cream nightly; GHK-Cu 3% serum post-wash; Scalp microneedling at
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
 * **pH Chelate Protection & Granuloma Prevention:**
-  1. Never co-apply acidic Tretinoin with **GHK-Cu** (low pH protonates histidine, stripping $\text{Cu}^{2+}$ from the tripeptide). Apply **GHK-Cu (1–2%) + Niacinamide (5%) + Methylene Blue (0.01%) in the Morning**, and **Tretinoin (0.05–0.1%) at Night**.
+  1. Never co-apply acidic Tretinoin with **GHK-Cu** (low pH protonates histidine, stripping $\text{Cu}^{2+}$ from the tripeptide). Apply **GHK-Cu (1–2%) + Niacinamide (5%) in the Morning** *(Note: Daytime topical Methylene Blue is excised to eliminate photosensitization, UV-induced cardiolipin/keratinocyte oxidation, and skin discoloration)*, and **Tretinoin (0.05–0.1%) at Night**.
   2. During the first 24 hours after **1.0–1.5 mm mechanical microneedling**, apply *only* sterile **High-Molecular-Weight Hyaluronic Acid (HMW-HA)**—never Tretinoin or GHK-Cu into open dermal channels—to prevent foreign-body granulomas and promote CD44 scarless neocollagenesis.

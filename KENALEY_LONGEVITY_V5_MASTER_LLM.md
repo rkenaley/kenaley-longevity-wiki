@@ -254,11 +254,11 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 
 | Module | Intervention | Exact Dose | Pill Form | Core Function |
 | :--- | :--- | :--- | :--- | :--- |
-| **`27`** | **Selbex (Teprenone / GGA)** | 100 mg | 1 capsule | **HSF1 chaperone primer** ($3\times\text{ HSP70}$ induction in sauna) |
-| **`34`** | **Inorganic Dietary Nitrate** | 400 mg | 1–2 capsules | Lingual enterosalivary $\text{NO}_3^- \to \text{NO}_2^- \to \text{NO}$ surge |
+| **27** | **Selbex (Teprenone / GGA)** | 100 mg | 1 capsule | **HSF1 chaperone primer** (\times\text{ HSP70}$ induction in sauna) |
 
-> **⛔ CRITICAL COLLISION 5 GUARDRAIL:**
-> **STRICTLY ZERO ANTIOXIDANTS** (No Vit C, PQQ, Astaxanthin, or high-dose polyphenols) within **4 hours before or after** Sauna (`28`), HBOT (`29`), or Sprinting (`38`). Hormetic ROS is the mandatory trigger for Nrf2/HIF-1$\alpha$ and training adaptation!
+> **⛔ CRITICAL COLLISION & SYNCOPE GUARDRAILS:**
+> * **NO INORGANIC NITRATE PRE-SAUNA:** Inorganic Dietary Nitrate (34) is strictly excised prior to sauna sessions. Combining peak enterosalivary nitrite-to-NO conversion with Tadalafil (10) and 90°C cutaneous thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope. Reserve nitrate exclusively for non-sauna athletic sprint training.
+> * **STRICTLY ZERO ANTIOXIDANTS:** No Vit C, PQQ, Astaxanthin, or high-dose polyphenols within **4 hours before or after** Sauna (28), HBOT (29), or Sprinting (38). Hormetic ROS is the mandatory trigger for Nrf2/HIF-1$\alpha$ and training adaptation!
 
 ---
 
@@ -283,7 +283,7 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🫐 DAILY POWDER SMOOTHIE (Early: 16:00 | Afternoon-Anchor: 10:30 AM)        │
 │ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
-│ • Chondroitin Sulfate: 1,200 mg (STRICTLY NO Glucosamine: anti-glycation)  │
+│ • Chondroitin Sulfate: 1,200 mg (Articular cartilage & CD44 ECM signaling)  │
 │ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 & Macrophage LXRα)     │
 │ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g (HOCl trap)   │
 │ • Pure Glycine: 5.0–10.0 g        • Pure NAC (N-Acetylcysteine): 1,000 mg   │
@@ -317,7 +317,7 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 | :--- | :--- | :--- | :--- |
 | **Monthly** | **Mayo Pulsed Senolytics (`14`)** | Liposomal Fisetin ($20\text{--}25\text{ mg/kg}$) + Quercetin (1g) + PCC1 (500mg) $\times$ 2 days | Add to Meal 1 with 30mL EVOO. Maintain daily pillboxes. |
 | **Monthly** | **Deep Microneedling (`32`)** | 1.5mm scalp (hair stem cells) + 0.5–1.0mm face (collagen) with sterile HMW-HA | Pause topical Tretinoin for 48h post-needling. |
-| **Quarterly**| **Valter Longo 5-Day FMD (`39`)** | 5-day WFPB calorie restriction (Day 1: 900 kcal; Days 2–5: 613 kcal + glycerol drink) | **PAUSE Slot 2 Acarbose (`01`) & Enclomiphene (`17`)**. Maintain salt & water. |
+| **Quarterly**| **Valter Longo 5-Day FMD (`39`)** | 5-day WFPB calorie restriction (Day 1: 900 kcal; Days 2–5: 613 kcal + glycerol drink) | **PAUSE Slot 2 Acarbose (`01`), Enclomiphene (`17`), and Vasodilators: Tadalafil (`10`), Aged Garlic (`11`), Olive Leaf (`13`)** to prevent severe fasting orthostatic syncope. Maintain salt & water. |
 | **Quarterly**| **Pascoe TPE / Apheresis (`15`)** | 800 mL donor plasma donation $\to$ Post-donation Whey + EAAs + GlyNAC + Silymarin | Reconstitution stack taken immediately post-apheresis. |
 | **Quarterly**| **Turnbuckle Fission Shock (`03`)**| Days 1–2: NMN (500mg) + TMG (1g) fission $\to$ Days 3–7: PQQ (20mg) + DLPC (2.4g) fusion | Fumarate IMM latching separated by $\ge 24\text{h}$ from Slot 1 Ca-AKG (`23`). |
 | **Semiannual**| **Khavinson Epitalon Pulse (`20`)**| 5–10 mg Ala-Glu-Asp-Gly SC morning injection daily $\times$ 10 consecutive days | Subcutaneous injection taken upon waking alongside Slot 1. |
@@ -430,11 +430,11 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### The Anti-Glycation Mandate: Why Chondroitin Sulfate is Selected and Glucosamine is Strictly Excluded
-A foundational principle of the Kenaley Architecture (Module 36 & Module 37) is the **strict exclusion of oral Glucosamine**. While ubiquitous in commercial joint supplements, Glucosamine is an unchelated, open-chain amino monosaccharide ($C_6H_{13}NO_5$) carrying a reactive free amino group. 
+### Chondroitin Sulfate: Extracellular Matrix Integrity & Cartilage Homeostasis
+In this powder matrix, **Chondroitin Sulfate (1,200 mg)** is selected for articular joint matrix remodeling and cellular signaling.
 
-* **The Hexosamine & Glycation Trap:** Free oral glucosamine enters enterocytes and systemic circulation, feeding directly into the **hexosamine biosynthetic pathway (HBP)**. In circulating plasma and interstitial fluid, free amino sugars readily react non-enzymatically with glucose, fructose, and structural proteins via the classical Maillard reaction. This generates highly reactive $\alpha$-dicarbonyl intermediates—specifically **methylglyoxal (MGO)** and **3-deoxyglucosone**—which accelerate the irreversible formation of **Advanced Glycation End-Products (AGEs)** such as glucosepane crosslinks on long-lived articular cartilage collagen, vascular elastin, and basement membranes.
-* **The Chondroitin Solution:** Conversely, **Chondroitin Sulfate** is an already fully polymerized, high-molecular-weight sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$). Because its reactive hemiacetal/aldehyde carbons are securely locked within rigid $\beta\text{-(1}\to\text{3)}$ and $\beta\text{-(1}\to\text{4)}$ glycosidic bonds, **Chondroitin CANNOT participate in open-chain reducing sugar glycation**. It safely binds up to 1,000 times its volume in water, provides hydrostatic compressive resilience to cartilage, downregulates catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses NF-$\kappa$B inflammatory signaling without any glycation liability.
+* **Re-evaluating Glucosamine:** Early biohacker dogmas strictly banned oral glucosamine out of concern for free amino sugar glycation and hexosamine flux. However, rigorous geroscience demonstrates that D-glucosamine actually extends mammalian lifespan: in landmark trials by Weimer et al. (*Nature Communications* 2014), glucosamine supplementation extended median lifespan in mice by ~10% via mitochondrial mitohormesis, transient glycolysis impairment, and robust AMPK activation, mimicking caloric restriction.
+* **The Chondroitin Advantage:** While glucosamine is biochemically rehabilitated, **Chondroitin Sulfate** remains the superior structural constituent for the daily blueberry matrix. As a fully polymerized sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$), it cannot undergo open-chain reducing sugar degradation. It binds up to 1,000 times its volume in water within the joint cavity, stimulates endogenous proteoglycan synthesis, engages CD44 receptors to inhibit catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses articular NF-$\kappa$B signaling to preserve cartilage thickness under high-impact athletic loading.
 
 ### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
 The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
@@ -597,7 +597,7 @@ Week 2: Day B (Sprint/Thrower) ──► Off/Skill ──► Day A (Explosive Lo
    * Consume the **Restorative Longevity Broth Drink** ([Module 37](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/37_Longevity_Nutrition_Recipes_and_Powders.md)) containing **15 g Hydrolyzed Collagen Peptides** + **500–1,000 mg Liposomal Vitamin C**.
    * Circulating hydroxyproline and ascorbic acid peak in the bloodstream just as mechanical compressive and tensile loads force fluid into avascular tendon matrices.
 2. **Pre-Workout eNOS Loading (90 mins prior):**
-   * 400 mg Inorganic Dietary Nitrate ([Module 34](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/34_Oral_Microbiome_Periodontal_Nitrate_Engine.md)) + Microdose Tadalafil ([Module 10](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/10_Microdose_Tadalafil_cGMP_eNOS.md)) for maximal muscular perfusion and reduced oxygen cost of submaximal exercise.
+   * 400 mg Inorganic Dietary Nitrate ([Module 34](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/34_Oral_Microbiome_Periodontal_Nitrate_Engine.md)) + Microdose Tadalafil ([Module 10](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/10_Microdose_Tadalafil_cGMP_eNOS.md)) for maximal muscular perfusion and reduced oxygen cost of submaximal exercise. *(Critical Hemodynamic Rule: If transitioning directly from training into the Finnish Sauna [Module 28], EXCISE the pre-workout Inorganic Nitrate. The combination of peak nitrite $\to$ NO conversion, Tadalafil PDE5 inhibition, and 90°C thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope).*
 3. **Immediate Post-Workout Hormetic Cascade:**
    * Transition straight from the workout into the **Finnish Thermal Sauna** ([Module 28](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/28_Finnish_Thermal_Sauna_HSP70.md): 85–95°C for 20–25 minutes, primed 60 mins prior with Selbex) to elicit a massive growth hormone release and HSF1/HSP70 chaperone synthesis.
 4. **The 4-Hour Post-Workout Antioxidant Exclusion Rule:**
@@ -746,18 +746,23 @@ Because the body is operating in a deeply catabolic, hypoglycemic, and autophagi
 │ 1. Acarbose (Module 01): PAUSE. Blood glucose is already low; avoids severe │
 │    hypoglycemia or gastrointestinal cramping.                               │
 │ 2. Enclomiphene & Anabolics (Module 17): PAUSE. Do not fight catabolism.    │
-│ 3. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
-│ 4. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
+│ 3. Vasodilators & Nitric Oxide Drivers: MANDATORY PAUSE for Microdose       │
+│    Tadalafil (Module 10), Kyolic Aged Garlic (Module 11), Olive Leaf        │
+│    Extract (Module 13), and Inorganic Nitrate (Module 34). Fasting causes   │
+│    profound natriuresis, hypovolemia, and sympathetic tone reduction;       │
+│    stacking vasodilators with 600 kcal fasting triggers severe orthostatic   │
+│    hypotension, cerebral hypoperfusion, and acute postural syncope.         │
+│ 4. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
+│ 5. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
 │    low-intensity Zone 1 walking, light stretching, and restorative yoga.   │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ ✅ WHAT TO MAINTAIN DURING THE 5-DAY FMD                                    │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Electrolytes & Hydration: Minimum 2.5–3.0 L water with unrefined mineral │
-│    salt (Redmond Real Salt) to prevent orthostatic hypotension and cramps.   │
+│    salt (Redmond Real Salt) to maintain intravascular volume.               │
 │ 2. The Glycerol Beverage (Days 2–5): Sips throughout the day.              │
-│ 3. Microdose Tadalafil (Module 10): SAFE to maintain (endothelial tone).    │
-│ 4. Kyolic Aged Garlic (Module 11) & Oral Probiotic (Module 34): MAINTAIN.   │
-│ 5. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
+│ 3. Oral Probiotic (Module 34 - S. salivarius K12/M18 lozenge): MAINTAIN.   │
+│ 4. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -879,7 +884,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 ### E. Endocrine & Biomarker Calibration Audit ([Module 17](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/17_Enclomiphene_Pure_Trans_SERM.md))
 * **The Cadence:** Every 90 days.
-* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to confirm DHCR24 integrity)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
+* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to rule out SERM-induced DHCR24 desmosterolosis)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
 
 ---
 
@@ -1168,13 +1173,13 @@ The legacy biohacker protocol suffered from two critical biochemical failure mod
 
 2. **Fullerene {60}$ Phototoxicity $\\to$ Ca-AKG / Glutamine / EAA Niche Matrix:**
    * *Legacy Flaw:* Lipophilic Buckminsterfullerene ({60}$) in olive oil was hypothesized to intercalate into the mitochondrial inner membrane and act as a super-antioxidant. However, rigorous replication studies (Grohn et al., *GeroScience* 2021) demonstrated that {60}$ in oil fails to extend lifespan and possesses severe Type II photochemical toxicity: upon absorption of photons (including near-infrared photobiomodulation at 660/850 nm), triplet-state {60}$ transfers energy to ground-state molecular oxygen (3\\text{O}_2$), generating cytotoxic singlet oxygen (1\\text{O}_2$) that peroxidizes cardiolipin and destroys cristae junctions.
-   * *Evidence-Based Substitution:* Replaced by **Calcium Alpha-Ketoglutarate (Ca-AKG, 1–3 g) + L-Glutamine (2–5 g) + Essential Amino Acids (EAAs: Threonine, Lysine, Methionine, Leucine)**. This supplies true metabolic intermediates to drive TCA cycle flux, mTORC1 activation, and Wnt pathway signaling without nanomaterial phototoxicity. At the clinical level, this metabolic awakening mimics the osteoblastic and vascular niche expansion achieved by parathyroid hormone (PTH / Teriparatide) and prostaglandin E2 (\\text{PGE}_2$).
+   * *Evidence-Based Substitution:* Replaced by **Calcium Alpha-Ketoglutarate (Ca-AKG, 1–3 g) + L-Glutamine (2–5 g) + Essential Amino Acids (EAAs: Lysine, Methionine, Leucine) [Note: L-Threonine is excised; human L-threonine 3-dehydrogenase TDHP is a non-functional pseudogene with nonsense/frameshift mutations, PMID: 12361482]**. This supplies true metabolic intermediates to drive TCA cycle flux, mTORC1 activation, and Wnt pathway signaling without nanomaterial phototoxicity. At the clinical level, this metabolic awakening mimics the osteoblastic and vascular niche expansion achieved by parathyroid hormone (PTH / Teriparatide) and prostaglandin E2 (\\text{PGE}_2$).
 
 3. **Mitosis-Coupled S-Phase Epigenetic Remodeling:**
-   * Stem cell division during S-phase represents a vulnerable epigenetic window. Pairing Ca-AKG with **Vitamin D3**, **SAM-e (250–500 mg)**, and **L-Threonine & L-Methionine** supplies 2-oxoglutarate co-substrate to activate **TET1–3 DNA demethylases** and **JmjC histone demethylases**, purging age-accumulated methylation marks while maintaining SAM/SAH stoichiometry for fidelity of *de novo* DNA methylation.
+   * Stem cell division during S-phase represents a vulnerable epigenetic window. Pairing Ca-AKG with **Vitamin D3**, **SAM-e (250–500 mg)**, and **L-Methionine** supplies 2-oxoglutarate co-substrate to activate **TET1–3 DNA demethylases** and **JmjC histone demethylases**, purging age-accumulated methylation marks while maintaining SAM/SAH stoichiometry for fidelity of *de novo* DNA methylation.
 
 4. **Fission Reset, Mitophagy & Senolysis:**
-   * Prolonged hyperfusion carries tumorigenic risks if damaged mtDNA cannot be segregated. In Phase 4, **DRP1-mediated fission** is intentionally re-activated using **Nicotinamide (NAM) or NR (500–1000 mg) + D-Ribose (1–2 g) + PQQ (20 mg)**, which is essential for muscle satellite cell proliferation. This is immediately followed by **PINK1/Parkin-mediated mitophagy** via **Urolithin A (500–1000 mg)** and senolytic niche clearing via **Quercetin Phytosome (250 mg) + Fisetin (100–500 mg) + Apigenin (50–100 mg)**.
+   * Prolonged hyperfusion carries tumorigenic risks if damaged mtDNA cannot be segregated. In Phase 4, **DRP1-mediated fission** is intentionally re-activated using **Nicotinamide (NAM) or NR (500–1000 mg)**, which is essential for muscle satellite cell proliferation. *(Note: D-Ribose is strictly excised because it glycates proteins 50–100× faster than D-glucose and reverses transketolase flux [PMC3169629]; PQQ is removed from the fission phase as its primary action is PGC-1α-driven mitochondrial biogenesis and elongation, which counteracts fission).* This is immediately followed by **PINK1/Parkin-mediated mitophagy** via **Urolithin A (500–1000 mg)** and senolytic niche clearing via **Quercetin Phytosome (250 mg) + Fisetin (100–500 mg) + Apigenin (50–100 mg)**.
 
 ---
 
@@ -1210,9 +1215,9 @@ The protocol is executed as an **acute quarterly 4-day micro-cycle**, structured
 | Phase & Timing | Biological Objective | Replaced Original Agent | Evidence-Based Alternative Stack | Target Stem Cell & Niche Mechanism |
 | :--- | :--- | :--- | :--- | :--- |
 | **Phase 1: Day 1 (T + 0:00)** | Transient Mitochondrial Fusion & Redox Protection | Sulforaphane (100 mg) | Stearic Acid / GMS (5–10 g) + Dihydromyricetin (DHM) + TUDCA + Glutathione [cite: 5, 13, 17, 19] | Stearoylates TfR1 to stabilize MFN1/2; buffers mtROS to keep NRF2 inactive and Notch self-renewal active in NSCs/HSCs. |
-| **Phase 2: Day 1 (T + 3:00)** | Metabolic Waking & Niche Expansion | Fullerene C60 in oil (3 mg) | Ca-AKG / AAKG (2 g) + L-Glutamine + EAAs (Lys, Met, Thr, Leu) *(Clinical: PTH / PGE2)* | Drives TCA cycle and mTOR/Wnt flux without nanomaterial toxicity; stimulates osteoblastic/vascular niche support. |
-| **Phase 3: Day 1 (T + 3:00–6:00)** | Mitosis-Coupled Epigenetic Remodeling | Retained & optimized from original | Ca-AKG + Vitamin A/D3 + SAM-e (500 mg) + L-Threonine & L-Methionine [cite: 13, 23, 30] | Activates TET1–3 and JMJD demethylases while preserving the SAM/SAH ratio for *de novo* methylation during S-phase. |
-| **Phase 4: Days 3–4 (Recovery)** | Fission Reset, Mitophagy & Senolysis | Expanded with direct mitophagy inducers | Urolithin A + NR or NAM + D-Ribose + Fisetin / Quercetin Phytosome [cite: 5, 13, 34] | Activates DRP1 fission (required for MuSC proliferation), triggers PINK1/Parkin mitophagy, prevents hyperfusion oncogenesis, and clears senescent cells. |
+| **Phase 2: Day 1 (T + 3:00)** | Metabolic Waking & Niche Expansion | Fullerene C60 in oil (3 mg) | Ca-AKG / AAKG (2 g) + L-Glutamine + EAAs (Lys, Met, Leu) [Threonine excised: PMID 12361482] *(Clinical: PTH / PGE2)* | Drives TCA cycle and mTOR/Wnt flux without nanomaterial toxicity; stimulates osteoblastic/vascular niche support. |
+| **Phase 3: Day 1 (T + 3:00–6:00)** | Mitosis-Coupled Epigenetic Remodeling | Retained & optimized from original | Ca-AKG + Vitamin A/D3 + SAM-e (500 mg) + L-Methionine (Threonine excised) [cite: 13, 23, 30] | Activates TET1–3 and JMJD demethylases while preserving the SAM/SAH ratio for *de novo* methylation during S-phase. |
+| **Phase 4: Days 3–4 (Recovery)** | Fission Reset, Mitophagy & Senolysis | Expanded with direct mitophagy inducers | Urolithin A + NR or NAM + Fisetin / Quercetin Phytosome [D-Ribose & PQQ excised] [cite: 5, 13, 34] | Activates DRP1 fission (required for MuSC proliferation), triggers PINK1/Parkin mitophagy, prevents hyperfusion oncogenesis, and clears senescent cells. |
 
 ---
 
@@ -1224,9 +1229,9 @@ The protocol is executed as an **acute quarterly 4-day micro-cycle**, structured
 | **Phase 1: Day 1 (T + 0:00)**<br>*(CNS Fusion)* | Dihydromyricetin (DHM) | 300–500 mg | Oral (blended in water/juice or capsule) | Crosses blood-brain barrier to promote neural mitochondrial fusion without sulforaphane-induced NRF2 differentiation | US11504351B2 / US11541022 |
 | **Phase 1: Day 1 (T + 0:00)**<br>*(MAM & Redox Shield)* | TUDCA + GlyNAC (or Liposomal Glutathione) | TUDCA: 250–500 mg + NAC: 1,000–2,000 mg + Glycine: 1,000–2,000 mg (or Liposomal GSH: 1,000 mg) | Oral capsules / powder | Normalizes ER stress (CHOP/IRE1) and JNK; buffers mtROS to keep NRF2 cytoplasmic and expand NSC/HSC pools | PMC4613652 / DOI: 10.1073/pnas.1108220109 / PMC7308489 |
 | **Phase 2: Day 1 (T + 3:00)**<br>*(S-Phase Demethylation)* | Ca-AKG (or AAKG) + L-Glutamine + Vitamin D3 + SAM-e | AKG: 1,000–3,000 mg + L-Glutamine: 2,000–5,000 mg + Vit D3: 2,000–4,000 IU + SAM-e: 500 mg | Oral (Delayed-release Ca-AKG or AAKG; enteric SAM-e) | Drives TET1–3 DNA demethylation during symmetric S-phase while maintaining SAM/SAH methylation stoichiometry and IL-10 | PMID: 34847066 / US11504351B2 |
-| **Phase 2: Day 1 (T + 3:30)**<br>*(Anabolic EAA Matrix)* | Essential Amino Acids (L-Threonine, L-Lysine, L-Methionine, L-Leucine) | Threonine: 2,000–3,000 mg + Lysine: 2,000 mg + Methionine: 1,000 mg + Leucine: 1,000 mg | Oral powder / capsules | Supplies specialized threonine-methionine one-carbon flux and biosynthetic precursors required by dividing stem cells | US11504351B2 / LongeCity Protocol |
+| **Phase 2: Day 1 (T + 3:30)**<br>*(Anabolic EAA Matrix)* | Essential Amino Acids (L-Lysine, L-Methionine, L-Leucine) | Lysine: 2,000 mg + Methionine: 1,000 mg + Leucine: 1,000 mg (L-Threonine excised) | Oral powder / capsules | Supplies essential amino acid flux and biosynthetic precursors without inert pseudogene substrates required by dividing stem cells | US11504351B2 / LongeCity Protocol |
 | **Phase 2: Day 1 (T + 3:30)**<br>*(Neurogenic Niche Stack)* | DHEA + Piracetam (+ Optional Icariin) | DHEA: 25–50 mg + Piracetam: 1,200–2,400 mg (short-term pulse) + Icariin: 100–200 mg | Oral capsules / tablets | Piracetam restores aged NSC mitochondrial metabolism during early lineage progression; DHEA upregulates NGF and BDNF | PMC5300896 / PMC3867952 / PMC5789743 |
-| **Phase 3: Day 2 (T + 24:00)**<br>*(Fission & MuSC Activation)* | Nicotinamide (NAM) + D-Ribose (or NR) + PQQ | NAM: 500–1,000 mg + D-Ribose: 1,000–2,000 mg (or NR: 300–500 mg) + PQQ: 20 mg | Oral powder / capsules | Induces DRP1-mediated mitochondrial fission required for muscle stem cell (MuSC) proliferation and mtDNA segregation | US11504351B2 / PMC11545319 |
+| **Phase 3: Day 2 (T + 24:00)**<br>*(Fission & MuSC Activation)* | Nicotinamide (NAM) or NR | NAM: 500–1,000 mg (or NR: 300–500 mg) [D-Ribose & PQQ excised] | Oral powder / capsules | Induces DRP1-mediated mitochondrial fission required for muscle stem cell (MuSC) proliferation and mtDNA segregation | US11504351B2 / PMC11545319 |
 | **Phase 3: Day 2 (T + 24:00)**<br>*(Fission mtDNA & MuSC Fuel)* | Ca-AKG + L-Glutamine + Vitamin D3 + SAM-e + Lysine/Methionine | AKG: 1,000 mg + L-Glutamine: 2,000–5,000 mg + SAM-e: 250–500 mg + Lysine: 2,000 mg + Methionine: 1,000 mg | Oral tablets / powder | Fuels Psat1-glutamine-AKG axis for MuSC activation and regeneration; demethylates isolated mtDNA loops during fission | PMID: 34847066 / US11504351B2 |
 | **Phase 4: Day 2–3 (T + 24:00–48:00)**<br>*(Senolysis & Maturation)* | Quercetin Phytosome + Fisetin + Apigenin | Quercetin Phytosome: 250 mg + Fisetin: 100–500 mg + Apigenin: 50–100 mg | Oral capsules | Drives senescent cells into apoptosis to clear niches; Apigenin promotes fission and neuronal differentiation of NSCs | US11504351B2 / PMID: 19441930 |
 | **Clinical Benchmark A**<br>*(Osteoblastic HSC Niche)* | Parathyroid Hormone (PTH) Therapy | Clinical reference regimen (e.g., Teriparatide 20 mcg/day sc in mobilization/bone protocols) | Subcutaneous injection (Prescription only) | Activates Gs/PTH1R on bone marrow osteoblastic/MSC niche cells to upregulate Jagged-1 and expand HSCs via Notch1 | PMID: 14574413 / PMC3311272 |
@@ -1241,10 +1246,10 @@ The protocol is executed as an **acute quarterly 4-day micro-cycle**, structured
 * **Day 1, 10:00 (T + 3:00) [Metabolic Awakening & S-Phase Epigenetics]:**
   * Ingest Ca-AKG (1,000–3,000 mg), L-Glutamine (2,000–5,000 mg), Vitamin D3 (2,000–4,000 IU), and enteric SAM-e (500 mg).
 * **Day 1, 10:30 (T + 3:30) [Biosynthetic Amino Acid & Neurogenic Pulse]:**
-  * Ingest EAA Matrix: L-Threonine (2–3 g), L-Lysine (2 g), L-Methionine (1 g), L-Leucine (1 g).
+  * Ingest EAA Matrix: L-Lysine (2 g), L-Methionine (1 g), L-Leucine (1 g). *(L-Threonine 2–3 g is excised: human TDH is a non-functional pseudogene, PMID: 12361482).*
   * Take DHEA (25–50 mg) and Piracetam (1,200–2,400 mg short-term pulse) with optional Icariin (100–200 mg).
 * **Day 2, 07:00 (T + 24:00) [DRP1 Fission Induction & MuSC Fuel]:**
-  * Switch to fission priming: Ingest Nicotinamide (500–1,000 mg) or NR (300–500 mg) + D-Ribose (1,000–2,000 mg) + PQQ (20 mg).
+  * Switch to fission priming: Ingest Nicotinamide (500–1,000 mg) or NR (300–500 mg). *(D-Ribose is excised due to extreme 50–100× glycation kinetics [PMC3169629]; PQQ is removed from fission as it promotes biogenesis/fusion).*
   * Follow with Ca-AKG (1,000 mg) + L-Glutamine (2–5 g) + SAM-e (250–500 mg) + Lysine/Methionine to fuel symmetric MuSC activation.
 * **Days 2–3, Evening & Next Day (T + 24:00–48:00) [Niche Clearance & Senolysis]:**
   * Ingest Quercetin Phytosome (250 mg) + Fisetin (100–500 mg) + Apigenin (50–100 mg) to purge damaged/senescent cells and direct healthy NSC differentiation.
@@ -1944,7 +1949,7 @@ One donation of ~800mL plasma every 3 to 4 weeks at certified apheresis centers.
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
 * **Infradian Window:** Day 3 of the Macro-Cycle (24 hours after the `14_Fisetin` senolytic pulse, to physically clear lysed SASP debris, TGF-$\beta$1, GDF15, CCL11, and $\beta_2$-microglobulin).
-* **Ferritin & Plasticizer Guardrails:** Because commercial plasmapheresis returns 100% of RBCs, monitor **serum Ferritin** and lock strictly at **$40\text{–}65\text{ ng/mL}$** (substituting 1 whole-blood donation every 4–6 months if ferritin exceeds $70\text{ ng/mL}$). Administer **Calcium/Magnesium Citrate** (to buffer returned anticoagulant sodium citrate) and **Activated Charcoal + Sulforaphane** to bind and conjugate DEHP/phthalates leached from disposable PVC apheresis tubing.
+* **Ferritin & Plasticizer Guardrails:** Because commercial plasmapheresis returns 100% of RBCs, monitor **serum Ferritin** and lock strictly at **$40\text{–}65\text{ ng/mL}$** (substituting 1 whole-blood donation every 4–6 months if ferritin exceeds $70\text{ ng/mL}$). Administer **Calcium/Magnesium Citrate** (to buffer returned anticoagulant sodium citrate). *(Note on Phthalate Clearance: Oral Activated Charcoal is strictly excised. DEHP plasticizer leached from PVC apheresis tubing enters directly via intravenous infusion; oral activated charcoal is non-absorbable in the GI tract, cannot bind circulating IV phthalates, and indiscriminately adsorbs co-administered oral medications and longevity supplements. Systemic DEHP is rapidly hydrolyzed by tissue carboxylesterases to mono-(2-ethylhexyl) phthalate [MEHP] and excreted 80–90% in urine as glucuronide conjugates; support clearance exclusively via **Sulforaphane / Glucoraphanin** and **Glycine** to upregulate hepatic Phase II UDP-glucuronosyltransferase [UGT1A4/2B7] enzyme cascades).*
 
 
 ---
@@ -2054,7 +2059,7 @@ SERMs can partially suppress hepatic IGF-1 synthesis by 15-25% at standard doses
 
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
-* **Pulsed Dosing & Desmosterol Guardrail:** Avoid daily chronic hypothalamic ER$\alpha$ blockade (which antagonizes central longevity pathways shared by $17\alpha$-estradiol and inhibits **DHCR24**, depleting neuroprotective **Desmosterol**). Pulse **6.25 mg EOD or 3x/week** only if baseline LH/Free T requires support, and verify normal serum **Desmosterol ($>0.8\text{ mg/L}$)** on Boston Heart Cholesterol Balance testing.
+* **Pulsed Dosing & Desmosterolosis Guardrail:** Avoid daily chronic hypothalamic $\text{ER}\alpha$ blockade (which antagonizes central neuroprotective estrogen signaling). High-dose SERMs can inhibit 24-dehydrocholesterol reductase (DHCR24), the terminal enzyme reducing desmosterol to cholesterol, thereby abnormally **spiking desmosterol** and creating a risk of cataractogenic desmosterolosis. Pulse **6.25 mg EOD or 3x/week** only if baseline LH/Free T requires support, ensuring desmosterol levels do not accumulate pathologically on sterol balance panels.
 
 
 ---
@@ -2787,7 +2792,7 @@ Negligible adverse effects; avoid direct unshielded retinal exposure with high-p
 
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
-* **Chromophore Coupling & Fluence Cap:** Pair 660 nm / 850 nm PBM (strictly capped at Biphasic Arndt-Schulz optimal fluence of $4\text{–}15\text{ J/cm}^2$ superficial / $20\text{–}60\text{ J/cm}^2$ deep tissue) with **0.5–1.0 mg Pharmaceutical Grade Methylene Blue** (absorption peak 668 nm) + **25 mg 5-ALA** 60 minutes prior on non-Selegiline days to accelerate Complex I $\to$ Complex IV electron transfer.
+* **Chromophore Coupling & Fluence Cap:** Deliver 660 nm / 850 nm PBM strictly as a pure biostimulatory intervention capped at Biphasic Arndt-Schulz optimal fluence ($4\text{–}15\text{ J/cm}^2$ superficial / $20\text{–}60\text{ J/cm}^2$ deep tissue). *(Critical Photodynamic Safety Guardrail: Pre-PBM administration of 5-ALA and Methylene Blue is strictly EXCISED. Unbuffered 5-Aminolevulinic Acid is enzymatically converted via the heme cascade into Protoporphyrin IX [PpIX], an extremely potent endogenous photosensitizer. Co-administering 5-ALA and Methylene Blue [absorption peak 668 nm] with 660 nm red photons unintentionally converts biostimulatory low-level light therapy into full-blown mitochondrial Photodynamic Therapy [PDT], generating massive fluxes of cytotoxic singlet oxygen [$^1\text{O}_2$] that peroxidize inner mitochondrial membrane cardiolipin and trigger apoptotic mPTP opening. Red/NIR light must be administered pure, acting solely upon endogenous Cytochrome c Oxidase chromophores).*
 
 
 ---
@@ -2901,7 +2906,7 @@ Tretinoin 0.05% cream nightly; GHK-Cu 3% serum post-wash; Scalp microneedling at
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
 * **pH Chelate Protection & Granuloma Prevention:**
-  1. Never co-apply acidic Tretinoin with **GHK-Cu** (low pH protonates histidine, stripping $\text{Cu}^{2+}$ from the tripeptide). Apply **GHK-Cu (1–2%) + Niacinamide (5%) + Methylene Blue (0.01%) in the Morning**, and **Tretinoin (0.05–0.1%) at Night**.
+  1. Never co-apply acidic Tretinoin with **GHK-Cu** (low pH protonates histidine, stripping $\text{Cu}^{2+}$ from the tripeptide). Apply **GHK-Cu (1–2%) + Niacinamide (5%) in the Morning** *(Note: Daytime topical Methylene Blue is excised to eliminate photosensitization, UV-induced cardiolipin/keratinocyte oxidation, and skin discoloration)*, and **Tretinoin (0.05–0.1%) at Night**.
   2. During the first 24 hours after **1.0–1.5 mm mechanical microneedling**, apply *only* sterile **High-Molecular-Weight Hyaluronic Acid (HMW-HA)**—never Tretinoin or GHK-Cu into open dermal channels—to prevent foreign-body granulomas and promote CD44 scarless neocollagenesis.
 
 
@@ -3012,7 +3017,7 @@ In the Belsky et al. (*eLife*, 2022) elastic-net derivation of **DunedinPACE**, 
 1. **Selective Subgingival Decontamination (Sparing the Lingual Dorsum):** Subgingival irrigation (Pik Pocket tip at lowest pressure) 2x/week with freshly diluted **0.10% Sodium Hypochlorite** or **Ozonated RO Water**, followed by water rinse. Never swish biocides across the tongue.
 2. **Bacteriocin Replacement Therapy (*Streptococcus salivarius* K12 & M18):** Dissolve 1 lozenge ($2\times 10^9\text{ CFU}$) on tongue nightly after brushing and immediately prior to applying **`31_Mouth_Taping`**.
 3. **Biomimetic Enamel & Biofilm Matrix Shield:** Brush with **10% Microcrystalline Nano-Hydroxyapatite (nHAp)** + **Xylitol/Erythritol**.
-4. **Targeted Enterosalivary Nitrate Loading:** Administer **400–500 mg standardized inorganic Nitrate ($\text{NO}_3^-$)** 90 minutes pre-training/sauna (Phase 3), coupling with **`10_Microdose_Tadalafil`**.
+4. **Targeted Enterosalivary Nitrate Loading:** Administer **400–500 mg standardized inorganic Nitrate ($\text{NO}_3^-$)** 90–120 minutes prior to high-intensity athletic training (Phase 3). *(Critical Sauna & Vasodilation Guardrail: Inorganic Nitrate is strictly EXCISED from pre-sauna use. Peak enterosalivary nitrite-to-NO conversion combined with Tadalafil [Module 10] and 90°C Finnish sauna cutaneous vasodilation creates severe orthostatic and heat syncope hazards. Nitrate should only be timed for non-sauna athletic sprint or endurance performance).*
 
 ---
 
@@ -3264,11 +3269,11 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### The Anti-Glycation Mandate: Why Chondroitin Sulfate is Selected and Glucosamine is Strictly Excluded
-A foundational principle of the Kenaley Architecture (Module 36 & Module 37) is the **strict exclusion of oral Glucosamine**. While ubiquitous in commercial joint supplements, Glucosamine is an unchelated, open-chain amino monosaccharide ($C_6H_{13}NO_5$) carrying a reactive free amino group. 
+### Chondroitin Sulfate: Extracellular Matrix Integrity & Cartilage Homeostasis
+In this powder matrix, **Chondroitin Sulfate (1,200 mg)** is selected for articular joint matrix remodeling and cellular signaling.
 
-* **The Hexosamine & Glycation Trap:** Free oral glucosamine enters enterocytes and systemic circulation, feeding directly into the **hexosamine biosynthetic pathway (HBP)**. In circulating plasma and interstitial fluid, free amino sugars readily react non-enzymatically with glucose, fructose, and structural proteins via the classical Maillard reaction. This generates highly reactive $\alpha$-dicarbonyl intermediates—specifically **methylglyoxal (MGO)** and **3-deoxyglucosone**—which accelerate the irreversible formation of **Advanced Glycation End-Products (AGEs)** such as glucosepane crosslinks on long-lived articular cartilage collagen, vascular elastin, and basement membranes.
-* **The Chondroitin Solution:** Conversely, **Chondroitin Sulfate** is an already fully polymerized, high-molecular-weight sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$). Because its reactive hemiacetal/aldehyde carbons are securely locked within rigid $\beta\text{-(1}\to\text{3)}$ and $\beta\text{-(1}\to\text{4)}$ glycosidic bonds, **Chondroitin CANNOT participate in open-chain reducing sugar glycation**. It safely binds up to 1,000 times its volume in water, provides hydrostatic compressive resilience to cartilage, downregulates catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses NF-$\kappa$B inflammatory signaling without any glycation liability.
+* **Re-evaluating Glucosamine:** Early biohacker dogmas strictly banned oral glucosamine out of concern for free amino sugar glycation and hexosamine flux. However, rigorous geroscience demonstrates that D-glucosamine actually extends mammalian lifespan: in landmark trials by Weimer et al. (*Nature Communications* 2014), glucosamine supplementation extended median lifespan in mice by ~10% via mitochondrial mitohormesis, transient glycolysis impairment, and robust AMPK activation, mimicking caloric restriction.
+* **The Chondroitin Advantage:** While glucosamine is biochemically rehabilitated, **Chondroitin Sulfate** remains the superior structural constituent for the daily blueberry matrix. As a fully polymerized sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$), it cannot undergo open-chain reducing sugar degradation. It binds up to 1,000 times its volume in water within the joint cavity, stimulates endogenous proteoglycan synthesis, engages CD44 receptors to inhibit catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses articular NF-$\kappa$B signaling to preserve cartilage thickness under high-impact athletic loading.
 
 ### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
 The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
@@ -3431,7 +3436,7 @@ Week 2: Day B (Sprint/Thrower) ──► Off/Skill ──► Day A (Explosive Lo
    * Consume the **Restorative Longevity Broth Drink** ([Module 37](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/37_Longevity_Nutrition_Recipes_and_Powders.md)) containing **15 g Hydrolyzed Collagen Peptides** + **500–1,000 mg Liposomal Vitamin C**.
    * Circulating hydroxyproline and ascorbic acid peak in the bloodstream just as mechanical compressive and tensile loads force fluid into avascular tendon matrices.
 2. **Pre-Workout eNOS Loading (90 mins prior):**
-   * 400 mg Inorganic Dietary Nitrate ([Module 34](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/34_Oral_Microbiome_Periodontal_Nitrate_Engine.md)) + Microdose Tadalafil ([Module 10](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/10_Microdose_Tadalafil_cGMP_eNOS.md)) for maximal muscular perfusion and reduced oxygen cost of submaximal exercise.
+   * 400 mg Inorganic Dietary Nitrate ([Module 34](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/34_Oral_Microbiome_Periodontal_Nitrate_Engine.md)) + Microdose Tadalafil ([Module 10](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/10_Microdose_Tadalafil_cGMP_eNOS.md)) for maximal muscular perfusion and reduced oxygen cost of submaximal exercise. *(Critical Hemodynamic Rule: If transitioning directly from training into the Finnish Sauna [Module 28], EXCISE the pre-workout Inorganic Nitrate. The combination of peak nitrite $\to$ NO conversion, Tadalafil PDE5 inhibition, and 90°C thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope).*
 3. **Immediate Post-Workout Hormetic Cascade:**
    * Transition straight from the workout into the **Finnish Thermal Sauna** ([Module 28](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/28_Finnish_Thermal_Sauna_HSP70.md): 85–95°C for 20–25 minutes, primed 60 mins prior with Selbex) to elicit a massive growth hormone release and HSF1/HSP70 chaperone synthesis.
 4. **The 4-Hour Post-Workout Antioxidant Exclusion Rule:**
@@ -3580,18 +3585,23 @@ Because the body is operating in a deeply catabolic, hypoglycemic, and autophagi
 │ 1. Acarbose (Module 01): PAUSE. Blood glucose is already low; avoids severe │
 │    hypoglycemia or gastrointestinal cramping.                               │
 │ 2. Enclomiphene & Anabolics (Module 17): PAUSE. Do not fight catabolism.    │
-│ 3. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
-│ 4. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
+│ 3. Vasodilators & Nitric Oxide Drivers: MANDATORY PAUSE for Microdose       │
+│    Tadalafil (Module 10), Kyolic Aged Garlic (Module 11), Olive Leaf        │
+│    Extract (Module 13), and Inorganic Nitrate (Module 34). Fasting causes   │
+│    profound natriuresis, hypovolemia, and sympathetic tone reduction;       │
+│    stacking vasodilators with 600 kcal fasting triggers severe orthostatic   │
+│    hypotension, cerebral hypoperfusion, and acute postural syncope.         │
+│ 4. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
+│ 5. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
 │    low-intensity Zone 1 walking, light stretching, and restorative yoga.   │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ ✅ WHAT TO MAINTAIN DURING THE 5-DAY FMD                                    │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Electrolytes & Hydration: Minimum 2.5–3.0 L water with unrefined mineral │
-│    salt (Redmond Real Salt) to prevent orthostatic hypotension and cramps.   │
+│    salt (Redmond Real Salt) to maintain intravascular volume.               │
 │ 2. The Glycerol Beverage (Days 2–5): Sips throughout the day.              │
-│ 3. Microdose Tadalafil (Module 10): SAFE to maintain (endothelial tone).    │
-│ 4. Kyolic Aged Garlic (Module 11) & Oral Probiotic (Module 34): MAINTAIN.   │
-│ 5. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
+│ 3. Oral Probiotic (Module 34 - S. salivarius K12/M18 lozenge): MAINTAIN.   │
+│ 4. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -3713,7 +3723,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 ### E. Endocrine & Biomarker Calibration Audit ([Module 17](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/17_Enclomiphene_Pure_Trans_SERM.md))
 * **The Cadence:** Every 90 days.
-* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to confirm DHCR24 integrity)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
+* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to rule out SERM-induced DHCR24 desmosterolosis)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
 
 ---
 
@@ -3875,7 +3885,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 **Pillar:** Cellular Senescence, Stem Cell Niche Biology & Infradian Cleansing  
 **Conviction Tier:** CORE BET / FRONTIER GEROSCIENCE (Protocol of Record Macro-Cycle)  
-**Evidence Grade:** E1 (Human Phase 2 RCTs: PEARL, Exercise-Sirolimus, Senolytic D+Q, Fucoidan CD34+ Homing) / E4 (Murine HSC & Niche Rejuvenation)  
+**Evidence Grade:** E1 (Human Phase 2 RCTs: PEARL, Exercise-Sirolimus, Mayo Pulsed Senolytics, Fucoidan CD34+ Homing) / E4 (Murine HSC & Niche Rejuvenation)  
 **Stance:** Highly Contrarian (Targeting the non-cell-autonomous niche microenvironment via sequenced purification rather than direct mitogenic stimulation)  
 **Estimated Monthly Cost:** $60 -- $120 / month (amortized across quarterly 12-week macro-cycle)  
 **Primary Target Hallmark:** Stem Cell Exhaustion, Cellular Senescence, Altered Intercellular Communication & Mitochondrial Dysfunction  
@@ -3897,7 +3907,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 │               THE "QUALITY-BEFORE-QUANTITY" NICHE PURIFICATION CASCADE                 │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ STEP 1: EXTINCTION OF NICHE INFLAMMATION & SASP                                       │
-│ • Senolytics (D+Q) + Senomorphics (SGLT2i, Metformin)                                  │
+│ • Pulsed Senolytics (Liposomal Fisetin + Quercetin Phytosome + PCC1)                   │
 │ • Removes competitive survival advantage of NF-κB-driven mutant CHIP clones            │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ STEP 2: ORGANELLE PURGE & EPIGENETIC POLARITY RESTORATION                              │
@@ -3929,7 +3939,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 * **Human Rapamycin PEARL Trial (NCT04488601):** Demonstrated $+6.19\%$ lean tissue gain in women at 10 mg weekly compounded exposure, while confirming the requirement for pharmaceutical enteric tablets to achieve therapeutic bioavailability.
 * **Rapamycin + Exercise Collision Trial:** 13-week trial revealed chair-stand decline ($-2.13$ vs placebo) when rapamycin was taken concurrently with resistance training, demonstrating the absolute need for temporal separation ($\ge 48\text{h}$) between mTORC1 inhibition and mechanical loading.
-* **Phase 2 Senolytic Trial (D+Q):** Intermittent 100 mg dasatinib + 1000 mg quercetin increased osteogenic bone formation marker P1NP by $+16\%$ in senescence-burdened cohorts.
+* **Mayo Clinic Pulsed Senolytics (Module 14):** Pulsed Fisetin + Quercetin Phytosome + PCC1 (Piperlongumine) selectively clears senescent niche cells without broad-spectrum tyrosine kinase inhibitor toxicity or mitotic clock acceleration (PMC10929829).
 * **Fucoidan CD34+/CXCR4 Mobilization (Irhimeh et al.):** Standardized marine fucoidan ingestion increased circulating $\text{CD34}^+$ HSCs by $+61.1\%$ within 180 minutes and significantly amplified surface CXCR4 homing expression.
 * **Fasting-Induced Hematopoietic Rejuvenation (Cheng, Longo et al., *Cell Stem Cell* 2014):** 72–120h fasting cycles suppressed IGF-1/PKA, followed by a coordinated post-fast refeeding surge of symmetric HSC self-renewal and lymphoid reconstitution.
 
@@ -3946,9 +3956,9 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 * **CHIP Clonal Expansion:** Administering stem cell mobilizers (fucoidan, G-CSF) in an inflamed marrow environment without prior senolytic/senomorphic clearance preferentially expands mutated *DNMT3A*, *TET2*, and *ASXL1* pre-leukemic clones.
 * **Anabolic Blunting:** Ingesting rapamycin within 36–48 hours of resistance training blunts myofibrillar protein synthesis and satellite cell hypertrophy.
-* **Refeeding Abortion:** Administering mTORC1 inhibitors (rapamycin) or AMPK activators (metformin) during the 72-hour post-fast refeeding window aborts the regenerative stem cell rebound.
-* **Dasatinib Bleeding & pH Sensitivity:** Dasatinib requires gastric acidity (hold PPIs/$\text{H}_2$ blockers) and transiently inhibits platelets (hold NSAIDs).
-* **Ketoacidosis Risk:** SGLT2 inhibitors and metformin must be strictly paused during the 72–96h fast.
+* **Refeeding Abortion:** Administering mTORC1 inhibitors (rapamycin) during the 72-hour post-fast refeeding window aborts the regenerative stem cell rebound.
+* **Dasatinib & Metformin Retirement (RET-01 / RET-02):** Dasatinib and Metformin are strictly excised from the protocol of record. Dasatinib (a non-selective tyrosine kinase inhibitor) accelerates mitotic epigenetic clocks (PMC10929829) and carries bleeding and pulmonary/pleural effusion risks. Metformin inhibits Complex I and blunts mitochondrial and myofibrillar adaptations to exercise.
+* **Ketoacidosis Guardrail:** SGLT2 inhibitors (Dapagliflozin/Empagliflozin) are excised due to the unacceptable hazard of euglycemic Diabetic Ketoacidosis (euDKA) when combined with prolonged fasting or the Fasting Mimicking Diet.
 
 ---
 
@@ -3966,15 +3976,14 @@ The protocol operates on two synchronized chronobiological scales:
 
 ### The 4 Chrono-Phases:
 1. **Phase 1: Niche Reset (Weeks 1–2):**
-   * *Days 1–3:* Dasatinib 100 mg + Quercetin 1000 mg QD (hold all other biohacks and NSAIDs).
+   * *Days 1–3:* Mayo Clinic Pulsed Senolytics: Liposomal Fisetin (20–25 mg/kg) + Quercetin Phytosome (1,000 mg) + PCC1 (500 mg) QD (Module 14; Dasatinib is strictly excised per RET-02 and PMC10929829).
    * *Days 4–7:* Macrophage phagocytic debris clearance.
-   * *Days 8–11:* 72–96 hour water fast or FMD (Module 39). Hold SGLT2i and Metformin.
-   * *Days 12–14:* Anabolic refeed + Urolithin A (1000 mg) + NR (1000 mg) + Zinc Carnosine (20 mg).
+   * *Days 8–11:* 72–96 hour water fast or 5-day FMD (Module 39).
+   * *Days 12–14:* Anabolic refeed + Urolithin A (1,000 mg) + NR (1,000 mg) + Zinc Carnosine (20 mg).
 2. **Phase 2: mTORC1 Pulsing & Mitophagy Priming (Weeks 3–8):**
    * *Monday AM:* Rapamycin 5–10 mg (pharmaceutical tablets) with a fat-containing meal.
-   * *Daily:* Urolithin A 500–1000 mg, NR 500–1000 mg, Dapagliflozin 5–10 mg, $\gamma$-Oryzanol 300 mg, Zinc Carnosine 20 mg.
-   * *Non-Lift Days (Tue/Thu/Sun):* Metformin 500–1000 mg.
-   * *Lift Days (Wed/Fri/Sat, $\ge 48\text{h}$ post-sirolimus):* Thrice-weekly high-load eccentric resistance training (Module 38). Hold Metformin.
+   * *Daily:* Urolithin A 500–1,000 mg, NR 500–1,000 mg, $\gamma$-Oryzanol 300 mg, Zinc Carnosine 20 mg. (Dapagliflozin and Metformin are strictly excised per RET-01 and euDKA prevention).
+   * *Lift Days (Wed/Fri/Sat, $\ge 48\text{h}$ post-sirolimus):* Thrice-weekly high-load eccentric resistance training (Module 38).
 3. **Phase 3: mTORC2 Washout (Weeks 9–10):**
    * Zero rapamycin for 14–28 days to ensure full mTORC2 and immune surveillance reconstitution. Continue daily mitophagy cofactors.
 4. **Phase 4: Stem Cell Expansion & Homing (Weeks 11–12):**
@@ -3986,11 +3995,11 @@ The protocol operates on two synchronized chronobiological scales:
 ## 6. Surveillance Biomarkers & Objective Kill Criteria
 
 * **Mandatory Clonal Safety Gatekeeper:** Peripheral blood NGS CHIP panel confirming absence of expanding *DNMT3A*, *TET2*, *ASXL1*, or *JAK2* clones ($VAF < 2\%$).
-* **Whole-Blood Sirolimus 24h Trough:** Target $<3.0\text{ ng/mL}$ at 24 hours post-dose (LC-MS/MS whole blood).
+* **Whole-Blood Sirolimus 7-Day Trough ($C_{168\text{h}}$):** Target $<1.0\text{ ng/mL}$ (ideally $<0.5\text{ ng/mL}$) measured at 168 hours post-dose (immediately prior to the next weekly dose) via whole-blood LC-MS/MS. *(Pharmacokinetic Correction: Following a 5–10 mg oral dose of Rapamune, the 24-hour concentration [$C_{24\text{h}}$] is in the active distribution/plateau range of $8\text{--}22\text{ ng/mL}$. Labeling a 24-hour level as a 'trough' is a pharmacokinetic error; the true clinical trough occurs at 168 hours [$C_{168\text{h}}$], ensuring complete mTORC1/mTORC2 de-inhibition and immune/metabolic recovery before redosing).*
 * **CBC with Differential:** Target Neutrophil-to-Lymphocyte Ratio (NLR) $<2.0$, stable platelets $>150\times 10^3/\mu\text{L}$.
 * **Metabolic Surveillance:** Fasting insulin $<4.5\,\mu\text{IU/mL}$, HOMA-IR $<1.0$, HbA1c $<5.2\%$.
 * **Epigenetic Array (Illumina EPIC):** Horvath v1 deceleration (no replicative burnout), DunedinPACE $<0.85$ (ideal $<0.45$), EpImAge lymphoid recovery.
-* **Kill Criteria:** Terminate or pause protocol if CHIP clone $VAF \ge 2\%$, 24h sirolimus trough $>5.0\text{ ng/mL}$, persistent thrombocytopenia, or development of refractory mouth ulcers.
+* **Kill Criteria:** Terminate or pause protocol if CHIP clone $VAF \ge 2\%$, 7-day sirolimus trough ($C_{168\text{h}}$) $>1.0\text{ ng/mL}$, persistent thrombocytopenia, or development of refractory mouth ulcers.
 
 ---
 
@@ -4020,7 +4029,7 @@ The protocol operates on two synchronized chronobiological scales:
 ### A. Clinically Available Upstream Modulators (PGE2 Synthesis vs. Resolution)
 Because $\text{PGE}_2$ is synthesized from arachidonic acid ($\text{AA}$) via Cyclooxygenase-2 ($\text{COX-2}$) and microsomal Prostaglandin E Synthase-1 ($\text{mPGES-1}$), upstream suppression is plausible—with a major caveat regarding resolution:
 * **The NSAID Paradox (Why blunt COX-2 inhibition fails for efferocytosis):** While selective $\text{COX-2}$ inhibitors (e.g., Celecoxib, Meloxicam) or dual $\text{COX}$ inhibitors (e.g., Low-Dose Aspirin) lower $\text{PGE}_2$, complete $\text{COX-2}$ blockade simultaneously starves macrophages of **Specialized Pro-resolving Mediators (SPMs)** (lipoxins, resolvins) that are strictly required to initiate the engulfment phase of efferocytosis. Complete enzymatic ablation stops the inflammatory fire but arrests debris clearance, perpetuating tissue necrosis.
-* **Aspirin + Omega-3 (EPA/DHA) Co-Administration:** Low-dose aspirin ($81\text{ mg}$) acetylates $\text{COX-2}$, shifting its catalytic activity away from generating pro-inflammatory prostanoids ($\text{PGG}_2 \rightarrow \text{PGE}_2$) toward generating **15-epi-lipoxin A4** (aspirin-triggered lipoxins, ATLs) and **aspirin-triggered resolvins** ($\text{AT-RvD1}$, $\text{AT-RvE1}$) when paired with high-dose $\text{EPA/DHA}$. These SPMs directly bind $\text{GPR32}$ and $\text{ALX/FPR2}$ on macrophages to accelerate neutrophil efferocytosis while suppressing $\text{PGE}_2$ tone.
+* **Omega-3 (EPA/DHA) & Specialized Pro-Resolving Mediators (SPMs):** Direct supplementation with preformed SPMs (Resolvins RvD1/RvE1, Maresins, Protectins) or high-dose pharmaceutical EPA/DHA ($3\text{--}4\text{ g/day}$) binds macrophage GPR32 and ALX/FPR2 receptors, driving clearance of apoptotic neutrophils and suppressing $\text{PGE}_2$ tone. *(Critical Hemorrhage Guardrail: Daily Aspirin 81 mg is strictly EXCISED from this protocol. Module 41 incorporates TM5614 [an oral PAI-1 inhibitor] which unleashes endogenous tissue plasminogen activator [tPA] and fibrinolysis; combining daily irreversible platelet COX-1 inhibition from aspirin with PAI-1 inhibition creates severe, life-threatening systemic hemorrhagic risks).*
 * **Selective mPGES-1 Downregulation (Curcumin, Boswellic Acids / AKBA, EGCG):** Rather than ablating $\text{COX-2}$, polyphenolic compounds like **3-O-acetyl-11-keto-$\beta$-boswellic acid (AKBA)** and **tetrahydrocurcumin** selectively inhibit $\text{mPGES-1}$ (the terminal enzyme converting $\text{PGH}_2$ to $\text{PGE}_2$) and $\text{5-LOX}$. This lowers inducible $\text{PGE}_2$ concentrations in the hepatic microenvironment without depleting prostacyclin ($\text{PGI}_2$) or pro-resolving lipid mediators.
 
 ### B. Reversing the EP2 Metabolic Blockade & TRM Mitochondrial Decline
@@ -4029,7 +4038,7 @@ The paper notes that aged hepatic TRMs suffer from impaired mitochondrial mass, 
 | Intervention / Compound | Target / Mechanism | Impact on TRM Bioenergetics & Efferocytosis |
 | :--- | :--- | :--- |
 | **Urolithin A**<br>($500\text{--}1000\text{ mg/day}$) | Mitophagy Induction<br>(PINK1/Parkin & BNIP3 pathways) | Clears depolarized, superoxide-generating mitochondria in aged Kupffer cells, restoring mitochondrial membrane potential ($\Delta\Psi_m$) and shifting macrophage polarization toward a reparative, phagocytic phenotype. |
-| **Metformin or Berberine** | AMPK Activation $\longrightarrow$ GYS1 Inhibition | Activated AMPK directly phosphorylates GYS1 at Site 2 (Ser8), inhibiting glycogen synthesis and forcing glucose flux back into glycolysis and Tricarboxylic Acid (TCA) oxidation—mechanistically counteracting the $\text{EP2} \rightarrow \text{GYS1}$ metabolic trap. |
+| **Berberine Phytosome or C3G** | AMPK Activation $\longrightarrow$ GYS1 Inhibition | Activated AMPK directly phosphorylates GYS1 at Site 2 (Ser8), inhibiting glycogen synthesis and forcing glucose flux back into glycolysis and Tricarboxylic Acid (TCA) oxidation—mechanistically counteracting the $\text{EP2} \rightarrow \text{GYS1}$ metabolic trap without Complex I toxicity (Metformin excised per RET-01). |
 | **SS-31 (Elamipretide)** | Cardiolipin Stabilization<br>(Inner Mitochondrial Membrane) | Binds cardiolipin on the inner mitochondrial membrane, directly preventing electron leak at Complex I/III, abolishing excess mitochondrial superoxide, and restoring ATP synthesis required for high-energy phagocytic clearance. |
 | **NAD+ Precursors (NR / NMN) + Spermidine** | SIRT1/SIRT3 Activation & eIF5A Hypusination | Restores NAD+ pools depleted by $\text{CD38}^+$ inflammatory macrophages; activates SIRT3 to deacetylate and activate MnSOD (SOD2), quenching the mitochondrial superoxide surge highlighted in aged liver TRMs. |
 

@@ -51,10 +51,10 @@
 | Module | Intervention | Exact Dose | Pill Form | Core Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **`27`** | **Selbex (Teprenone / GGA)** | 100 mg | 1 capsule | **HSF1 chaperone primer** ($3\times\text{ HSP70}$ induction in sauna) |
-| **`34`** | **Inorganic Dietary Nitrate** | 400 mg | 1–2 capsules | Lingual enterosalivary $\text{NO}_3^- \to \text{NO}_2^- \to \text{NO}$ surge |
 
-> **⛔ CRITICAL COLLISION 5 GUARDRAIL:**
-> **STRICTLY ZERO ANTIOXIDANTS** (No Vit C, PQQ, Astaxanthin, or high-dose polyphenols) within **4 hours before or after** Sauna (`28`), HBOT (`29`), or Sprinting (`38`). Hormetic ROS is the mandatory trigger for Nrf2/HIF-1$\alpha$ and training adaptation!
+> **⛔ CRITICAL COLLISION & SYNCOPE GUARDRAILS:**
+> * **NO INORGANIC NITRATE PRE-SAUNA:** Inorganic Dietary Nitrate (`34`) is strictly excised prior to sauna sessions. Combining peak enterosalivary nitrite-to-NO conversion with Tadalafil (`10`) and 90°C cutaneous thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope. Reserve nitrate exclusively for non-sauna athletic sprint training.
+> * **STRICTLY ZERO ANTIOXIDANTS:** No Vit C, PQQ, Astaxanthin, or high-dose polyphenols within **4 hours before or after** Sauna (`28`), HBOT (`29`), or Sprinting (`38`). Hormetic ROS is the mandatory trigger for Nrf2/HIF-1$\alpha$ and training adaptation!
 
 ---
 
@@ -77,7 +77,7 @@
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🫐 DAILY POWDER SMOOTHIE (Carb-Only / 10:00 AM)                            │
 │ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
-│ • Chondroitin Sulfate: 1,200 mg (STRICTLY NO Glucosamine: anti-glycation)  │
+│ • Chondroitin Sulfate: 1,200 mg (Articular cartilage & CD44 ECM signaling)  │
 │ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 allosteric activator)   │
 │ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g               │
 │ • Pure Glycine: 5.0–10.0 g        • Super-Greens Powder: 5.0–10.0 g         │
@@ -107,7 +107,7 @@
 | :--- | :--- | :--- | :--- |
 | **Monthly** | **Mayo Pulsed Senolytics (`14`)** | Liposomal Fisetin ($20\text{--}25\text{ mg/kg}$) + Quercetin (1g) + PCC1 (500mg) $\times$ 2 days | Add to Meal 1 with 30mL EVOO. Maintain daily pillboxes. |
 | **Monthly** | **Deep Microneedling (`32`)** | 1.5mm scalp (hair stem cells) + 0.5–1.0mm face (collagen) with sterile HMW-HA | Pause topical Tretinoin for 48h post-needling. |
-| **Quarterly**| **Valter Longo 5-Day FMD (`39`)** | 5-day WFPB calorie restriction (Day 1: 900 kcal; Days 2–5: 613 kcal + glycerol drink) | **PAUSE Slot 2 Acarbose (`01`) & Enclomiphene (`17`)**. Maintain salt & water. |
+| **Quarterly**| **Valter Longo 5-Day FMD (`39`)** | 5-day WFPB calorie restriction (Day 1: 900 kcal; Days 2–5: 613 kcal + glycerol drink) | **PAUSE Slot 2 Acarbose (`01`), Enclomiphene (`17`), and Vasodilators: Tadalafil (`10`), Aged Garlic (`11`), Olive Leaf (`13`)** to prevent severe fasting orthostatic syncope. Maintain salt & water. |
 | **Quarterly**| **Pascoe TPE / Apheresis (`15`)** | 800 mL donor plasma donation $\to$ Post-donation Whey + EAAs + GlyNAC + Silymarin | Reconstitution stack taken immediately post-apheresis. |
 | **Quarterly**| **Turnbuckle Fission Shock (`03`)**| Days 1–2: NMN (500mg) + TMG (1g) fission $\to$ Days 3–7: PQQ (20mg) + DLPC (2.4g) fusion | Fumarate IMM latching separated by $\ge 24\text{h}$ from Slot 1 Ca-AKG (`23`). |
 | **Semiannual**| **Khavinson Epitalon Pulse (`20`)**| 5–10 mg Ala-Glu-Asp-Gly SC morning injection daily $\times$ 10 consecutive days | Subcutaneous injection taken upon waking alongside Slot 1. |

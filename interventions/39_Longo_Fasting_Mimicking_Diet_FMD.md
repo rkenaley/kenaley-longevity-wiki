@@ -123,18 +123,23 @@ Because the body is operating in a deeply catabolic, hypoglycemic, and autophagi
 │ 1. Acarbose (Module 01): PAUSE. Blood glucose is already low; avoids severe │
 │    hypoglycemia or gastrointestinal cramping.                               │
 │ 2. Enclomiphene & Anabolics (Module 17): PAUSE. Do not fight catabolism.    │
-│ 3. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
-│ 4. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
+│ 3. Vasodilators & Nitric Oxide Drivers: MANDATORY PAUSE for Microdose       │
+│    Tadalafil (Module 10), Kyolic Aged Garlic (Module 11), Olive Leaf        │
+│    Extract (Module 13), and Inorganic Nitrate (Module 34). Fasting causes   │
+│    profound natriuresis, hypovolemia, and sympathetic tone reduction;       │
+│    stacking vasodilators with 600 kcal fasting triggers severe orthostatic   │
+│    hypotension, cerebral hypoperfusion, and acute postural syncope.         │
+│ 4. Heavy Pre-Workouts & DMHA/Stimulants: PAUSE completely.                  │
+│ 5. Heavy Athletic Training (Module 38): PAUSE. Limit physical activity to  │
 │    low-intensity Zone 1 walking, light stretching, and restorative yoga.   │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ ✅ WHAT TO MAINTAIN DURING THE 5-DAY FMD                                    │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Electrolytes & Hydration: Minimum 2.5–3.0 L water with unrefined mineral │
-│    salt (Redmond Real Salt) to prevent orthostatic hypotension and cramps.   │
+│    salt (Redmond Real Salt) to maintain intravascular volume.               │
 │ 2. The Glycerol Beverage (Days 2–5): Sips throughout the day.              │
-│ 3. Microdose Tadalafil (Module 10): SAFE to maintain (endothelial tone).    │
-│ 4. Kyolic Aged Garlic (Module 11) & Oral Probiotic (Module 34): MAINTAIN.   │
-│ 5. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
+│ 3. Oral Probiotic (Module 34 - S. salivarius K12/M18 lozenge): MAINTAIN.   │
+│ 4. Sleep Hardware (Module 31): Mouth taping, taVNS, cool dark bedroom.      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 

@@ -47,4 +47,4 @@ SERMs can partially suppress hepatic IGF-1 synthesis by 15-25% at standard doses
 
 ---
 ## v5.0 Kinetic & Stoichiometric Optimization Patch
-* **Pulsed Dosing & Desmosterol Guardrail:** Avoid daily chronic hypothalamic ER$\alpha$ blockade (which antagonizes central longevity pathways shared by $17\alpha$-estradiol and inhibits **DHCR24**, depleting neuroprotective **Desmosterol**). Pulse **6.25 mg EOD or 3x/week** only if baseline LH/Free T requires support, and verify normal serum **Desmosterol ($>0.8\text{ mg/L}$)** on Boston Heart Cholesterol Balance testing.
+* **Pulsed Dosing & Desmosterolosis Guardrail:** Avoid daily chronic hypothalamic $\text{ER}\alpha$ blockade (which antagonizes central neuroprotective estrogen signaling). High-dose SERMs can inhibit 24-dehydrocholesterol reductase (DHCR24), the terminal enzyme reducing desmosterol to cholesterol, thereby abnormally **spiking desmosterol** and creating a risk of cataractogenic desmosterolosis. Pulse **6.25 mg EOD or 3x/week** only if baseline LH/Free T requires support, ensuring desmosterol levels do not accumulate pathologically on sterol balance panels.

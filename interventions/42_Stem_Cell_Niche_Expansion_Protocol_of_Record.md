@@ -2,7 +2,7 @@
 
 **Pillar:** Cellular Senescence, Stem Cell Niche Biology & Infradian Cleansing  
 **Conviction Tier:** CORE BET / FRONTIER GEROSCIENCE (Protocol of Record Macro-Cycle)  
-**Evidence Grade:** E1 (Human Phase 2 RCTs: PEARL, Exercise-Sirolimus, Senolytic D+Q, Fucoidan CD34+ Homing) / E4 (Murine HSC & Niche Rejuvenation)  
+**Evidence Grade:** E1 (Human Phase 2 RCTs: PEARL, Exercise-Sirolimus, Mayo Pulsed Senolytics, Fucoidan CD34+ Homing) / E4 (Murine HSC & Niche Rejuvenation)  
 **Stance:** Highly Contrarian (Targeting the non-cell-autonomous niche microenvironment via sequenced purification rather than direct mitogenic stimulation)  
 **Estimated Monthly Cost:** $60 -- $120 / month (amortized across quarterly 12-week macro-cycle)  
 **Primary Target Hallmark:** Stem Cell Exhaustion, Cellular Senescence, Altered Intercellular Communication & Mitochondrial Dysfunction  
@@ -24,7 +24,7 @@
 │               THE "QUALITY-BEFORE-QUANTITY" NICHE PURIFICATION CASCADE                 │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ STEP 1: EXTINCTION OF NICHE INFLAMMATION & SASP                                       │
-│ • Senolytics (D+Q) + Senomorphics (SGLT2i, Metformin)                                  │
+│ • Pulsed Senolytics (Liposomal Fisetin + Quercetin Phytosome + PCC1)                   │
 │ • Removes competitive survival advantage of NF-κB-driven mutant CHIP clones            │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ STEP 2: ORGANELLE PURGE & EPIGENETIC POLARITY RESTORATION                              │
@@ -56,7 +56,7 @@
 
 * **Human Rapamycin PEARL Trial (NCT04488601):** Demonstrated $+6.19\%$ lean tissue gain in women at 10 mg weekly compounded exposure, while confirming the requirement for pharmaceutical enteric tablets to achieve therapeutic bioavailability.
 * **Rapamycin + Exercise Collision Trial:** 13-week trial revealed chair-stand decline ($-2.13$ vs placebo) when rapamycin was taken concurrently with resistance training, demonstrating the absolute need for temporal separation ($\ge 48\text{h}$) between mTORC1 inhibition and mechanical loading.
-* **Phase 2 Senolytic Trial (D+Q):** Intermittent 100 mg dasatinib + 1000 mg quercetin increased osteogenic bone formation marker P1NP by $+16\%$ in senescence-burdened cohorts.
+* **Mayo Clinic Pulsed Senolytics (Module 14):** Pulsed Fisetin + Quercetin Phytosome + PCC1 (Piperlongumine) selectively clears senescent niche cells without broad-spectrum tyrosine kinase inhibitor toxicity or mitotic clock acceleration (PMC10929829).
 * **Fucoidan CD34+/CXCR4 Mobilization (Irhimeh et al.):** Standardized marine fucoidan ingestion increased circulating $\text{CD34}^+$ HSCs by $+61.1\%$ within 180 minutes and significantly amplified surface CXCR4 homing expression.
 * **Fasting-Induced Hematopoietic Rejuvenation (Cheng, Longo et al., *Cell Stem Cell* 2014):** 72–120h fasting cycles suppressed IGF-1/PKA, followed by a coordinated post-fast refeeding surge of symmetric HSC self-renewal and lymphoid reconstitution.
 
@@ -73,9 +73,9 @@
 
 * **CHIP Clonal Expansion:** Administering stem cell mobilizers (fucoidan, G-CSF) in an inflamed marrow environment without prior senolytic/senomorphic clearance preferentially expands mutated *DNMT3A*, *TET2*, and *ASXL1* pre-leukemic clones.
 * **Anabolic Blunting:** Ingesting rapamycin within 36–48 hours of resistance training blunts myofibrillar protein synthesis and satellite cell hypertrophy.
-* **Refeeding Abortion:** Administering mTORC1 inhibitors (rapamycin) or AMPK activators (metformin) during the 72-hour post-fast refeeding window aborts the regenerative stem cell rebound.
-* **Dasatinib Bleeding & pH Sensitivity:** Dasatinib requires gastric acidity (hold PPIs/$\text{H}_2$ blockers) and transiently inhibits platelets (hold NSAIDs).
-* **Ketoacidosis Risk:** SGLT2 inhibitors and metformin must be strictly paused during the 72–96h fast.
+* **Refeeding Abortion:** Administering mTORC1 inhibitors (rapamycin) during the 72-hour post-fast refeeding window aborts the regenerative stem cell rebound.
+* **Dasatinib & Metformin Retirement (RET-01 / RET-02):** Dasatinib and Metformin are strictly excised from the protocol of record. Dasatinib (a non-selective tyrosine kinase inhibitor) accelerates mitotic epigenetic clocks (PMC10929829) and carries bleeding and pulmonary/pleural effusion risks. Metformin inhibits Complex I and blunts mitochondrial and myofibrillar adaptations to exercise.
+* **Ketoacidosis Guardrail:** SGLT2 inhibitors (Dapagliflozin/Empagliflozin) are excised due to the unacceptable hazard of euglycemic Diabetic Ketoacidosis (euDKA) when combined with prolonged fasting or the Fasting Mimicking Diet.
 
 ---
 
@@ -93,15 +93,14 @@ The protocol operates on two synchronized chronobiological scales:
 
 ### The 4 Chrono-Phases:
 1. **Phase 1: Niche Reset (Weeks 1–2):**
-   * *Days 1–3:* Dasatinib 100 mg + Quercetin 1000 mg QD (hold all other biohacks and NSAIDs).
+   * *Days 1–3:* Mayo Clinic Pulsed Senolytics: Liposomal Fisetin (20–25 mg/kg) + Quercetin Phytosome (1,000 mg) + PCC1 (500 mg) QD (Module 14; Dasatinib is strictly excised per RET-02 and PMC10929829).
    * *Days 4–7:* Macrophage phagocytic debris clearance.
-   * *Days 8–11:* 72–96 hour water fast or FMD (Module 39). Hold SGLT2i and Metformin.
-   * *Days 12–14:* Anabolic refeed + Urolithin A (1000 mg) + NR (1000 mg) + Zinc Carnosine (20 mg).
+   * *Days 8–11:* 72–96 hour water fast or 5-day FMD (Module 39).
+   * *Days 12–14:* Anabolic refeed + Urolithin A (1,000 mg) + NR (1,000 mg) + Zinc Carnosine (20 mg).
 2. **Phase 2: mTORC1 Pulsing & Mitophagy Priming (Weeks 3–8):**
    * *Monday AM:* Rapamycin 5–10 mg (pharmaceutical tablets) with a fat-containing meal.
-   * *Daily:* Urolithin A 500–1000 mg, NR 500–1000 mg, Dapagliflozin 5–10 mg, $\gamma$-Oryzanol 300 mg, Zinc Carnosine 20 mg.
-   * *Non-Lift Days (Tue/Thu/Sun):* Metformin 500–1000 mg.
-   * *Lift Days (Wed/Fri/Sat, $\ge 48\text{h}$ post-sirolimus):* Thrice-weekly high-load eccentric resistance training (Module 38). Hold Metformin.
+   * *Daily:* Urolithin A 500–1,000 mg, NR 500–1,000 mg, $\gamma$-Oryzanol 300 mg, Zinc Carnosine 20 mg. (Dapagliflozin and Metformin are strictly excised per RET-01 and euDKA prevention).
+   * *Lift Days (Wed/Fri/Sat, $\ge 48\text{h}$ post-sirolimus):* Thrice-weekly high-load eccentric resistance training (Module 38).
 3. **Phase 3: mTORC2 Washout (Weeks 9–10):**
    * Zero rapamycin for 14–28 days to ensure full mTORC2 and immune surveillance reconstitution. Continue daily mitophagy cofactors.
 4. **Phase 4: Stem Cell Expansion & Homing (Weeks 11–12):**
@@ -113,11 +112,11 @@ The protocol operates on two synchronized chronobiological scales:
 ## 6. Surveillance Biomarkers & Objective Kill Criteria
 
 * **Mandatory Clonal Safety Gatekeeper:** Peripheral blood NGS CHIP panel confirming absence of expanding *DNMT3A*, *TET2*, *ASXL1*, or *JAK2* clones ($VAF < 2\%$).
-* **Whole-Blood Sirolimus 24h Trough:** Target $<3.0\text{ ng/mL}$ at 24 hours post-dose (LC-MS/MS whole blood).
+* **Whole-Blood Sirolimus 7-Day Trough ($C_{168\text{h}}$):** Target $<1.0\text{ ng/mL}$ (ideally $<0.5\text{ ng/mL}$) measured at 168 hours post-dose (immediately prior to the next weekly dose) via whole-blood LC-MS/MS. *(Pharmacokinetic Correction: Following a 5–10 mg oral dose of Rapamune, the 24-hour concentration [$C_{24\text{h}}$] is in the active distribution/plateau range of $8\text{--}22\text{ ng/mL}$. Labeling a 24-hour level as a 'trough' is a pharmacokinetic error; the true clinical trough occurs at 168 hours [$C_{168\text{h}}$], ensuring complete mTORC1/mTORC2 de-inhibition and immune/metabolic recovery before redosing).*
 * **CBC with Differential:** Target Neutrophil-to-Lymphocyte Ratio (NLR) $<2.0$, stable platelets $>150\times 10^3/\mu\text{L}$.
 * **Metabolic Surveillance:** Fasting insulin $<4.5\,\mu\text{IU/mL}$, HOMA-IR $<1.0$, HbA1c $<5.2\%$.
 * **Epigenetic Array (Illumina EPIC):** Horvath v1 deceleration (no replicative burnout), DunedinPACE $<0.85$ (ideal $<0.45$), EpImAge lymphoid recovery.
-* **Kill Criteria:** Terminate or pause protocol if CHIP clone $VAF \ge 2\%$, 24h sirolimus trough $>5.0\text{ ng/mL}$, persistent thrombocytopenia, or development of refractory mouth ulcers.
+* **Kill Criteria:** Terminate or pause protocol if CHIP clone $VAF \ge 2\%$, 7-day sirolimus trough ($C_{168\text{h}}$) $>1.0\text{ ng/mL}$, persistent thrombocytopenia, or development of refractory mouth ulcers.
 
 ---
 
@@ -147,7 +146,7 @@ The protocol operates on two synchronized chronobiological scales:
 ### A. Clinically Available Upstream Modulators (PGE2 Synthesis vs. Resolution)
 Because $\text{PGE}_2$ is synthesized from arachidonic acid ($\text{AA}$) via Cyclooxygenase-2 ($\text{COX-2}$) and microsomal Prostaglandin E Synthase-1 ($\text{mPGES-1}$), upstream suppression is plausible—with a major caveat regarding resolution:
 * **The NSAID Paradox (Why blunt COX-2 inhibition fails for efferocytosis):** While selective $\text{COX-2}$ inhibitors (e.g., Celecoxib, Meloxicam) or dual $\text{COX}$ inhibitors (e.g., Low-Dose Aspirin) lower $\text{PGE}_2$, complete $\text{COX-2}$ blockade simultaneously starves macrophages of **Specialized Pro-resolving Mediators (SPMs)** (lipoxins, resolvins) that are strictly required to initiate the engulfment phase of efferocytosis. Complete enzymatic ablation stops the inflammatory fire but arrests debris clearance, perpetuating tissue necrosis.
-* **Aspirin + Omega-3 (EPA/DHA) Co-Administration:** Low-dose aspirin ($81\text{ mg}$) acetylates $\text{COX-2}$, shifting its catalytic activity away from generating pro-inflammatory prostanoids ($\text{PGG}_2 \rightarrow \text{PGE}_2$) toward generating **15-epi-lipoxin A4** (aspirin-triggered lipoxins, ATLs) and **aspirin-triggered resolvins** ($\text{AT-RvD1}$, $\text{AT-RvE1}$) when paired with high-dose $\text{EPA/DHA}$. These SPMs directly bind $\text{GPR32}$ and $\text{ALX/FPR2}$ on macrophages to accelerate neutrophil efferocytosis while suppressing $\text{PGE}_2$ tone.
+* **Omega-3 (EPA/DHA) & Specialized Pro-Resolving Mediators (SPMs):** Direct supplementation with preformed SPMs (Resolvins RvD1/RvE1, Maresins, Protectins) or high-dose pharmaceutical EPA/DHA ($3\text{--}4\text{ g/day}$) binds macrophage GPR32 and ALX/FPR2 receptors, driving clearance of apoptotic neutrophils and suppressing $\text{PGE}_2$ tone. *(Critical Hemorrhage Guardrail: Daily Aspirin 81 mg is strictly EXCISED from this protocol. Module 41 incorporates TM5614 [an oral PAI-1 inhibitor] which unleashes endogenous tissue plasminogen activator [tPA] and fibrinolysis; combining daily irreversible platelet COX-1 inhibition from aspirin with PAI-1 inhibition creates severe, life-threatening systemic hemorrhagic risks).*
 * **Selective mPGES-1 Downregulation (Curcumin, Boswellic Acids / AKBA, EGCG):** Rather than ablating $\text{COX-2}$, polyphenolic compounds like **3-O-acetyl-11-keto-$\beta$-boswellic acid (AKBA)** and **tetrahydrocurcumin** selectively inhibit $\text{mPGES-1}$ (the terminal enzyme converting $\text{PGH}_2$ to $\text{PGE}_2$) and $\text{5-LOX}$. This lowers inducible $\text{PGE}_2$ concentrations in the hepatic microenvironment without depleting prostacyclin ($\text{PGI}_2$) or pro-resolving lipid mediators.
 
 ### B. Reversing the EP2 Metabolic Blockade & TRM Mitochondrial Decline
@@ -156,7 +155,7 @@ The paper notes that aged hepatic TRMs suffer from impaired mitochondrial mass, 
 | Intervention / Compound | Target / Mechanism | Impact on TRM Bioenergetics & Efferocytosis |
 | :--- | :--- | :--- |
 | **Urolithin A**<br>($500\text{--}1000\text{ mg/day}$) | Mitophagy Induction<br>(PINK1/Parkin & BNIP3 pathways) | Clears depolarized, superoxide-generating mitochondria in aged Kupffer cells, restoring mitochondrial membrane potential ($\Delta\Psi_m$) and shifting macrophage polarization toward a reparative, phagocytic phenotype. |
-| **Metformin or Berberine** | AMPK Activation $\longrightarrow$ GYS1 Inhibition | Activated AMPK directly phosphorylates GYS1 at Site 2 (Ser8), inhibiting glycogen synthesis and forcing glucose flux back into glycolysis and Tricarboxylic Acid (TCA) oxidation—mechanistically counteracting the $\text{EP2} \rightarrow \text{GYS1}$ metabolic trap. |
+| **Berberine Phytosome or C3G** | AMPK Activation $\longrightarrow$ GYS1 Inhibition | Activated AMPK directly phosphorylates GYS1 at Site 2 (Ser8), inhibiting glycogen synthesis and forcing glucose flux back into glycolysis and Tricarboxylic Acid (TCA) oxidation—mechanistically counteracting the $\text{EP2} \rightarrow \text{GYS1}$ metabolic trap without Complex I toxicity (Metformin excised per RET-01). |
 | **SS-31 (Elamipretide)** | Cardiolipin Stabilization<br>(Inner Mitochondrial Membrane) | Binds cardiolipin on the inner mitochondrial membrane, directly preventing electron leak at Complex I/III, abolishing excess mitochondrial superoxide, and restoring ATP synthesis required for high-energy phagocytic clearance. |
 | **NAD+ Precursors (NR / NMN) + Spermidine** | SIRT1/SIRT3 Activation & eIF5A Hypusination | Restores NAD+ pools depleted by $\text{CD38}^+$ inflammatory macrophages; activates SIRT3 to deacetylate and activate MnSOD (SOD2), quenching the mitochondrial superoxide surge highlighted in aged liver TRMs. |
 

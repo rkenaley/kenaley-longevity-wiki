@@ -45,7 +45,7 @@ In the Belsky et al. (*eLife*, 2022) elastic-net derivation of **DunedinPACE**, 
 1. **Selective Subgingival Decontamination (Sparing the Lingual Dorsum):** Subgingival irrigation (Pik Pocket tip at lowest pressure) 2x/week with freshly diluted **0.10% Sodium Hypochlorite** or **Ozonated RO Water**, followed by water rinse. Never swish biocides across the tongue.
 2. **Bacteriocin Replacement Therapy (*Streptococcus salivarius* K12 & M18):** Dissolve 1 lozenge ($2\times 10^9\text{ CFU}$) on tongue nightly after brushing and immediately prior to applying **`31_Mouth_Taping`**.
 3. **Biomimetic Enamel & Biofilm Matrix Shield:** Brush with **10% Microcrystalline Nano-Hydroxyapatite (nHAp)** + **Xylitol/Erythritol**.
-4. **Targeted Enterosalivary Nitrate Loading:** Administer **400–500 mg standardized inorganic Nitrate ($\text{NO}_3^-$)** 90 minutes pre-training/sauna (Phase 3), coupling with **`10_Microdose_Tadalafil`**.
+4. **Targeted Enterosalivary Nitrate Loading:** Administer **400–500 mg standardized inorganic Nitrate ($\text{NO}_3^-$)** 90–120 minutes prior to high-intensity athletic training (Phase 3). *(Critical Sauna & Vasodilation Guardrail: Inorganic Nitrate is strictly EXCISED from pre-sauna use. Peak enterosalivary nitrite-to-NO conversion combined with Tadalafil [Module 10] and 90°C Finnish sauna cutaneous vasodilation creates severe orthostatic and heat syncope hazards. Nitrate should only be timed for non-sauna athletic sprint or endurance performance).*
 
 ---
 

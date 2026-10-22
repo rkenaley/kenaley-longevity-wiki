@@ -87,7 +87,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 
 ### E. Endocrine & Biomarker Calibration Audit ([Module 17](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/17_Enclomiphene_Pure_Trans_SERM.md))
 * **The Cadence:** Every 90 days.
-* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to confirm DHCR24 integrity)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
+* **The Surveillance Panel:** Complete blood count (CBC), Comprehensive Metabolic Panel (CMP with eGFR), Total and Free Testosterone (LC-MS/MS), Sensitive Estradiol ($E_2$ via LC-MS/MS), SHBG, LH, FSH, **Desmosterol (to rule out SERM-induced DHCR24 desmosterolosis)**, Lipid Panel with ApoB, and hs-CRP. Calibrates Enclomiphene alternate-day microdosing.
 
 ---
 
