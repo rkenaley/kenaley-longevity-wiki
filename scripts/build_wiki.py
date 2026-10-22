@@ -105,6 +105,9 @@ MODULE_IMAGES = {
     41: [
         {"file": "Stem CEll Factors.jpg", "caption": "PAI-1 Inhibition: Hematopoietic Stem Cell Mobilization & Epigenetic Clock Reversal"},
         {"file": "Antiaging Summary.jpg", "caption": "SASP Suppression & Extracellular Matrix Microvascular Restoration"}
+    ],
+    42: [
+        {"file": "stem_cell_macrocycle_panel1.png", "caption": "Panel 1: 12-Week Macro-Cycle — Sequential Niche Purification, Priming & Mobilization"}
     ]
 }
 
@@ -122,7 +125,8 @@ def get_html_filename(mod_num, name=""):
         30: "30_photobiomodulation_pbm.html", 31: "31_sleep_architecture_tavns.html", 32: "32_topical_dermatology.html",
         33: "33_environmental_defense.html", 34: "34_oral_microbiome_nitrate.html", 35: "35_cardiolipin_remodeling.html",
         36: "36_ecm_glycation_defense.html", 37: "37_precision_nutrition_recipes.html", 38: "38_athletic_bmt_sprinting.html",
-        39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html", 41: "41_tm5614_oral_pai1_inhibitor.html"
+        39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html", 41: "41_tm5614_oral_pai1_inhibitor.html",
+        42: "42_stem_cell_niche_expansion.html"
     }
     return slug_map.get(mod_num, f"{mod_num:02d}.html")
 
@@ -141,7 +145,7 @@ def build_data_js(items):
     print("assets/js/data.js generated successfully.")
 
 def build_subpages(csv_items):
-    print("Building all 40 module subpages...")
+    print("Building all 42 module subpages...")
     
     csv_by_mod = {}
     for item in csv_items:
@@ -149,7 +153,7 @@ def build_subpages(csv_items):
         if m:
             csv_by_mod[int(m.group(1))] = item
 
-    for mod_num in range(1, 42):
+    for mod_num in range(1, 43):
         matches = [f for f in os.listdir(INTERVENTIONS_DIR) if re.match(rf"^{mod_num:02d}_.*\.md$", f)]
         if not matches:
             print(f"Warning: No markdown found for module {mod_num}")
@@ -202,7 +206,7 @@ def build_subpages(csv_items):
             prev_link_html = '<div></div>'
 
         next_link_html = ""
-        if mod_num < 41:
+        if mod_num < 42:
             next_file = get_html_filename(mod_num + 1)
             next_row = csv_by_mod.get(mod_num + 1, {})
             next_title = f"INT-{mod_num+1:02d}: {next_row.get('Intervention', '')}"
