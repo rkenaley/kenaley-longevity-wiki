@@ -32,14 +32,14 @@ This repository is built to be **100% lossless**. Anyone can drag the master fil
 The repository includes a self-contained, lightning-fast static wiki web application with **zero external runtime dependencies** (no Node.js, no npm, no build step required).
 
 ### Key Features:
-* **📊 Interactive Master Index Spreadsheet:** Real-time client-side live search and multi-tag filtering across all 40 active modules + 5 retired interventions. Filter by Biological Pillar, Conviction Tier, Evidence Grade, or Keywords.
+* **📊 Interactive Master Index Spreadsheet:** Real-time client-side live search and multi-tag filtering across all 42 active modules + 5 retired interventions. Filter by Biological Pillar, Conviction Tier, Evidence Grade, or Keywords.
 * **⏰ 24-Hour Circadian Oscillator Timeline:** Interactive minute-by-minute schedule from 06:30 waking through 22:30 sleep, linking every action to its biophysical module.
-* **🔄 Infradian Macro-Cycle:** Dedicated dashboard for Monthly (Mayo Fisetin), Quarterly (Longo FMD, Pascoe TPE, Turnbuckle Fission), Semiannual (Epitalon), and Annual (HBOT) pulses.
+* **🔄 Infradian Macro-Cycle:** Dedicated dashboard for Monthly (Mayo Fisetin), Quarterly (Longo FMD, Pascoe TPE, Turnbuckle Fission), Semiannual (Epitalon), and Annual (HBOT, TM5614 PAI-1 pulse) pulses.
 * **💊 Physical Pillbox Dispenser Matrix:** 1:1 digital reflection of standard 7-day 4-compartment organizers (Slot 1 AM Fasted, Slot 2 Midday Meal 1, Slot 3 Pre-Hormesis Pouch, Slot 4 Bedtime) + lab fridge inventory.
 * **🥣 Precision Longevity Kitchen & Recipes:** Detailed preparation guides for 15g Collagen Bone Broth + Liposomal C, Evening Collagen Mugcake, "One Smoothie Per Day" Carb-Only Powder Vehicle, and Pressure-Cooker Retrograded RS3 Starch.
 * **⚡ Athletic Performance BMT Hub:** Zac Goodman Biomechanical Tendon (BMT) protocol, paused box squats, DB weighted jumps, thrower's bench, fresh-CNS sprints, and A/B/A periodization.
 * **⚰️ Epistemic Graveyard:** Transparent audit trail explaining why Metformin (MASTERS trial hypertrophy blunting), D+Q, C60, Supraphysiological TRT/rhGH, and post-workout mega-dose antioxidants were permanently retired.
-* **📄 40 Spidered Deep-Dive Subpages:** In `modules/01_acarbose.html` to `modules/40_infradian.html`, complete with embedded anatomical, vascular, endocrine, and athletic diagrams.
+* **📄 42 Spidered Deep-Dive Subpages:** In `modules/01_acarbose.html` to `modules/42_stem_cell_niche_expansion.html`, complete with embedded anatomical, vascular, endocrine, and athletic diagrams.
 
 ---
 
