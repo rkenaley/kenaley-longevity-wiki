@@ -232,11 +232,16 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 | **`01`** | **Acarbose** | 25–50 mg | 1 tablet | **TAKE WITH FIRST FORKFUL** ($\alpha$-glucosidase blockade) |
 | **`08`** | **Bempedoic Acid + Ezetimibe** | 180 mg / 10 mg | 1 combo tab | Hepatic ACLY & NPC1L1 blockade (ApoB $<35\text{ mg/dL}$) |
 | **`08`** | **Citrus Bergamot** | 500 mg | 1 capsule | Polyphenolic AMPK activation & residual lipid support |
-| **`09`** | **Vitamin K2 (MK-7 all-trans)** | 200 $\mu$g | 1 softgel | Matrix Gla Protein (MGP) elastin decalcification |
+| **`09`** | **Vitamin K2 (MK-7 all-trans)** | 200 $\mu$g | 1 softgel | Matrix Gla Protein (MGP) elastin decalcification & IAP induction |
 | **`09`** | **Vitamin D3 + Retinol** | 3,000 IU / 2,500 IU | 1 softgel | GGCX transcriptional synergy with MK-7 |
 | **`11`** | **Kyolic Aged Garlic (SAC)** | 600 mg | 1 capsule | Endothelial $\text{H}_2\text{S}$ persulfidation & TMAO suppression |
 | **`11`** | **Rhamnan Sulfate** | 100 mg | 1 capsule | Heparan sulfate endothelial glycocalyx scaffolding |
 | **`12`** | **Antarctic Krill Oil** | 1,000 mg | 1–2 softgels | MFSD2A BBB LPC-DHA delivery + Astaxanthin |
+| **`12/42`**| **High-Dose EPA/DHA + SPMs** | 2,000–3,000 mg | 2–3 softgels | Resolvin/protectin substrate pool; accelerates efferocytosis |
+| **`42`** | **Low-Dose Aspirin** | 81 mg | 1 enteric tab | Acetylates COX-2 $\to$ 15-epi-LXA4 & AT-resolvins with EPA/DHA |
+| **`42`** | **AKBA (Boswellia) + Curcumin** | 300 mg / 500 mg | 1–2 capsules | Selective mPGES-1 & 5-LOX inhibition (lowers PGE2; spares SPMs) |
+| **`42`** | **Tributyrin (Core Butyrate)** | 1,000 mg | 1–2 softgels | Restores colonocyte tight junctions; blocks portal LPS translocation |
+| **`42`** | **Luteolin** | 100 mg | 1 capsule | Neutrophil PAD4 & NOX2 inhibition; prevents NETosis & MPO SASP |
 | **`13`** | **Olive Leaf Extract (Oleuropein)** | 500 mg | 1 capsule | MCU channel activation & AMPK stimulation |
 | **`36`** | **Benfotiamine + Carnosine** | 150 mg / 500 mg | 1–2 capsules | Transketolase activation & MGO dicarbonyl trapping |
 | **`36`** | **Pyridoxamine (or P-5-P)** | 50 mg | 1 capsule | Glucosepane intermediate trapping |
@@ -266,6 +271,8 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 | **`35`** | **Trimethylglycine (TMG / Betaine)** | 1.5 g | 2 tablets | Clears SAH via BHMT, sparing SAMe for PEMT |
 | **`11`** | **Kyolic Aged Garlic (SAC)** | 600 mg | 1 capsule | Split dose for nocturnal vascular endothelial protection |
 | **`36`** | **Chebulic + Rosmarinic Acid** | 500 mg / 250 mg | 1–2 capsules | Cleaves established glucosepane collagen crosslinks |
+| **`42`** | **Palmitoylethanolamide (PEA)** | 400–600 mg | 1–2 capsules | Macrophage PPAR$\alpha/\gamma/\delta$ co-activation, upregulates MerTK, prevents post-engulfment paralysis |
+| **`42`** | **Melatonin (Nocturnal Microdose)** | 0.3–1.0 mg | 1 cap / drop | Direct MPO heme-pocket inhibition; blocks HOCl & NETs during sleep |
 | **`31`** | **Magnesium L-Threonate / Bisglycinate**| 300–400 mg elem. | 2–3 capsules | GABA-A agonism, NMDA stability & sleep architecture |
 
 ---
@@ -277,13 +284,16 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 │ 🫐 DAILY POWDER SMOOTHIE (Early: 16:00 | Afternoon-Anchor: 10:30 AM)        │
 │ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
 │ • Chondroitin Sulfate: 1,200 mg (STRICTLY NO Glucosamine: anti-glycation)  │
-│ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 allosteric activator)   │
-│ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g               │
-│ • Pure Glycine: 5.0–10.0 g        • Super-Greens Powder: 5.0–10.0 g         │
-│ • Agaricus blazei: 500–1,000 mg   • Creatine Monohydrate: 5.0 g             │
+│ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 & Macrophage LXRα)     │
+│ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g (HOCl trap)   │
+│ • Pure Glycine: 5.0–10.0 g        • Pure NAC (N-Acetylcysteine): 1,000 mg   │
+│   (Glycine + NAC = GlyNAC Engine: cleaves NETs & restores hepatic GSH)      │
+│ • Agaricus blazei: 500–1,000 mg   • Super-Greens Powder: 5.0–10.0 g         │
+│ • Creatine Monohydrate: 5.0 g                                               │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🥣 TENDON / PRE-WORKOUT BROTH (Early: 11:30 AM | Afternoon-Anchor: 15:15)    │
 │ 12-16 oz Warm Broth + 15 g Collagen + Liposomal C + 200–500 mg HMW-HA       │
+│ + 15–20 mg Zinc Carnosine (IAP inducer: dephosphorylates luminal LPS)       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (Early: 21:00 | Afternoon-Anchor: 20:45)        │
 │ 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave)            │
@@ -293,7 +303,8 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 │ 2. Apply topical Tretinoin 0.05% to face (`32`)                             │
 │ 3. 15-minute pre-sleep auricular taVNS session (left tragus - `31`)        │
 │ 4. Apply 3M Micropore surgical mouth tape horizontally (`31`)               │
-│ 5. Optional Needle-Free Travel Fallback: 5.0–8.0 g L-Ornithine + Choline (`19`)
+│ 5. Akkermansia muciniphila + S. boulardii (thickens gut mucin barrier)      │
+│ 6. Optional Needle-Free Travel Fallback: 5.0–8.0 g L-Ornithine + Choline (`19`)
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -348,6 +359,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
 * **Electrolyte Salt:** 1/4 to 1/2 tsp unrefined mineral salt (Redmond Real Salt or Celtic sea salt) supplying sodium and trace minerals.
 * **Obligate Co-Factor:** **500–1,000 mg Liposomal Vitamin C** (taken as liquid or capsule immediately alongside the warm broth drink).
+* **Gut-Liver IAP Co-Factor:** **15–20 mg Zinc Carnosine** (acts as an Intestinal Alkaline Phosphatase inducer to dephosphorylate luminal endotoxin/LPS).
 * **Optional Enhancers:** Pinch of ground black pepper, 1/4 tsp turmeric, or a thin slice of fresh ginger.
 
 ### Instructions
@@ -407,13 +419,14 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 │ 🧪 THE POWDER PAYLOAD                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Chondroitin Sulfate: 1,200 mg (Extracellular matrix / CD44 signaling)    │
-│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 activator)     │
+│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 & Macrophage LXRα)│
 │ 3. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
-│ 4. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
+│ 4. Taurine Powder: 2.0–3.0 g (mt-tRNA wobble U34 & neutrophil HOCl trap)    │
 │ 5. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
-│ 6. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
-│ 7. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
-│ 8. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
+│ 6. Pure N-Acetylcysteine (NAC): 1,000 mg (Glycine + NAC = GlyNAC Engine)     │
+│ 7. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / phytonutrients) │
+│ 8. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
+│ 9. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -429,6 +442,12 @@ The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberri
 * This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
 * Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
 * **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, suppressing postprandial glucose surges, blunting glucosepane crosslinking, and shunting carbohydrates downstream.
+
+### GlyNAC & Efferocytosis Engine: Neutrophil NET Cleavage & Macrophage LXRα Activation
+Beyond sirtuin and anti-glycation mechanisms, the daily smoothie delivers the core components of the **Hepatic TRM Resolution and Efferocytosis Stack ([Module 42](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/42_Stem_Cell_Niche_Expansion_Protocol_of_Record.md#L141)):**
+* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**, protecting hepatocytes from ICAM-1 stress.
+* **Macrophage LXRα Activation (Cyanidin-3-Glucoside / C3G):** Acts as a direct natural ligand for LXRα in hepatic Kupffer cells, driving cholesterol efflux pumps (ABCA1/ABCG1) and upregulating MerTK "eat-me" efferocytic receptors to clear senescent CXCR4hi neutrophils without inducing SREBP-1c hepatic steatosis.
+* **Taurine Neutrophil HOCl Scavenging (2–3 g Taurine):** Scavenges tissue-destroying hypochlorous acid (HOCl) released by neutrophil myeloperoxidase (MPO), forming anti-inflammatory taurine chloramine (TauCl) and stabilizing mitochondrial tRNA translation.
 
 ### Blending Instructions
 1. Add the cold water/coconut water and lemon juice to a high-speed blender container.
@@ -3174,6 +3193,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
 * **Electrolyte Salt:** 1/4 to 1/2 tsp unrefined mineral salt (Redmond Real Salt or Celtic sea salt) supplying sodium and trace minerals.
 * **Obligate Co-Factor:** **500–1,000 mg Liposomal Vitamin C** (taken as liquid or capsule immediately alongside the warm broth drink).
+* **Gut-Liver IAP Co-Factor:** **15–20 mg Zinc Carnosine** (acts as an Intestinal Alkaline Phosphatase inducer to dephosphorylate luminal endotoxin/LPS).
 * **Optional Enhancers:** Pinch of ground black pepper, 1/4 tsp turmeric, or a thin slice of fresh ginger.
 
 ### Instructions
@@ -3233,13 +3253,14 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 │ 🧪 THE POWDER PAYLOAD                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. Chondroitin Sulfate: 1,200 mg (Extracellular matrix / CD44 signaling)    │
-│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 activator)     │
+│ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 & Macrophage LXRα)│
 │ 3. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
-│ 4. Taurine Powder: 1.5–3.0 g (TauT saturation / mt-tRNA wobble U34)         │
+│ 4. Taurine Powder: 2.0–3.0 g (mt-tRNA wobble U34 & neutrophil HOCl trap)    │
 │ 5. Pure Glycine Powder: 5.0–10.0 g (Sweetening agent / collagen precursor)  │
-│ 6. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / sulforaphane)   │
-│ 7. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
-│ 8. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
+│ 6. Pure N-Acetylcysteine (NAC): 1,000 mg (Glycine + NAC = GlyNAC Engine)     │
+│ 7. Super-Greens Powder: 5.0–10.0 g (Spirulina / Chlorella / phytonutrients) │
+│ 8. Agaricus blazei Extract: 500–1,000 mg (Beta-1,3/1,6-glucan Dectin-1)     │
+│ 9. Creatine Monohydrate: 5.0 g (Module 35: PEMT SAMe sparing)               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -3255,6 +3276,12 @@ The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberri
 * This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
 * Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
 * **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, suppressing postprandial glucose surges, blunting glucosepane crosslinking, and shunting carbohydrates downstream.
+
+### GlyNAC & Efferocytosis Engine: Neutrophil NET Cleavage & Macrophage LXRα Activation
+Beyond sirtuin and anti-glycation mechanisms, the daily smoothie delivers the core components of the **Hepatic TRM Resolution and Efferocytosis Stack ([Module 42](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/42_Stem_Cell_Niche_Expansion_Protocol_of_Record.md#L141)):**
+* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**, protecting hepatocytes from ICAM-1 stress.
+* **Macrophage LXRα Activation (Cyanidin-3-Glucoside / C3G):** Acts as a direct natural ligand for LXRα in hepatic Kupffer cells, driving cholesterol efflux pumps (ABCA1/ABCG1) and upregulating MerTK "eat-me" efferocytic receptors to clear senescent CXCR4hi neutrophils without inducing SREBP-1c hepatic steatosis.
+* **Taurine Neutrophil HOCl Scavenging (2–3 g Taurine):** Scavenges tissue-destroying hypochlorous acid (HOCl) released by neutrophil myeloperoxidase (MPO), forming anti-inflammatory taurine chloramine (TauCl) and stabilizing mitochondrial tRNA translation.
 
 ### Blending Instructions
 1. Add the cold water/coconut water and lemon juice to a high-speed blender container.

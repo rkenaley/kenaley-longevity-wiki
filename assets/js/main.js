@@ -192,7 +192,7 @@ function getModuleHtmlName(modNum) {
     30: "30_photobiomodulation_pbm.html", 31: "31_sleep_architecture_tavns.html", 32: "32_topical_dermatology.html",
     33: "33_environmental_defense.html", 34: "34_oral_microbiome_nitrate.html", 35: "35_cardiolipin_remodeling.html",
     36: "36_ecm_glycation_defense.html", 37: "37_precision_nutrition_recipes.html", 38: "38_athletic_bmt_sprinting.html",
-    39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html"
+    39: "39_longo_fmd.html", 40: "40_infradian_pulsed_cadence.html", 41: "41_tm5614_oral_pai1_inhibitor.html", 42: "42_stem_cell_niche_expansion.html"
   };
   return map[modNum] || `${modNum}.html`;
 }
