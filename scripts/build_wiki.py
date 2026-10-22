@@ -15,7 +15,7 @@ import re
 from md_parser import simple_markdown_to_html
 
 WIKI_DIR = r"d:\Ryan Files 2026\06_Health_and_Wellness\kenaley-longevity-wiki"
-INTERVENTIONS_DIR = r"d:\Ryan Files 2026\06_Health_and_Wellness\Whitepaper_v4_Rewrite\interventions"
+INTERVENTIONS_DIR = os.path.join(WIKI_DIR, "interventions")
 CSV_PATH = os.path.join(WIKI_DIR, "Kenaley_Protocol_Interventions_Index.csv")
 
 os.makedirs(os.path.join(WIKI_DIR, "assets", "css"), exist_ok=True)

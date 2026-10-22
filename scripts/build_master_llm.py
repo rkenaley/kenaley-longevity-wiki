@@ -10,7 +10,7 @@ import glob
 import re
 
 ROOT_DIR = r"d:\Ryan Files 2026\06_Health_and_Wellness"
-INTERVENTIONS_DIR = os.path.join(ROOT_DIR, "Whitepaper_v4_Rewrite", "interventions")
+INTERVENTIONS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "interventions")
 PILLBOX_MD_PATH = os.path.join(ROOT_DIR, "Kenaley_Pillbox_Matrix_Card.md")
 OUT_PATH = os.path.join(ROOT_DIR, "kenaley-longevity-wiki", "KENALEY_LONGEVITY_V5_MASTER_LLM.md")
 
