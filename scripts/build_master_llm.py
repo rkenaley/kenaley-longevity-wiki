@@ -181,107 +181,85 @@ Prior to initiating pharmacological or pulsed biohacks, the following non-negoti
     # 2. Section III: The Master 24-Hour Chrono-Architecture
     doc.append("""# SECTION III: THE MASTER 24-HOUR CHRONO-ARCHITECTURE (CIRCADIAN PROTOCOL)
 
-The protocol organizes all pharmacological, nutritional, and physical interventions into strict circadian windows to eliminate kinetic collisions, prevent receptor cross-tolerance, and align with natural physiological oscillators:
-
-### 06:30 - 07:00 | Circadian Awakening & Cortisol Awakening Surge
-- **Photobiology:** Step outside for 10-15 minutes of direct solar photon exposure to reset the suprachiasmatic nucleus (SCN).
-- **Hydration:** 20-24 oz (600-750 mL) purified RO water with a pinch of Celtic sea salt / potassium bicarbonate.
-- **Dispensing:** **Pillbox Slot 1 (AM Fasted)** swallowed with water.
-  - Urolithin A (1,000 mg) — Fasted PINK1/Parkin mitophagy & HSC rejuvenation
-  - Calcium-AKG (1,000 mg) — TET1–3 DNA demethylation co-substrate & systemic IL-10 surge
-  - Liposomal Vitamin C (500 mg) — Reduces active-site Fe3+ to Fe2+ for TET enzymes
-  - Microdose Tadalafil (2.5 - 5.0 mg) — Endothelial cGMP / PKG1 signaling & renal eGFR
-  - Low-Dose Lithium Orotate (5 mg elemental) — GSK-3β inhibition & hippocampal BDNF preservation
-  *(Note on Pill Trims: Spermidine capsules are retired in favor of the colonic bioreactor; Cat's Claw AC-11 is retired due to C3G SIRT6-PARP1 redundancy; Apigenin is moved to Slot 4 PM to prevent morning cognitive sedation).*
-- **Sublingual / Mon-Wed-Fri Only:** Selegiline (0.25 mg sublingual). *Allow to absorb under tongue for 5 minutes; do not swallow whole.*
-- **Oral Protocol (Module 34):** Tongue scraping followed by remineralizing nano-hydroxyapatite brushing. *Strictly avoid chlorhexidine or alcohol-based mouthwashes.*
-
-### 07:00 - 11:30 | Fasted Deep Work & Cognitive Focus Window
-- Maximum cognitive clarity period powered by high fasted dopamine and low insulin.
-- Optional morning warm collagen broth drink (Module 37: 15g Hydrolyzed Bovine/Marine Collagen Peptides + broth base + 500mg Liposomal Vitamin C) if training late or needing joint nourishment without insulin spikes.
-- Pure black coffee or ceremonial green tea (EGCG).
-
-### 11:30 - 12:00 | Pre-Workout Joint & Fascial Priming
-- If not consumed at waking: Drink the 15g Collagen Broth Drink with Liposomal Vitamin C 30-45 minutes prior to mechanical loading to maximize proline/hydroxyproline delivery to avascular tendon matrix.
-
-### 12:00 - 13:15 | High-Intensity Athletic Training Window (Module 38: BMT)
-- Dynamic fascial warmup & multi-planar ankle/foot prep.
-- Rolling A/B/A periodization:
-  - **Day A:** Heavy paused box squats, DB weighted jumps, elastic hurdle plyos, secondary hinge (RDL / Nordic curl).
-  - **Day B:** Thrower's bench press, fresh-CNS 10-30m maximum-velocity sprints, explosive upper plyos.
-  - **Off Days:** 45-60 min Zone 2 steady-state nasal cardio (120-135 bpm) + fascial foam rolling and mobility.
-
-### 13:30 - 14:15 | Post-Workout Nutrition & Main Refuel (Meal 1)
-- The primary carbohydrate and protein meal of the day.
-- **Core Carbohydrate Source:** Pressure-Cooker Retrograded RS3 Resistant Starch (Module 37: cooled white rice / sweet potatoes / oats) providing high amylose retrogradation and minimal glycemic impact.
-- **Lean Protein Source:** Wild salmon, pasture-raised chicken breast, or lean bison (40-50g protein).
-- **Dispensing:** **Pillbox Slot 2 (Midday / Meal 1)**:
-  - **Acarbose (25 - 50 mg):** *CRITICAL: Take with the absolute first forkful of complex carbohydrates.*
-  - Bempedoic Acid (180 mg) + Ezetimibe (10 mg)
-  - Citrus Bergamot (500 mg)
-  - Vitamin K2 MK-7 (200 mcg) + Vitamin D3 (3,000 IU) + Retinol (2,500 IU)
-  - Kyolic Aged Garlic Extract (600 mg) + Rhamnan Sulfate (100 mg)
-  - Antarctic Krill Oil (1,000 - 2,000 mg)
-  - Olive Leaf Extract (500 mg, 20% Oleuropein)
-  - Benfotiamine (150 mg) + L-Carnosine (500 mg) + Pyridoxamine / P-5-P (50 mg)
-  - L-Ergothioneine (25 mg)
-
-### 16:00 - 16:30 | Functional Powder Vehicle: "One Smoothie Per Day" (Module 37)
-- Ingested in the late afternoon focus window.
-- **Carbohydrate-only, zero-dairy, zero-collagen powder vehicle:**
-  - 1 cup frozen organic wild blueberries (Anthocyanin/polyphenol dense)
-  - 1 cup unsweetened coconut water or RO water + splash of lemon juice
-  - Chondroitin Sulfate (1,200 mg powder)
-  - Amla Fruit Extract Powder (1,000 mg)
-  - Taurine Powder (3,000 - 5,000 mg)
-  - Glycine Powder (3,000 - 5,000 mg)
-  - Organic Greens Blend (Spirulina / Chlorella / Barley Grass: 5 g)
-  - Organic Agaricus Blazei Murill Mushroom Extract (1,000 mg)
-  - Creatine Monohydrate (5 g)
-
-### 17:30 - 18:45 | Thermal Hormesis & Cellular Stimulation Window (Modules 28, 30)
-- **Dispensing:** **Pillbox Slot 3 (Pre-Hormesis Pouch)** taken 60 min prior:
-  - Selbex (Teprenone / GGA: 100 mg) — HSF1 chaperone primer (amplifies HSP70 induction 3-fold in sauna)
-  - Sodium Chloride / Electrolyte cap (1,000 mg)
-  *(Critical Collision & Syncope Guardrails: STRICTLY ZERO ANTIOXIDANTS—no Quercetin, EGCG, Vit C, PQQ, or Astaxanthin—within 4 hours before or after sauna/sprinting; hormetic ROS is the mandatory trigger for Nrf2/HIF-1α and training adaptation. Furthermore, pre-sauna Inorganic Nitrate is strictly excised to prevent acute orthostatic syncope).*
-- **Finnish Sauna Protocol (Module 28):** 80-90°C (176-194°F) for 20-30 minutes with intermittent löyly (steam). Triggers HSP70 molecular chaperone induction and plasma volume expansion.
-- **Photobiomodulation (Module 30):** Full-body red/NIR panel (660nm & 850nm) at 30-50 mW/cm² for 10-15 minutes to charge cytochrome c oxidase. *(Pre-PBM 5-ALA and Methylene Blue are strictly excised to prevent photodynamic singlet oxygen cardiolipin damage).*
-
-### 19:15 - 20:00 | Evening Dinner (Meal 2)
-- Lighter meal: cruciferous vegetables (steamed broccoli, Brussels sprouts), fermented vegetables (kimchi, sauerkraut), extra virgin olive oil, and clean protein (tofu, tempeh, or fish).
-- If carbohydrates are present, take secondary Acarbose (25 mg).
-
-### 21:00 - 21:30 | Nighttime Kitchen Treat: Evening Collagen Mugcake (Module 37)
-- Low-temperature microwave functional cake:
-  - 15 g Hydrolyzed Collagen Peptides
-  - 1 tbsp raw unsweetened cacao powder (flavanols)
-  - 1 tbsp almond flour or oat fiber
-  - 1 pinch baking powder + Ceylon cinnamon
-  - 3 tbsp unsweetened almond milk or water
-  - Sweeten with pure stevia or monkfruit
-  - Microwave on medium-low for 45-60 seconds. Provides glycine-rich somnogenic neurotransmission while delivering structural peptides during slow-wave sleep.
-
-### 21:30 - 22:30 | Nighttime Down-Regulation & Sleep Ingestion
-- Dim all lights; put on blue-blocking glasses.
-- **Dispensing:** **Pillbox Slot 4 (Evening Bedtime)**:
-  - DLPC (Polyenylphosphatidylcholine: 1.2–2.4 g)
-  - Trimethylglycine (TMG / Betaine: 1.5 g)
-  - Apigenin (50 mg) — Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+)
-  - Kyolic Aged Garlic Extract (SAC: 600 mg split dose)
-  - Chebulic Acid + Rosmarinic Acid (500 mg / 250 mg)
-  - Palmitoylethanolamide (PEA: 400–600 mg)
-  - Melatonin Microdose (0.3–1.0 mg)
-  - Magnesium L-Threonate / Bisglycinate (200-400 mg elemental)
-  - L-Theanine (200 mg)
-- **Topical Dermatology (Module 32):** Apply Niacinamide 5% followed by Tretinoin 0.05% cream to face/neck. (GHK-Cu is kept unchelated and solo in the AM).
-- **Optional Biennial Peptide Pulse (Module 19 / 40):** *NOT A DAILY INTERVENTION.* CJC-1295 / Ipamorelin is strictly restricted to an intermittent **Biennial 6-Week TRIIM Thymic Pulse** (taken Mon–Fri nights for 6 weeks every 2 years only) to resolve Collision 1 (preventing nocturnal AKT/mTORC1 activation from phosphorylating ULK1 at Ser757 and aborting morning Urolithin A mitophagy). Outside this 6-week window, nightly injections are omitted; for needle-free travel GH support, use oral L-Ornithine (5–8 g) + Choline.
-- **Sleep Hardware (Module 31):** Apply gentle 3M micropore mouth tape. Activate transcutaneous auricular vagus nerve stimulation (taVNS) ear clip (25 Hz, 200 µs pulse) for 20-30 minutes. Bedroom temperature set to 66°F (19°C).
+The protocol organizes all pharmacological, nutritional, and physical interventions into strict circadian windows to eliminate kinetic collisions, prevent receptor cross-tolerance, and align with natural physiological oscillators.
 
 ---
-""")
 
-    # 3. Section IV: The Physical Pillbox Dispensing Matrix
-    doc.append("""# SECTION IV: THE PHYSICAL PILLBOX DISPENSING MATRIX & STORAGE GUIDE
+### The Fundamental Kinetic Conflict: The 4-Hour Hormetic ROS Collision
+A foundational biophysical rule of the Kenaley Architecture is:
+> **STRICTLY ZERO ANTIOXIDANTS (NAC, Vitamin C, Amla, Astaxanthin, PQQ, or high-dose polyphenols) within 4 hours before or after Sprinting (Module 38), Finnish Sauna (Module 28), or HBOT (Module 29).**
+
+Endogenous mitochondrial reactive oxygen species (superoxide, $\text{H}_2\text{O}_2$) generated during mechanical or thermal stress are required signaling messengers that oxidize Keap1 to stabilize **Nrf2** and stabilize **HIF-1$\alpha$**. 
+
+Because the **Master Blueberry Powder Smoothie (Module 37)** delivers an extraordinarily dense reducing payload (**$1.0\text{ g}$ pure NAC + $2.5\text{ g}$ Amla + $330\text{ mg}$ C3G + Wild Blueberries**), consuming it between a midday training session and an afternoon sauna completely quenches the hormetic adaptation.
+
+To remain 100% collision-free, execute one of the two standardized daily chronobiological tracks:
+
+---
+
+### 🏃 TRACK A: MIDDAY TRAINING + IMMEDIATE POST-WORKOUT SAUNA (12:00 – 14:00 HORMETIC BLOCK)
+*Optimized for professionals who bundle athletic training directly with Finnish sauna in a single early-afternoon block.*
+
+* **06:30 - 07:00 | Circadian Awakening & Cortisol Awakening Surge:**
+  - **Photobiology:** Step outside for 10-15 minutes of direct solar photon exposure to reset the suprachiasmatic nucleus (SCN).
+  - **Hydration:** 20-24 oz (600-750 mL) purified RO water with Celtic sea salt / potassium bicarbonate.
+  - **Dispensing:** **Pillbox Slot 1 (AM Fasted)** swallowed with water:
+    - Urolithin A (1,000 mg) — Fasted PINK1/Parkin mitophagy & HSC rejuvenation
+    - Calcium-AKG (1,000 mg) — TET1–3 DNA demethylation co-substrate & systemic IL-10 surge
+    - Liposomal Vitamin C (500 mg) — Reduces active-site $\text{Fe}^{3+} \to \text{Fe}^{2+}$ for TET enzymes
+    - Microdose Tadalafil (2.5 - 5.0 mg) — Endothelial cGMP / PKG1 signaling & renal eGFR
+    - Low-Dose Lithium Orotate (5 mg elemental) — GSK-3$\beta$ inhibition & hippocampal BDNF preservation
+    *(Note: Spermidine capsules are retired in favor of the colonic bioreactor; Cat's Claw AC-11 is retired due to C3G SIRT6-PARP1 redundancy; Apigenin is moved to Slot 4 PM).*
+  - **Sublingual / Mon-Wed-Fri Only:** Selegiline (0.25 mg sublingual). *Allow to absorb under tongue for 5 minutes; do not swallow whole.*
+  - **Oral Protocol (Module 34):** Tongue scraping followed by remineralizing nano-hydroxyapatite brushing. Subgingival 0.10% NaOCl via Pik Pocket tip 2x/week.
+* **07:00 - 11:30 | Fasted Deep Work & Cognitive Focus Window:**
+  - Maximum cognitive clarity period powered by high fasted dopamine and low insulin. Pure black coffee or ceremonial green tea.
+* **11:30 | Pre-Workout Joint & Fascial Priming (30 min prior):**
+  - Drink the **Savory Pre-Workout Broth** (Module 37: 15g Hydrolyzed Collagen Peptides + 200–500 mg HMW-HA + 1/4 tsp salt + Zinc Carnosine). *(Hold high-dose Vitamin C or keep to <=250 mg so workout ROS is unhindered).*
+* **12:00 - 14:00 | High-Intensity Athletic Training & Thermal Hormesis Block:**
+  - **12:00 - 13:15 (Module 38):** Dynamic fascial warmup $\to$ high-load eccentric squats/plyos (Day A) or max-velocity sprints/upper work (Day B).
+  - **13:15 (Sauna Priming):** Take **Pillbox Slot 3 (Pre-Hormesis Pouch)**: Selbex (Teprenone / GGA 100 mg) + 1,000 mg electrolyte salt. *(No inorganic nitrate pre-sauna).*
+  - **13:30 - 14:00 (Module 28):** 85–90°C Finnish Sauna for 20–25 minutes. HSP70 chaperone induction.
+* **14:15 - 15:00 | Post-Workout Nutrition & Main Refuel (Meal 1):**
+  - High-protein lean meal + Pressure-Cooked Retrograded RS3 Resistant Starch (Module 37).
+  - **Pillbox Slot 2 (Midday / Meal 1):** Acarbose (25–50 mg with first forkful), Bempedoic Acid + Ezetimibe, Citrus Bergamot, Vitamin K2 MK-7 + D3 + Retinol, Kyolic Aged Garlic, Rhamnan Sulfate, Krill Oil, Olive Leaf Extract, Benfotiamine + Carnosine + Pyridoxamine, L-Ergothioneine.
+* **15:00 - 18:15 | Afternoon Deep Work & Digest Window:**
+  - 4-hour post-workout/post-sauna Nrf2 and HSP70 transcriptional signaling cascades run without antioxidant interference.
+* **18:15 - 18:45 | THE SMOOTHIE WINDOW (>4 Hours Post-Sauna) & Dinner (Meal 2):**
+  - **Consume the Master Blueberry Powder Smoothie (Module 37):** 1.25 cups frozen wild blueberries + lemon juice + 25.5g dry payload (Glycine 7.5g, Creatine 5g, Greens 5g, Amla 2.5g, Taurine 1.5g, TMG 1.5g, Chondroitin 1.2g, NAC 1.0g, Agaricus 1.0g, C3G 330mg).
+  - Floods the liver with GlyNAC, Taurine, and C3G right as restorative parasympathetic tone begins. C3G simultaneously blocks brush-border SGLT1/GLUT2 for Meal 2 carbs.
+  - Light dinner of steamed cruciferous vegetables, extra virgin olive oil, and clean protein.
+* **20:45 - 21:15 | Evening Collagen Mugcake (Module 37):**
+  - 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave).
+* **21:30 - 22:30 | Nighttime Down-Regulation & Sleep Ingestion:**
+  - Dim lights, blue-blockers on.
+  - **Pillbox Slot 4 (Evening Bedtime):** DLPC (1.2–2.4g), Apigenin (50 mg), Kyolic SAC (600 mg), Chebulic+Rosmarinic acid, PEA (400–600 mg), Melatonin microdose (0.3–1.0 mg), Mg L-Threonate (300–400 mg), L-Theanine (200 mg). *(TMG consolidated to smoothie).*
+  - **Topical Dermatology (Module 32):** Niacinamide 5% followed by Tretinoin 0.05% cream.
+  - **Sleep Hardware (Module 31):** 3M Micropore mouth tape + 15 min taVNS ear clip (25 Hz) + S. salivarius K12 lozenge.
+
+---
+
+### 🌅 TRACK B: LATE-AFTERNOON TRAINING + SAUNA (16:30 – 18:30 HORMETIC BLOCK)
+*Optimized for individuals who train in the late afternoon/early evening.*
+
+* **06:30 - 10:00 | Fasted Deep Work & Slot 1 AM Pills:**
+  - Solar exposure + hydration + Slot 1 AM pills + sublingual Selegiline (M/W/F).
+* **10:30 - 11:00 | THE SMOOTHIE WINDOW (>5.5 Hours Pre-Training):**
+  - Break morning fast with the **Master Blueberry Powder Smoothie (Module 37)**.
+  - *Why this works:* Being strictly fat-free and fiber-dispersed, gastric transit completes within 45–60 minutes and plasma NAC free-thiols peak and clear well before 16:30, leaving cellular redox unbuffered for workout ROS.
+* **12:30 - 13:15 | Main Refuel (Meal 1):**
+  - Main RS3 starch + lean protein meal + Pillbox Slot 2.
+* **15:30 | Pre-Workout Joint Priming & Slot 3 (60 min prior):**
+  - Savory Collagen Broth (15g Collagen + HMW-HA) + Pillbox Slot 3 (Selbex 100 mg + Electrolytes).
+* **16:30 - 18:30 | High-Intensity Athletic Training & Finnish Sauna Block:**
+  - Module 38 BMT Sprints/Lifting $	o$ Module 28 Finnish Sauna.
+* **19:15 - 20:00 | Evening Dinner (Meal 2):**
+  - Whole-food dinner + secondary Acarbose if carbs present.
+* **20:45 - 22:30 | Mugcake, Slot 4 Bedtime Stack & Sleep Hardware:**
+  - Mugcake at 20:45 $	o$ Slot 4 pills at 21:30 $	o$ Topical PM Tretinoin/Niacinamide $	o$ Mouth tape + taVNS.
+
+---
+# SECTION IV: THE PHYSICAL PILLBOX DISPENSING MATRIX & STORAGE GUIDE
 *A complete 1-page physical adherence matrix mapping every oral compound to standard 7-day 4-compartment organizers.*
 
 """ + pillbox_content + """

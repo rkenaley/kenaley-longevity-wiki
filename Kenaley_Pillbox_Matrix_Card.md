@@ -68,7 +68,7 @@
 | Module | Intervention | Exact Dose | Pill Form | Core Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **`35`** | **DLPC (Polyenylphosphatidylcholine)**| 1.2–2.4 g | 2–3 softgels | Tafazzin $\text{L}_4\text{CL}$ mature cardiolipin remodeling |
-| **`35`** | **Trimethylglycine (TMG / Betaine)** | 1.5 g | 2 tablets | Clears SAH via BHMT, sparing SAMe for PEMT |
+| **`35`** | **Trimethylglycine (TMG / Betaine)** | 1.5 g | 2 tablets *(or 1.5g powder in smoothie)* | Clears SAH via BHMT, sparing SAMe for PEMT |
 | **`23`** | **Apigenin** | 50 mg | 1 capsule | Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+) |
 | **`11`** | **Kyolic Aged Garlic (SAC)** | 600 mg | 1 capsule | Split dose for nocturnal vascular endothelial protection |
 | **`36`** | **Chebulic + Rosmarinic Acid** | 500 mg / 250 mg | 1–2 capsules | Cleaves established glucosepane collagen crosslinks |
@@ -82,22 +82,36 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🫐 DAILY POWDER SMOOTHIE (Carb-Only / 10:00 AM)                            │
-│ 1.5 cups Wild Blueberries + Water/Ice + Lemon Juice                         │
-│ • PRIMARY ORAL GAG OPTION: Chondroitin Sulfate: 1,200 mg                    │
-│   (Articular cartilage remodeling & CD44 ECM signaling; or choose HMW-HA) │
-│ • Cyanidin / Anthocyanin Extract: 300–330 mg (SIRT6 allosteric activator)   │
-│ • Amla Powder: 2.0–3.0 g          • Taurine Powder: 2.0–3.0 g               │
-│ • Pure Glycine: 5.0–10.0 g        • Super-Greens Powder: 5.0–10.0 g         │
-│ • Agaricus blazei: 500–1,000 mg   • Creatine Monohydrate: 5.0 g             │
+│ 🫐 MASTER BLUEBERRY POWDER SMOOTHIE (Carb-Only / Fat-Free / Zero-Casein)    │
+│ Timing: Track A (18:15–18:45 >4h post-sauna) OR Track B (10:30 >5.5h pre-rx)│
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 🥣 TENDON / PRE-WORKOUT BROTH (15:00 or Morning)                            │
-│ 12-16 oz Warm Broth + 15 g Collagen + Liposomal C                           │
-│ • ALTERNATIVE ORAL GAG OPTION: High-MW Hyaluronic Acid: 200–500 mg HMW-HA   │
-│   (For spinal disc hydration & dermal turgor; pick ONE GAG, do not stack)   │
+│ LIQUIDS & BASE (Add to blender first):                                      │
+│ • 10–12 oz Cold RO Water or Unsweetened Coconut Water (potassium / TauT)    │
+│ • Juice of 1/2 Fresh Lemon (~15 mL: drops pH <4.0, stabilizes C3G flavylium)│
+│                                                                             │
+│ DRY SCOOP (10 powders pre-batched in 4-oz Mason Jars — ~25.5g payload):     │
+│ • Pure Glycine: 7.5 g (Sucrose-like sweetness masks NAC & bitter extracts)  │
+│ • Creatine Monohydrate: 5.0 g (GAMT offloading -> 45% SAMe sparing for PEMT)│
+│ • Super-Greens Powder: 5.0 g (Spirulina / Chlorella / Barley Grass)         │
+│ • Organic Amla Powder: 2.5 g (Emblicanin lipid peroxidation shield)         │
+│ • Taurine Powder: 1.5 g (Dose 1/2: mt-tRNA wobble U34 & neutrophil HOCl)    │
+│ • TMG (Betaine Anhydrous): 1.5 g (Pillbox consolidation: clears SAH / BHMT) │
+│ • Chondroitin Sulfate: 1.2 g (Primary GAG option; omit if HMW-HA in broth)  │
+│ • Pure N-Acetylcysteine (NAC): 1.0 g (Glycine + NAC = GlyNAC NETs cleavage) │
+│ • Agaricus blazei Murill Extract: 1.0 g (Beta-1,3/1,6-glucan Dectin-1)      │
+│ • Cyanidin-3-Glucoside (C3G): 300–330 mg active (SIRT6 / LXRα / SGLT1-GLUT2) │
+│                                                                             │
+│ WHOLE FRUIT (Add on top to prevent blade caking):                           │
+│ • 1.25–1.5 cups Frozen Organic Wild Blueberries + 3–4 Ice Cubes             │
+│ *Blend on high for 45–60 sec; consume immediately before NAC oxidizes.      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 🥣 TENDON / PRE-WORKOUT BROTH (30–60 min Pre-Training)                      │
+│ 12-16 oz Warm Savory Broth (65–75°C) + 15 g Collagen + 1/4–1/2 tsp Salt     │
+│ • ALTERNATIVE GAG OPTION: High-MW Hyaluronic Acid: 200–500 mg HMW-HA        │
+│   (Select for spinal disc hydration; do NOT stack both Chondroitin & HMW-HA)│
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (20:45)                                        │
-│ 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave)            │
+│ 15–20g Collagen + 10–15g Micellar Casein + 7–10g Coconut Flour + 5g Cacao   │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🌙 BEDTIME HARDWARE & BIOPHYSICAL RITUAL (22:00)                            │
 │ 1. Dissolve 1 S. salivarius K12/M18 oral probiotic lozenge on tongue (`34`) │
