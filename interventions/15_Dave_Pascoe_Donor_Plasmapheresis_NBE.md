@@ -14,6 +14,13 @@ Dilutes and eliminates aged systemic plasma proteins (circulating SASP, TGF-beta
 
 ---
 
+
+### The Unspoken Biochemical Alpha: Endogenous Cys34-SH Mercaptalbumin Synthesis
+Clinical Therapeutic Plasma Exchange (TPE) with 5% bottled human serum albumin costs $5,000+ per session, whereas utilizing commercial plasma donation centers is cash-flow positive and removes 800 mL of aged proteome ($\text{TGF-}\beta 1$, $\text{GDF15}$, $\text{CCL11}$, $\beta_2\text{-microglobulin}$, and circulating PFAS/microplastics).
+* **The Albumin Thiol Trap:** Bottled pharmaceutical 5% albumin used in clinical TPE undergoes extensive heat-treatment and pasteurization during manufacturing and storage, meaning its catalytic **$\text{Cys34}$ free thiol** is largely oxidized into non-mercaptalbumin (sulfinic/sulfonic states), rendering it inert as a systemic antioxidant.
+* **The De Novo Mercaptalbumin Surge:** By replacing volume with saline and immediately forcing the liver to synthesize 40–50 g of *de novo* albumin under a heavy **GlyNAC + EAA + Silymarin** load (Module 16), newly secreted albumin enters circulation with $>75\%$ reduced **$\text{Cys34-SH}$ mercaptalbumin**—the single most abundant extracellular free-radical scavenger in human plasma. You achieve a superior redox outcome compared to clinical TPE for pennies.
+
+
 ## 2. The Empirical Evidence Base
 Mehdipour et al. (Aging 2020, GeroScience 2022): Single 50% neutral blood exchange with saline + 5% albumin rejuvenated multiple germ layers in aged mice. Stambler (2022) review on human TPE. Dave Pascoe public biomarker leaderboard data.
 

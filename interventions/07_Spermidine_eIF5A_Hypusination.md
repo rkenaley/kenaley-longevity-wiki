@@ -1,7 +1,7 @@
 # Spermidine: eIF5A Hypusination & TFEB Lysosomal Macroautophagy
 
 **Pillar:** Cellular Senescence & Autophagy  
-**Conviction Tier:** WATCHLIST / TARGETED ADJUNCT  
+**Conviction Tier:** ENDOGENOUS COLONIC BIOREACTOR (Oral Capsules Retired)  
 **Evidence Grade:** E3 (Prospective Human Cohorts) / E4 (Mammalian Lifespan)  
 **Stance:** Consensus-Supported (Epidemiological and preclinical alignment)  
 **Estimated Monthly Cost:** $25 -- $35 / month  
@@ -31,7 +31,9 @@ Polyamines can support rapid proliferation in established malignancy; avoid in a
 ---
 
 ## 5. Precise Operational Protocol
-1mg to 2mg standardized pure spermidine or concentrated wheat germ extract daily taken with midday meal.
+**Endogenous Colonic Bioreactor Architecture (Oral Capsules Retired):**
+Exogenous synthetic oral spermidine trihydrochloride capsules (15–20 mg/day) are **retired from the daily pillbox**. Isotopic tracing in humans demonstrates that exogenous oral spermidine undergoes rapid first-pass deamination by intestinal diamine oxidase (DAO) in the upper GI tract or enzymatic conversion into spermine before reaching peripheral lymphocytes.
+* **The Colonic Solution:** Rely exclusively on the **luminal colonic bioreactor**: pairing daily **Acarbose (25–50 mg, Module 01) + retrograded RS3 resistant starch (Module 37) + L-Arginine / L-Ornithine (Module 19) + *Bifidobacterium animalis* subsp. *lactis* LKM512** drives continuous, massive polyamine synthesis in the cecum and distal colon. Colonic polyamines completely bypass upper-GI brush-border DAO and absorb directly via the mesenteric portal circulation, elevating systemic spermidine pools at zero marginal capsule burden.
 
 ---
 

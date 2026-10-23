@@ -19,6 +19,12 @@ The inner mitochondrial membrane (IMM) exhibits extreme negative curvature at cr
 * **Piezoelectric & Cristae Curvature Restoration:** The cationic D-Arg and Lys residues form salt bridges with the dianionic phosphate headgroups of cardiolipin, while the 2',6'-dimethyltyrosine (Dmt) and Phe aromatic rings insert into the interfacial acyl region. This sterically blocks the $\text{Fe-Met80}$ rupture in Cytochrome $c$, abolishes cardiolipin peroxidase activity, tightens respirasome supercomplex ($\text{CI} + \text{CIII}_2 + \text{CIV}_n$) packing, and restores the **mitochondrial contact site and cristae organizing system (MICOS)** without quenching physiological hormetic signaling.
 * **Epigenetic & Functional Rejuvenation:** Validated to reverse age-related cardiac diastolic dysfunction, restore skeletal muscle $\text{ATP}/\text{O}_2$ coupling ($P/O$ ratio), and rescue glomerular podocyte mitochondrial architecture (preserving eGFR, a primary DunedinPACE denominator).
 
+
+### The PEMT–Tafazzin–SS-31 Cardiolipin Triad: Electrostatic Locking
+Most mitochondrial stacks dump electrons into a leaky electron transport chain via CoQ10 or NMN without fixing the physical scaffolding of the inner mitochondrial membrane (IMM). 
+* **Electrostatic Locking:** Pulsing **SS-31 (Elamipretide)** forms salt bridges specifically with the dianionic phosphate headgroups of mature tetralinoleoyl cardiolipin ($\text{L}_4\text{CL}$), remodeled via Tafazzin (Module 35). This sterically blocks the rupture of the critical **$\text{Fe-Met80}$ coordination bond** in Cytochrome $c$, preventing its catastrophic conversion into a cardiolipin-specific peroxidase.
+
+
 ### B. L-Ergothioneine (SLC22A4 / OCTN1 Cytoprotective Thione)
 * **Tautomeric Stability:** Unlike glutathione ($\text{GSH}$) or lipophilic $\text{C}_{60}$ fullerenes, L-Ergothioneine exists predominantly in the **thione tautomer** at physiological pH ($E_0' = -0.06\text{ V}$), preventing spontaneous autoxidation or Fenton-like pro-oxidant radical generation in the presence of free $\text{Fe}^{2+}$ or $\text{Cu}^{2+}$.
 * **Targeted Mitochondrial Accumulation:** Transported selectively by the carnitine/organic cation transporter **OCTN1 (SLC22A4)** directly into erythrocytes, bone marrow hematopoietic progenitor cells, ocular lens, and mitochondria, where it scavenges singlet oxygen ($^1\text{O}_2$), peroxynitrite ($\text{ONOO}^-$), and hypochlorous acid ($\text{HOCl}$) while exhibiting zero phototoxicity under 660/850 nm irradiation (`30`) or 2.0 ATA hyperoxia (`29`).

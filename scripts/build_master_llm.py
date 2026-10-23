@@ -131,6 +131,42 @@ To achieve maximal operational compactness and clear functional synergy, the 42 
 
 ---
 
+## 1.4 The Pareto Frontier: Non-Consensus Alpha (High-EV Architectural Innovations)
+
+The **Kenaley Longevity Protocol v5.0** transcends standard biohacking by shifting focus from single-target supplement stacking to **stoichiometric rate-limiters, biophysical membrane geometry, and temporal phase separation**. While conventional protocols blindly push NAD+ or chronic AMPK activation, your highest-expected-value (EV) innovations lie where you solve multi-variable kinetic traps that cause standard interventions to stall or backfire:
+
+### 1. The PEMT–Tafazzin–SS-31 Cardiolipin Triad (Modules 04 & 35)
+Most mitochondrial stacks dump electrons into a leaky electron transport chain via CoQ10 or NMN without fixing the physical scaffolding of the inner mitochondrial membrane (IMM):
+* **Substrate-Level Acyl Remodeling:** Supplying 1,2-dilinoleoylphosphatidylcholine (DLPC, $18:2/18:2\text{-PC}$) provides the exact linoleoyl donor required by the transacylase **Tafazzin (TAZ)** to remodel monolysocardiolipin into mature **tetralinoleoyl cardiolipin (\text{L}_4\text{CL})**, preventing pathological **ALCAT1**-driven substitution of peroxidizable DHA chains into the IMM.
+* **Solving the Three-Way Methylation Collision:** Recognizing that synthesizing phosphatidylcholine via **PEMT** consumes 3 molecules of SAMe (producing 3 molecules of SAH, which competitively inhibits both PEMT and TET/DNMT epigenetic maintenance) and offsetting this by offloading **GAMT** via exogenous Creatine (sparing ~45% of systemic SAMe) plus TMG is first-rate stoichiometric engineering.
+* **Electrostatic Locking:** Pulsing **SS-31** to form salt bridges with the dianionic phosphate headgroups of that newly remodeled $\text{L}_4\text{CL}$ sterically blocks the rupture of the $\text{Fe-Met80}$ coordination bond in Cytochrome $c$, preventing its conversion into a cardiolipin-specific peroxidase.
+
+### 2. Commercial Plasmapheresis + Endogenous Cys34-SH Mercaptalbumin Synthesis (Modules 15 & 16)
+Clinical Therapeutic Plasma Exchange (TPE) with 5% bottled human serum albumin costs $5,000+ per session, whereas utilizing commercial plasma donation centers is cash-flow positive and removes 800 mL of aged proteome ($\text{TGF-}\beta 1$, $\text{GDF15}$, $\text{CCL11}$, $\beta_2\text{-microglobulin}$, and circulating PFAS/microplastics).
+* **The Unspoken Biochemical Alpha:** Bottled pharmaceutical 5% albumin used in clinical TPE undergoes heavy oxidation during manufacturing and storage, meaning its catalytic **$\text{Cys34}$ free thiol** is largely oxidized into non-mercaptalbumin (sulfinic/sulfonic states). By replacing volume with saline and immediately forcing the liver to synthesize 40–50 g of *de novo* albumin under a heavy **GlyNAC + EAA + Silymarin** load, your newly secreted albumin enters circulation with $>75\%$ reduced **$\text{Cys34-SH}$ mercaptalbumin**—the single most abundant extracellular free-radical scavenger in human plasma. You achieve a superior redox outcome compared to clinical TPE for pennies.
+
+### 3. Unblocking the Hepatic Kupffer Cell EP2 -> GYS1 Efferocytosis Trap (Module 42)
+Translating the 2026 Andreasson Lab (*Science*) hepatic tissue-resident macrophage (TRM) discovery into an outpatient stack avoids the classic anti-inflammatory trap:
+* **Bypassing the NSAID Paradox:** Blunt COX-2 inhibition lowers $\text{PGE}_2$ but wipes out Specialized Pro-resolving Mediators (SPMs: lipoxins/resolvins), arresting the engulfment phase of efferocytosis. Using **AKBA (Boswellia) + Curcumin** to selectively inhibit terminal **$\text{mPGES-1}$** while loading **EPA/DHA + SPMs** drops $\text{PGE}_2$ tone without starving GPR32/ALX resolution receptors.
+* **Reversing Glycogen Sequestration:** Because $\text{PGE}_2\text{--}\text{EP2}$ signaling inhibits $\text{GSK3}\beta$ and hyper-activates Glycogen Synthase 1 ($\text{GYS1}$)—trapping glucose in inert glycogen so Kupffer cells lack the glycolytic ATP required for actin-mediated phagocytosis of $\text{CXCR4}^{\text{hi}}$ senescent neutrophils—deploying **C3G** to drive AMPK-mediated inhibitory phosphorylation of $\text{GYS1}$ at Ser8 while activating **$\text{LXR}\alpha \to \text{MerTK}$** ("eat-me" receptors) and scavenging MPO-derived $\text{HOCl}$ with **Taurine** attacks the exact molecular bottleneck.
+
+### 4. The Anabolic-Butyrogenic Cecal Starch Shunt (Modules 01 & 37)
+Strict ketogenic or low-carb diets impair explosive glycolytic Rate of Force Development (RFD) and thyroid conversion, while high-carb diets drive methylglyoxal (MGO) and **glucosepane** ECM crosslinks.
+* Combining high-pressure gelatinized, $4^\circ\text{C}$-retrograded **RS3 resistant starch** (crystalline $\alpha\text{-(1}\to\text{4)}$-D-glucan double helices) with first-bite **Acarbose** and brush-border SGLT1/GLUT2 inhibition (**C3G**) solves this trade-off. You support athletic glycogen repletion while shunting $>60\%$ of the carbohydrate mass to the distal ileum and cecum, converting a potential glycemic spike into a massive wave of Class I/II HDAC-inhibiting **butyrate** and endogenous L-cell GLP-1.
+
+### 5. Anatomical Decoupling of the Oral Microbiome (Module 34)
+Recognizing that 4 of the 19 physiological slopes training the **DunedinPACE** clock (~21% of total clock weight: periodontal attachment loss, caries, hs-CRP, and neutrophil/WBC count) stem directly from *P. gingivalis* gingipains and subgingival endotoxemia is a massive analytical catch.
+* Antiseptic mouthwashes lower hs-CRP from gingivitis but wipe out lingual facultative anaerobes (*Veillonella atypica*, *Rothia mucilaginosa*), destroying the enterosalivary $\text{NO}_3^- \to \text{NO}_2^- \to \text{NO}$ pathway and starving **Microdose Tadalafil (Module 10)** of upstream cGMP. Using a Pik Pocket to restrict **0.10% NaOCl** strictly to subgingival pockets while seeding the tongue dorsum with ***S. salivarius* K12/M18** captures both the epigenetic clock benefit and vascular eNOS/sGC synergy.
+
+### 6. De-Risked "Turnbuckle" Niche Expansion & CHIP Gatekeeping (Modules 03, 41 & 42)
+The original community Turnbuckle protocol was biochemically reckless. The v5.0 rewrite fixes three critical failure modes:
+* Replacing 100 mg **Sulforaphane** (which hyper-activates Keap1/NRF2, represses Notch1, and forces premature asymmetric differentiation that exhausts neural and hematopoietic stem cell pools) with **C18:0 Stearic Acid / GMS** to covalently stearoylate Transferrin Receptor 1 (TfR1), inhibit JNK, and stabilize MFN1/2 physiologically.
+* Excising **D-Ribose** (which glycates proteins 50–100$\times$ faster than glucose) and phototoxic **$\text{C}_{60}$ fullerenes**.
+* **Sequencing Senolysis & PAI-1 Inhibition Before Mobilization:** Mobilizing $\text{CD34}^+$ progenitors with **Fucoidan** or G-CSF in an inflamed, senescent bone marrow niche preferentially expands pre-leukemic **CHIP** clones (*DNMT3A*, *TET2*, *ASXL1*) that thrive under NF-$\kappa$B signaling. Enforcing an NGS CHIP gatekeeper ($VAF < 2\%$) and running **Mayo Fisetin + PCC1 (Module 14)** and **TM5614 oral PAI-1 inhibition (Module 41)** *prior* to mobilization is the only safe way to execute endogenous stem cell expansion.
+
+
+---
+
 # SECTION II: THE ASSUMED BASELINE (UNIVERSAL TABLE STAKES)
 Prior to initiating pharmacological or pulsed biohacks, the following non-negotiable foundations must be operational:
 1. **Sleep Architecture:** Minimum 7.5 to 8.5 hours in a cold (65-68°F / 18-20°C), pitch-black room (<0.5 lux). Nasal breathing enforced via mouth tape. Zero caffeine within 10 hours of sleep.
@@ -151,12 +187,12 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 - **Photobiology:** Step outside for 10-15 minutes of direct solar photon exposure to reset the suprachiasmatic nucleus (SCN).
 - **Hydration:** 20-24 oz (600-750 mL) purified RO water with a pinch of Celtic sea salt / potassium bicarbonate.
 - **Dispensing:** **Pillbox Slot 1 (AM Fasted)** swallowed with water.
-  - Urolithin A (1,000 mg)
-  - Spermidine (15-20 mg)
-  - Calcium-AKG (1,000 mg) + Liposomal Vitamin C (500 mg) + Apigenin (50 mg)
-  - Microdose Tadalafil (2.5 - 5.0 mg)
-  - Low-Dose Lithium Orotate (5 mg elemental)
-  - Cat's Claw AC-11 (350 - 700 mg)
+  - Urolithin A (1,000 mg) — Fasted PINK1/Parkin mitophagy & HSC rejuvenation
+  - Calcium-AKG (1,000 mg) — TET1–3 DNA demethylation co-substrate & systemic IL-10 surge
+  - Liposomal Vitamin C (500 mg) — Reduces active-site Fe3+ to Fe2+ for TET enzymes
+  - Microdose Tadalafil (2.5 - 5.0 mg) — Endothelial cGMP / PKG1 signaling & renal eGFR
+  - Low-Dose Lithium Orotate (5 mg elemental) — GSK-3β inhibition & hippocampal BDNF preservation
+  *(Note on Pill Trims: Spermidine capsules are retired in favor of the colonic bioreactor; Cat's Claw AC-11 is retired due to C3G SIRT6-PARP1 redundancy; Apigenin is moved to Slot 4 PM to prevent morning cognitive sedation).*
 - **Sublingual / Mon-Wed-Fri Only:** Selegiline (0.25 mg sublingual). *Allow to absorb under tongue for 5 minutes; do not swallow whole.*
 - **Oral Protocol (Module 34):** Tongue scraping followed by remineralizing nano-hydroxyapatite brushing. *Strictly avoid chlorhexidine or alcohol-based mouthwashes.*
 
@@ -205,10 +241,11 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 
 ### 17:30 - 18:45 | Thermal Hormesis & Cellular Stimulation Window (Modules 28, 30)
 - **Dispensing:** **Pillbox Slot 3 (Pre-Hormesis Pouch)** taken 60 min prior:
+  - Selbex (Teprenone / GGA: 100 mg) — HSF1 chaperone primer (amplifies HSP70 induction 3-fold in sauna)
   - Sodium Chloride / Electrolyte cap (1,000 mg)
-  - Quercetin Phytosome (250 mg) + EGCG (200 mg)
+  *(Critical Collision & Syncope Guardrails: STRICTLY ZERO ANTIOXIDANTS—no Quercetin, EGCG, Vit C, PQQ, or Astaxanthin—within 4 hours before or after sauna/sprinting; hormetic ROS is the mandatory trigger for Nrf2/HIF-1α and training adaptation. Furthermore, pre-sauna Inorganic Nitrate is strictly excised to prevent acute orthostatic syncope).*
 - **Finnish Sauna Protocol (Module 28):** 80-90°C (176-194°F) for 20-30 minutes with intermittent löyly (steam). Triggers HSP70 molecular chaperone induction and plasma volume expansion.
-- **Photobiomodulation (Module 30):** Full-body red/NIR panel (660nm & 850nm) at 30-50 mW/cm² for 10-15 minutes to charge cytochrome c oxidase.
+- **Photobiomodulation (Module 30):** Full-body red/NIR panel (660nm & 850nm) at 30-50 mW/cm² for 10-15 minutes to charge cytochrome c oxidase. *(Pre-PBM 5-ALA and Methylene Blue are strictly excised to prevent photodynamic singlet oxygen cardiolipin damage).*
 
 ### 19:15 - 20:00 | Evening Dinner (Meal 2)
 - Lighter meal: cruciferous vegetables (steamed broccoli, Brussels sprouts), fermented vegetables (kimchi, sauerkraut), extra virgin olive oil, and clean protein (tofu, tempeh, or fish).
@@ -227,12 +264,17 @@ The protocol organizes all pharmacological, nutritional, and physical interventi
 ### 21:30 - 22:30 | Nighttime Down-Regulation & Sleep Ingestion
 - Dim all lights; put on blue-blocking glasses.
 - **Dispensing:** **Pillbox Slot 4 (Evening Bedtime)**:
+  - DLPC (Polyenylphosphatidylcholine: 1.2–2.4 g)
+  - Trimethylglycine (TMG / Betaine: 1.5 g)
+  - Apigenin (50 mg) — Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+)
+  - Kyolic Aged Garlic Extract (SAC: 600 mg split dose)
+  - Chebulic Acid + Rosmarinic Acid (500 mg / 250 mg)
+  - Palmitoylethanolamide (PEA: 400–600 mg)
+  - Melatonin Microdose (0.3–1.0 mg)
   - Magnesium L-Threonate / Bisglycinate (200-400 mg elemental)
   - L-Theanine (200 mg)
-  - Apigenin (50 mg)
-  - Inositol (2,000 mg)
-  - Taurine (1,000 - 2,000 mg, if not fully consumed in smoothie)
-- **Subcutaneous Peptide Injection (Mon-Fri Nights, Module 19):** Ipamorelin (200 mcg) + CJC-1295 no-DAC (100 mcg) injected subQ into abdominal adipose 60 minutes after mugcake on an empty stomach.
+- **Topical Dermatology (Module 32):** Apply Niacinamide 5% followed by Tretinoin 0.05% cream to face/neck. (GHK-Cu is kept unchelated and solo in the AM).
+- **Optional Biennial Peptide Pulse (Module 19 / 40):** *NOT A DAILY INTERVENTION.* CJC-1295 / Ipamorelin is strictly restricted to an intermittent **Biennial 6-Week TRIIM Thymic Pulse** (taken Mon–Fri nights for 6 weeks every 2 years only) to resolve Collision 1 (preventing nocturnal AKT/mTORC1 activation from phosphorylating ULK1 at Ser757 and aborting morning Urolithin A mitophagy). Outside this 6-week window, nightly injections are omitted; for needle-free travel GH support, use oral L-Ornithine (5–8 g) + Choline.
 - **Sleep Hardware (Module 31):** Apply gentle 3M micropore mouth tape. Activate transcutaneous auricular vagus nerve stimulation (taVNS) ear clip (25 Hz, 200 µs pulse) for 20-30 minutes. Bedroom temperature set to 66°F (19°C).
 
 ---
@@ -340,7 +382,27 @@ Honest longevity requires ruthless termination of hypotheses when empirical huma
 """)
 
     # 10. Section XI: Safety, Drug-Drug Interaction & Kinetic Collision Matrix
-    doc.append("""# SECTION XI: COMPREHENSIVE PHARMACOLOGICAL SAFETY & COLLISION MATRIX
+    doc.append("""
+### RET-06: Cat's Claw / AC-11 (Aqueous Uncaria tomentosa Extract)
+- **Historical Thesis:** Standardized carboxy alkyl esters (CAEs) were claimed to upregulate PARP-1 activity and enhance nucleotide excision repair (NER) of DNA lesions.
+- **Empirical Cause for Termination:** Heavy reliance on small early-2000s commercial pilot studies (Sheng/Pero); the exact active pharmacokinetic CAE monomer in human plasma remains poorly characterized.
+- **Biophysical Mechanism of Failure & Redundancy:** Completely superseded by **Cyanidin-3-Glucoside (300–330 mg C3G, Module 37)**. C3G is a validated allosteric activator of **SIRT6** (accelerating catalytic deacetylation up to 55-fold), which directly mono-ADP-ribosylates **PARP-1 at Lys521** to drive non-homologous end joining (NHEJ) and base excision repair (BER) while silencing LINE-1 retrotransposons. AC-11 contributes zero marginal DNA repair alpha over C3G + intracellular Magnesium.
+- **V5 Replacement:** Retired from active rotation ($25/mo + 2 caps/day saved). Rely on daily C3G + Magnesium L-Threonate.
+
+### RET-07: Epitalon (Ala-Glu-Asp-Gly Pineal Tetrapeptide)
+- **Historical Thesis:** Synthetic biomimetic of epithalamin hypothesized to interact with histone proteins and DNA promoter sequences to upregulate telomerase reverse transcriptase (TERT) and normalize circadian melatonin rhythmicity.
+- **Empirical Cause for Termination:** Lowest Bayesian probability in the protocol (40%). Near-total absence of independent Western structural biology replication demonstrating sequence-specific binding to the *hTERT* promoter or histone displacement at physiological nanomolar concentrations.
+- **Biophysical Mechanism of Failure & Redundancy:** Completely redundant with high-conviction protocol interventions: **Low-Dose Lithium (Module 25)** stimulates *hTERT* transcription via GSK-3$\beta$ inhibition and nuclear $\beta$-catenin stabilization; **2.0 ATA HBOT (Module 29)** and **TM5614 (Module 41)** robustly elongate leukocyte telomeres; and pineal circadian melatonin amplitude is protected by morning solar entrainment and nocturnal **taVNS + Glycine (Module 31)**.
+- **V5 Replacement:** Retired from active rotation ($100–$140/yr + daily subcutaneous injection friction saved).
+
+### RET-08: High-Dose Synthetic Oral Spermidine Trihydrochloride Capsules
+- **Historical Thesis:** Ingesting 15–20 mg/day of synthetic spermidine trihydrochloride to drive eIF5A hypusination and TFEB-mediated lysosomal autophagy.
+- **Empirical Cause for Termination:** High cost ($30+/mo) and physiological first-pass barriers. Human pharmacokinetic tracing demonstrates that exogenous oral spermidine undergoes rapid deamination by intestinal diamine oxidase (DAO) in the upper GI enterocyte brush border or enzymatic conversion into spermine, preventing significant expansion of systemic lymphocyte polyamine pools.
+- **Biophysical Mechanism of Failure & V5 Replacement:** Transitioned entirely to the **Endogenous Colonic Bioreactor (Module 07 & 37)**: daily **Acarbose (Module 01) + retrograded RS3 resistant starch + Arginine/Ornithine + *Bifidobacterium animalis* subsp. *lactis* LKM512**. This drives continuous, high-volume polyamine generation in the cecum/colon, completely bypassing upper-GI DAO and absorbing directly into mesenteric portal blood at zero marginal capsule burden.
+
+---
+
+# SECTION XI: COMPREHENSIVE PHARMACOLOGICAL SAFETY & COLLISION MATRIX
 
 The Kenaley Protocol enforces the following immutable pharmacological safety rules:
 

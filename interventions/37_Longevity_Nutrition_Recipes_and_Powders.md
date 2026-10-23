@@ -84,7 +84,7 @@ The "One Smoothie Per Day" vehicle is formulated strictly as a **carbohydrate- a
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧪 THE POWDER PAYLOAD                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Chondroitin Sulfate: 1,200 mg (Extracellular matrix / CD44 signaling)    │
+│ 1. Chondroitin Sulfate: 1,200 mg (Primary GAG: ECM remodeling / CD44)       │
 │ 2. Cyanidin / Anthocyanin Extract: 300–330 mg active (SIRT6 & Macrophage LXRα)│
 │ 3. Organic Amla Powder: 2.0–3.0 g (Emblicanin / lipid peroxidation shield)  │
 │ 4. Taurine Powder: 2.0–3.0 g (mt-tRNA wobble U34 & neutrophil HOCl trap)    │
@@ -101,6 +101,18 @@ In this powder matrix, **Chondroitin Sulfate (1,200 mg)** is selected for articu
 
 * **Re-evaluating Glucosamine:** Early biohacker dogmas strictly banned oral glucosamine out of concern for free amino sugar glycation and hexosamine flux. However, rigorous geroscience demonstrates that D-glucosamine actually extends mammalian lifespan: in landmark trials by Weimer et al. (*Nature Communications* 2014), glucosamine supplementation extended median lifespan in mice by ~10% via mitochondrial mitohormesis, transient glycolysis impairment, and robust AMPK activation, mimicking caloric restriction.
 * **The Chondroitin Advantage:** While glucosamine is biochemically rehabilitated, **Chondroitin Sulfate** remains the superior structural constituent for the daily blueberry matrix. As a fully polymerized sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$), it cannot undergo open-chain reducing sugar degradation. It binds up to 1,000 times its volume in water within the joint cavity, stimulates endogenous proteoglycan synthesis, engages CD44 receptors to inhibit catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses articular NF-$\kappa$B signaling to preserve cartilage thickness under high-impact athletic loading.
+
+
+### The Anabolic-Butyrogenic Cecal Starch Shunt (Modules 01 & 37)
+Strict ketogenic or low-carb diets impair explosive glycolytic Rate of Force Development (RFD) and thyroid conversion, while high-carb diets drive methylglyoxal (MGO) and glucosepane ECM crosslinks.
+* **The High-EV Starch Solution:** Combining high-pressure gelatinized, $4^\circ\text{C}$-retrograded **RS3 resistant starch** (crystalline $\alpha\text{-(1}\to\text{4)}$-D-glucan double helices) with first-bite **Acarbose (25–50 mg, Module 01)** and brush-border SGLT1/GLUT2 inhibition (**C3G 300–330 mg**) resolves this metabolic trade-off. 
+* Athletic glycogen repletion is supported while shunting $>60\%$ of the carbohydrate mass to the distal ileum and cecum, converting a potential postprandial glucose spike into a massive wave of Class I/II HDAC-inhibiting **butyrate** and endogenous L-cell GLP-1.
+
+### The Single GAG Optimization Mandate: Chondroitin vs. HMW-HA
+* Both Chondroitin Sulfate (in the daily blueberry smoothie) and High-Molecular-Weight Hyaluronic Acid (in the morning broth) are high-molecular-weight glycosaminoglycans acting primarily on **CD44** and synovial/disc hydration. Intact oral HMW-HA ($>1\text{ MDa}$) has $<5\text{--}10\%$ lymphatic uptake via M-cells, relying largely on cecal *Bacteroides* fermentation. 
+* When ingesting **30–35 g/day of hydrolyzed collagen + 5–10 g glycine + Liposomal Vitamin C** timed 45 minutes before mechanical tendon loading, running *both* Chondroitin and HMW-HA daily is redundant pharmacoeconomic drag.
+* **Rule:** Select **Chondroitin Sulfate (1,200 mg)** for articular joint cartilage and chondrocyte CD44 signaling, OR select **HMW-HA (200–500 mg)** for intervertebral spinal disc hydration and dermal turgor. Do not double-dose redundant GAGs.
+
 
 ### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
 The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:

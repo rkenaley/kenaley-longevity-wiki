@@ -1,7 +1,7 @@
 # Pyrroloquinoline Quinone (PQQ): Catalytic Redox Cycling & Cristae Biogenesis
 
 **Pillar:** Mitochondrial Dynamics & Biogenesis  
-**Conviction Tier:** TESTING / EXPERIMENTAL CYCLE  
+**Conviction Tier:** TARGETED INFRADIAN PULSE (Pulsed Cristae Rebuilding)  
 **Evidence Grade:** E2 (Human Biomarker) / E5 (Rodent Biogenesis)  
 **Stance:** Contrarian on Dosing (Using high-dose 20-40mg vs retail 10mg)  
 **Estimated Monthly Cost:** $18 -- $25 / month  

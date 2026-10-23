@@ -22,6 +22,12 @@ In May 2026, Poliezhaieva & Ermolaeva et al. (*Nature Communications*, 2026; Lei
 
 ---
 
+
+### Non-Consensus Alpha: The PEMT–Tafazzin–SS-31 Cardiolipin Architecture
+* **Substrate-Level Acyl Remodeling:** Supplying 1,2-dilinoleoylphosphatidylcholine (DLPC, $18:2/18:2\text{-PC}$) provides the exact linoleoyl donor required by the transacylase **Tafazzin (TAZ)** to remodel monolysocardiolipin into mature **tetralinoleoyl cardiolipin ($\text{L}_4\text{CL}$)**. This directly prevents pathological **ALCAT1**-driven substitution of peroxidizable docosahexaenoic acid (DHA) chains into the inner mitochondrial membrane.
+* **Solving the Three-Way Methylation Collision:** Synthesizing phosphatidylcholine via **PEMT** consumes 3 molecules of SAMe (producing 3 molecules of SAH, which competitively inhibits both PEMT and TET/DNMT epigenetic maintenance). The protocol resolves this by offloading **GAMT** via exogenous Creatine (5 g/day, sparing ~45% of systemic SAMe) plus TMG (1.5 g/day), maintaining epigenetic methylation fidelity while remodeling cristae.
+
+
 ## 2. The Empirical Evidence Base
 * **Poliezhaieva et al. (Nat Commun 2026):** Establishes that restoring phosphatidylcholine synthesis and SAMS-1 SAMe flux maintains mitochondrial morphology, prevents age-dependent cristae breakdown, and extends lifespan.
 * **Schlattner et al. (Biochim Biophys Acta 2014):** Demonstrates the absolute requirement of mature tetralinoleoyl cardiolipin for respiratory supercomplex assembly and cristae junction stability.

@@ -22,6 +22,13 @@ In the Belsky et al. (*eLife*, 2022) elastic-net derivation of **DunedinPACE**, 
 
 ---
 
+
+### Non-Consensus Alpha: Anatomical Decoupling of the Oral Microbiome & DunedinPACE
+Recognizing that 4 of the 19 physiological slopes training the **DunedinPACE** clock (~21% of total clock weight: periodontal attachment loss, caries, hs-CRP, and neutrophil/WBC count) stem directly from *P. gingivalis* gingipains and subgingival endotoxemia is a massive analytical advantage.
+* **Solving the Nitric Oxide Collision:** Antiseptic mouthwashes lower hs-CRP from gingivitis but wipe out lingual facultative anaerobes (*Veillonella atypica*, *Rothia mucilaginosa*), destroying the enterosalivary $\text{NO}_3^- \to \text{NO}_2^- \to \text{NO}$ pathway and starving **Microdose Tadalafil (Module 10)** of upstream cGMP. 
+* **The Anatomical Solution:** Using a Pik Pocket tip to restrict **0.10% NaOCl** strictly to subgingival pockets while seeding the tongue dorsum with ***S. salivarius* K12/M18** captures both the epigenetic clock deceleration and vascular eNOS/sGC synergy.
+
+
 ## 2. The Empirical Evidence Base
 * **Belsky et al. (eLife 2022):** Formally documents that dental caries and periodontal attachment loss constitute 10.5% of the multi-system biomarker slope weights for DunedinPACE.
 * **Kapil et al. (Free Radic Biol Med 2013):** Antiseptic chlorhexidine mouthwash abolishes oral nitrate reduction, causing acute increases in human blood pressure.

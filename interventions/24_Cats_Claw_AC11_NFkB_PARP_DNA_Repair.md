@@ -1,7 +1,7 @@
 # Cat's Claw (AC-11): Carboxy Alkyl Esters, NF-kappaB & PARP DNA Repair
 
 **Pillar:** Epigenetics & Genomic Stability  
-**Conviction Tier:** CORE BET  
+**Conviction Tier:** RETIRED / DEPRECATED (Pharmacoeconomic & Mechanistic Redundancy with C3G SIRT6-PARP1 Axis)  
 **Evidence Grade:** E3 (Human Volunteer DNA Repair Trials)  
 **Stance:** Contrarian (Standardized aqueous extract vs crude unstandardized bark)  
 **Estimated Monthly Cost:** $22 -- $28 / month  
@@ -31,7 +31,10 @@ Avoid in acute autoimmune disease flares or organ transplant recipients due to i
 ---
 
 ## 5. Precise Operational Protocol
-350mg to 700mg daily standardized AC-11 taken with the morning stack.
+**Formally Retired from Daily Pillbox Stack ($25/mo + 2 caps/day saved):**
+AC-11 is excised from the daily morning regimen.
+* **Biophysical Cause for Deprecation:** AC-11 relies on small early-2000s human pilot trials with commercial bias; the exact active pharmacokinetic monomer of its "carboxy alkyl esters" in human plasma remains poorly characterized.
+* **Complete Redundancy with C3G (Module 37):** The protocol already delivers **300–330 mg of active Cyanidin-3-Glucoside (C3G)** daily. C3G is a rigorously proven allosteric activator of **SIRT6** (accelerating catalytic deacetylation up to 55-fold), which directly mono-ADP-ribosylates **PARP-1 at Lys521** to drive non-homologous end joining (NHEJ) and base excision repair (BER) while silencing LINE-1 retrotransposons. AC-11 provides zero marginal DNA repair alpha over C3G + intracellular Magnesium.
 
 ---
 

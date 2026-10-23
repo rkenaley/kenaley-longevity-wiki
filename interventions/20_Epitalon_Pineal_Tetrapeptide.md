@@ -1,7 +1,7 @@
 # Epitalon (Ala-Glu-Asp-Gly): Pineal Peptide & Telomerase Modulation
 
 **Pillar:** Endocrine Architecture & Epigenetics  
-**Conviction Tier:** TESTING / EXPERIMENTAL CYCLE  
+**Conviction Tier:** RETIRED / DEPRECATED (Moved to Epistemic Graveyard; Pharmacoeconomic & Mechanistic Redundancy)  
 **Evidence Grade:** E5 (Rodent Lifespan) / E7 (Khavinson Clinical Trials)  
 **Stance:** Highly Contrarian (Soviet/Russian bioregulator science vs Western skepticism)  
 **Estimated Monthly Cost:** $50 -- $70 / cycle  
@@ -20,7 +20,7 @@ Khavinson et al. (2003, 2009): Published multiple rodent and non-human primate l
 ---
 
 ## 3. Honest Bayesian Probability & Expected Value
-* **P(Real Human Healthspan Extension):** **40%**
+* **P(Real Human Healthspan Extension):** **40%** (Lowest in whitepaper; insufficient independent replication)
 * **Expected Value Justification:** The intervention targets a fundamental rate-limiting step in biological aging. The asymmetric upside significantly outweighs operational friction and monetary expense.
 
 ---
@@ -31,7 +31,10 @@ Lack of large Western randomized placebo-controlled replications. Pure synthetic
 ---
 
 ## 5. Precise Operational Protocol
-5mg to 10mg daily subcutaneous or sublingual for 10 to 20 consecutive days, executed twice per calendar year.
+**Formally Retired from Active Rotation:**
+Epitalon is excised from the active infradian protocol ($100–$140/yr + daily subcutaneous injection friction saved).
+* **Biophysical Cause for Deprecation:** Epitalon suffers from a near-total absence of independent Western structural biology replication demonstrating sequence-specific binding to the *hTERT* promoter or histone H1/H4 displacement at nanomolar systemic concentrations.
+* **Mechanistic Redundancy:** The Kenaley architecture already potently stimulates *hTERT* transcription via **Low-Dose Lithium** (GSK-3$\beta$ inhibition $\to$ nuclear $\beta$-catenin stabilization $\to$ *hTERT* promoter activation, Module 25), elongates leukocyte telomeres via **2.0 ATA HBOT** (Module 29) and **TM5614** (Module 41), and protects circadian pineal melatonin amplitude via morning solar entrainment and nocturnal **taVNS + Glycine** (Module 31).
 
 ---
 
