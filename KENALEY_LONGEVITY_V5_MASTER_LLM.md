@@ -13,7 +13,7 @@
 > 1. **Core Philosophy & 7 Biological Pillars**
 > 2. **Universal Table Stakes & Lifestyle Foundation**
 > 3. **The 24-Hour Master Chrono-Architecture (Daily Circadian Schedule 06:30 - 22:30)**
-> 4. **The Physical 4-Slot Pillbox Dispensing Matrix & Lab Fridge Storage**
+> 4. **The Physical 3-Slot Pillbox Dispensing Matrix + Pulsed Training Pouches & Lab Fridge Storage**
 > 5. **Precision Longevity Kitchen & Powder Smoothie Architecture (Module 37)**
 > 6. **Athletic Performance Architecture: Zac Goodman BMT, Dynamic Tendon Recoil & CNS Sprinting (Module 38)**
 > 7. **Valter Longo 5-Day Fasting Mimicking Diet (FMD) & Autophagic Purge (Module 39)**
@@ -154,19 +154,19 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 
 ---
 
-### 🏃 TRACK A: MIDDAY TRAINING + IMMEDIATE POST-WORKOUT SAUNA (12:00 – 14:00 HORMETIC BLOCK)
-*Optimized for professionals who bundle athletic training directly with Finnish sauna in a single early-afternoon block.*
+### 🏃 TRACK A: MIDDAY TRAINING + IMMEDIATE POST-WORKOUT THERMAL HORMESIS (12:00 – 14:00 HORMETIC BLOCK)
+*Optimized for professionals who bundle athletic training directly with Finnish sauna, Far-Infrared (FIR) sauna, or Hot Water Immersion (HWI) in a single early-afternoon block.*
 
 * **06:30 - 07:00 | Circadian Awakening & Cortisol Awakening Surge:**
   - **Photobiology:** Step outside for 10-15 minutes of direct solar photon exposure to reset the suprachiasmatic nucleus (SCN).
   - **Hydration:** 20-24 oz (600-750 mL) purified RO water with Celtic sea salt / potassium bicarbonate.
   - **Dispensing:** **Pillbox Slot 1 (AM Fasted)** swallowed with water:
     - Urolithin A (1,000 mg) — Fasted PINK1/Parkin mitophagy & HSC rejuvenation
-    - Calcium-AKG (1,000 mg) — TET1–3 DNA demethylation co-substrate & systemic IL-10 surge
+    - Calcium-AKG (1,000 mg) — TET1–3 DNA demethylation co-substrate & systemic IL-10 surge *(or powder in water/smoothie)*
     - Liposomal Vitamin C (500 mg) — Reduces active-site $	ext{Fe}^{3+} 	o 	ext{Fe}^{2+}$ for TET enzymes
     - Microdose Tadalafil (2.5 - 5.0 mg) — Endothelial cGMP / PKG1 signaling & renal eGFR
     - Low-Dose Lithium Orotate (5 mg elemental) — GSK-3$eta$ inhibition & hippocampal BDNF preservation
-    *(Note: Spermidine capsules are retired in favor of the colonic bioreactor; Cat's Claw AC-11 is retired due to C3G SIRT6-PARP1 redundancy; Apigenin is moved to Slot 4 PM).*
+    *(Note: Spermidine capsules are retired in favor of the colonic bioreactor; Cat's Claw AC-11 is retired due to C3G SIRT6-PARP1 redundancy; Apigenin is moved to Slot 3 PM).*
   - **Sublingual / Mon-Wed-Fri Only:** Selegiline (0.25 mg sublingual). *Allow to absorb under tongue for 5 minutes; do not swallow whole.*
   - **Oral Protocol (Module 34):** Tongue scraping followed by remineralizing nano-hydroxyapatite brushing. Subgingival 0.10% NaOCl via Pik Pocket tip 2x/week.
 * **07:00 - 11:30 | Fasted Deep Work & Cognitive Focus Window:**
@@ -175,28 +175,33 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
   - Drink the **Savory Pre-Workout Broth** (Module 37: 15g Hydrolyzed Collagen Peptides + 200–500 mg HMW-HA + 1/4 tsp salt + Zinc Carnosine). *(Hold high-dose Vitamin C or keep to <=250 mg so workout ROS is unhindered).*
 * **12:00 - 14:00 | High-Intensity Athletic Training & Thermal Hormesis Block:**
   - **12:00 - 13:15 (Module 38):** Dynamic fascial warmup $	o$ high-load eccentric squats/plyos (Day A) or max-velocity sprints/upper work (Day B).
-  - **13:15 (Sauna Priming):** Take **Pillbox Slot 3 (Pre-Hormesis Pouch)**: Selbex (Teprenone / GGA 100 mg) + 1,000 mg electrolyte salt. *(No inorganic nitrate pre-sauna).*
-  - **13:30 - 14:00 (Module 28):** 85–90°C Finnish Sauna for 20–25 minutes. HSP70 chaperone induction.
+  - **13:15 (Thermal Priming):** Take **Pre-Hormesis Training Pouch (Module 27)**: Selbex (Teprenone / GGA 100 mg) + 1,000 mg electrolyte salt. *(No inorganic nitrate pre-heat).*
+  - **13:30 - 14:00 (Module 28):** Thermal Hormesis:
+    - *Option 1 (Finnish Dry Sauna):* 80–90°C for 20–25 minutes.
+    - *Option 2 (Far-Infrared FIR Sauna):* 55–65°C for 30–45 minutes.
+    - *Option 3 (Hot Water Immersion HWI):* 40–42°C (104–108°F) bath up to neck for 20–30 minutes.
 * **14:15 - 15:00 | Post-Workout Nutrition & Main Refuel (Meal 1):**
   - High-protein lean meal + Pressure-Cooked Retrograded RS3 Resistant Starch (Module 37).
   - **Pillbox Slot 2 (Midday / Meal 1):** Acarbose (25–50 mg with first forkful), Bempedoic Acid + Ezetimibe, Citrus Bergamot, Vitamin K2 MK-7 + D3 + Retinol, Kyolic Aged Garlic, Rhamnan Sulfate, Krill Oil, Olive Leaf Extract, Benfotiamine + Carnosine + Pyridoxamine, L-Ergothioneine.
 * **15:00 - 18:15 | Afternoon Deep Work & Digest Window:**
-  - 4-hour post-workout/post-sauna Nrf2 and HSP70 transcriptional signaling cascades run without antioxidant interference.
-* **18:15 - 18:45 | THE SMOOTHIE WINDOW (>4 Hours Post-Sauna) & Dinner (Meal 2):**
+  - 4-hour post-workout/post-thermal Nrf2 and HSP70 transcriptional signaling cascades run without antioxidant interference.
+* **18:15 - 18:45 | THE SMOOTHIE WINDOW (>4 Hours Post-Thermal) & Dinner (Meal 2):**
   - **Consume the Master Blueberry Powder Smoothie (Module 37):** 1.25 cups frozen wild blueberries + lemon juice + 25.5g dry payload (Glycine 7.5g, Creatine 5g, Greens 5g, Amla 2.5g, Taurine 1.5g, TMG 1.5g, Chondroitin 1.2g, NAC 1.0g, Agaricus 1.0g, C3G 330mg).
   - Floods the liver with GlyNAC, Taurine, and C3G right as restorative parasympathetic tone begins. C3G simultaneously blocks brush-border SGLT1/GLUT2 for Meal 2 carbs.
   - Light dinner of steamed cruciferous vegetables, extra virgin olive oil, and clean protein.
 * **20:45 - 21:15 | Evening Collagen Mugcake (Module 37):**
   - 15g Collagen + Casein + Cacao + Coconut Flour (60 sec microwave).
-* **21:30 - 22:30 | Nighttime Down-Regulation & Sleep Ingestion:**
+* **21:30 - 22:30 | Nighttime Down-Regulation, Alkalinizing Drink & Sleep Ingestion:**
   - Dim lights, blue-blockers on.
-  - **Pillbox Slot 4 (Evening Bedtime):** DLPC (1.2–2.4g), Apigenin (50 mg), Kyolic SAC (600 mg), Chebulic+Rosmarinic acid, PEA (400–600 mg), Melatonin microdose (0.3–1.0 mg), Mg L-Threonate (300–400 mg), L-Theanine (200 mg). *(TMG consolidated to smoothie).*
+  - **Recipe 5: Nocturnal Alkalinizing Sleep Cocktail:** 1/2 tsp (2.0–2.5g) Sodium Bicarbonate + 2.0–3.0g Myo-Inositol dissolved in 4–6 oz warm water.
+  - **Pillbox Slot 3 (Evening Bedtime):** DLPC (1.2–2.4g), L-Theanine (200 mg), Apigenin (50 mg), Kyolic SAC (600 mg), Chebulic+Rosmarinic acid, Melatonin microdose (0.3–1.0 mg), Mg L-Threonate (300–400 mg). *(PEA excised; TMG consolidated to smoothie).*
+  - **Pre-Bed Oral Probiotic (Module 34):** Dissolve 1 *S. salivarius* K12/M18 oral probiotic lozenge slowly on the tongue.
   - **Topical Dermatology (Module 32):** Niacinamide 5% followed by Tretinoin 0.05% cream.
-  - **Sleep Hardware (Module 31):** 3M Micropore mouth tape + 15 min taVNS ear clip (25 Hz) + S. salivarius K12 lozenge.
+  - **Sleep Hardware (Module 31):** 3M Micropore mouth tape + 15 min taVNS ear clip (25 Hz left tragus). Cool dark room (65–68°F).
 
 ---
 
-### 🌅 TRACK B: LATE-AFTERNOON TRAINING + SAUNA (16:30 – 18:30 HORMETIC BLOCK)
+### 🌅 TRACK B: LATE-AFTERNOON TRAINING + THERMAL HORMESIS (16:30 – 18:30 HORMETIC BLOCK)
 *Optimized for individuals who train in the late afternoon/early evening.*
 
 * **06:30 - 10:00 | Fasted Deep Work & Slot 1 AM Pills:**
@@ -206,21 +211,21 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
   - *Why this works:* Being strictly fat-free and fiber-dispersed, gastric transit completes within 45–60 minutes and plasma NAC free-thiols peak and clear well before 16:30, leaving cellular redox unbuffered for workout ROS.
 * **12:30 - 13:15 | Main Refuel (Meal 1):**
   - Main RS3 starch + lean protein meal + Pillbox Slot 2.
-* **15:30 | Pre-Workout Joint Priming & Slot 3 (60 min prior):**
-  - Savory Collagen Broth (15g Collagen + HMW-HA) + Pillbox Slot 3 (Selbex 100 mg + Electrolytes).
-* **16:30 - 18:30 | High-Intensity Athletic Training & Finnish Sauna Block:**
-  - Module 38 BMT Sprints/Lifting $	o$ Module 28 Finnish Sauna.
+* **15:30 | Pre-Workout Joint Priming & Thermal Priming (60 min prior):**
+  - Savory Collagen Broth (15g Collagen + 200–500 mg HMW-HA) + Pre-Hormesis Training Pouch (Selbex 100 mg + Electrolytes).
+* **16:30 - 18:30 | High-Intensity Athletic Training & Thermal Hormesis Block:**
+  - Module 38 BMT Sprints/Lifting $	o$ Module 28 Finnish Sauna, Far-Infrared Sauna, or Hot Water Immersion.
 * **19:15 - 20:00 | Evening Dinner (Meal 2):**
   - Whole-food dinner + secondary Acarbose if carbs present.
-* **20:45 - 22:30 | Mugcake, Slot 4 Bedtime Stack & Sleep Hardware:**
-  - Mugcake at 20:45 $	o$ Slot 4 pills at 21:30 $	o$ Topical PM Tretinoin/Niacinamide $	o$ Mouth tape + taVNS.
+* **20:45 - 22:30 | Mugcake, Sleep Cocktail, Slot 3 Bedtime Stack & Sleep Hardware:**
+  - Mugcake at 20:45 $	o$ Recipe 5 Alkalinizing Cocktail (Bicarb + Myo-Inositol) & Slot 3 Bedtime pills at 21:30 $	o$ *S. salivarius* lozenge $	o$ Topical PM Tretinoin/Niacinamide $	o$ Mouth tape + taVNS.
 
 ---
 # SECTION IV: THE PHYSICAL PILLBOX DISPENSING MATRIX & STORAGE GUIDE
-*A complete 1-page physical adherence matrix mapping every oral compound to standard 7-day 4-compartment organizers.*
+*A complete 1-page physical adherence matrix mapping every oral compound to standard 7-day 3-compartment organizers plus pulsed training pouches.*
 
 # 💊 The Kenaley Longevity Protocol v5.0: Physical Pillbox Dispensing Matrix
-*A 1-Page Quick-Reference Adherence Guide for 7-Day Multi-Compartment Pillboxes*
+*A 1-Page Quick-Reference Adherence Guide for 7-Day 3-Compartment Pillboxes + Pulsed Training Pouches*
 
 ---
 
@@ -230,7 +235,7 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 | Module | Intervention | Exact Dose | Pill Form | Core Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **`06`** | **Urolithin A** | 1,000 mg | 2 softgels/caps | Fasted PINK1/Parkin mitophagy & HSC rejuvenation |
-| **`23`** | **Calcium-AKG** | 1,000 mg | 2 tablets | TET1–3 DNA demethylation co-substrate & systemic IL-10 surge |
+| **`23`** | **Calcium-AKG** | 1,000 mg | 2 tablets *(or powder)* | TET1–3 DNA demethylation co-substrate & systemic IL-10 surge |
 | **`23`** | **Liposomal Vitamin C** | 500 mg | 1 cap / liquid | Reduces TET active-site $\text{Fe}^{3+} \to \text{Fe}^{2+}$ |
 | **`10`** | **Microdose Tadalafil** | 2.5–5.0 mg | 1 tablet | Endothelial cGMP / PKG1 signaling & renal eGFR |
 | **`25`** | **Lithium Orotate** | 5 mg elemental | 1 capsule | GSK-3$\beta$ inhibition & hippocampal BDNF preservation |
@@ -238,13 +243,13 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 > **💡 v5.0 PILL BURDEN TRIMS & CHROMIUM-LEAN OPTIMIZATIONS (SLOT 1):**
 > * **Spermidine (`07`) Excised from Pillbox:** Replaced entirely by the **endogenous colonic bioreactor strategy** (`01` Acarbose + RS3 resistant starch + Arginine/Ornithine + *B. animalis* LKM512), which bypasses upper-GI diamine oxidase (DAO) deamination and delivers continuous portal polyamines without buying synthetic trihydrochloride capsules.
 > * **Cat's Claw AC-11 (`24`) Retired:** Redundant with daily **Cyanidin-3-Glucoside (300–330 mg C3G, Module 37)**, which allosterically upregulates SIRT6 up to 55-fold to drive PARP-1 Lys521 mono-ADP-ribosylation, NHEJ/BER, and LINE-1 silencing.
-> * **Apigenin (`23`) Moved to Slot 4 (PM):** Shifted out of morning dosing to eliminate daytime GABAergic sedation during the 07:00 fasted deep-work window, while harnessing its nocturnal CD38 inhibition and slow-wave sleep enhancement.
+> * **Apigenin (`23`) Moved to Slot 3 (PM):** Shifted out of morning dosing to eliminate daytime GABAergic sedation during the 07:00 fasted deep-work window, while harnessing its nocturnal CD38 inhibition and slow-wave sleep enhancement.
 
 > **⚠️ NON-PILLBOX AM ITEMS:**
 > * **Module `22` (Selegiline):**
 >   * *Option A (Sublingual):* 0.25 mg sublingual tablet (Mon / Wed / Fri only). *Dissolve under tongue; do not swallow.*
 >   * *Option B (Swallowed / Kiesow Method):* 1.25 mg oral swallowed (1/4 of a 5 mg generic tablet, Mon–Fri, weekends off). ~90% first-pass hepatic clearance yields 0.12–0.15 mg systemic parent selegiline with mild neuroprotective amine metabolites.
-> * **Module `37` (Morning / Pre-Workout Option):** Restorative Broth Drink (15 g Collagen Peptides + 500 mg Liposomal Vit C + optional 200–500 mg High-Molecular-Weight Hyaluronic Acid).
+> * **Module `37` (Morning / Pre-Workout Option):** Restorative Broth Drink (15 g Collagen Peptides + 500 mg Liposomal Vit C + 200–500 mg High-Molecular-Weight Hyaluronic Acid).
 
 ---
 
@@ -262,7 +267,7 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 | **`11`** | **Rhamnan Sulfate** | 100 mg | 1 capsule | Heparan sulfate endothelial glycocalyx scaffolding |
 | **`12`** | **Antarctic Krill Oil** | 1,000 mg | 1–2 softgels | MFSD2A BBB LPC-DHA delivery + Astaxanthin |
 | **`13`** | **Olive Leaf Extract (Oleuropein)** | 500 mg | 1 capsule | MCU channel activation & AMPK stimulation |
-| **`36`** | **Benfotiamine + Carnosine** | 150 mg / 500 mg | 1–2 capsules | Transketolase activation & MGO dicarbonyl trapping |
+| **`36`** | **Benfotiamine + Carnosine** | 150 mg / 500 mg | 1–2 capsules | Transketolase activation & MGO dicarbonyl trapping *(or Carnosine in powder)* |
 | **`36`** | **Pyridoxamine (or P-5-P)** | 50 mg | 1 capsule | Glucosepane intermediate trapping |
 | **`04`** | **L-Ergothioneine** | 25 mg | 1 capsule | OCTN1 mitochondrial radioprotection |
 
@@ -270,32 +275,24 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 
 ---
 
-### 🔥 SLOT 3: PRE-HORMESIS POUCH (15:30) | Thermal & Athletic Priming
-*Carry in a separate mini-pouch. Take 60 minutes before Finnish Sauna or Training session.*
-
-| Module | Intervention | Exact Dose | Pill Form | Core Function |
-| :--- | :--- | :--- | :--- | :--- |
-| **`27`** | **Selbex (Teprenone / GGA)** | 100 mg | 1 capsule | **HSF1 chaperone primer** ($3\times\text{ HSP70}$ induction in sauna) |
-
-> **⛔ CRITICAL COLLISION & SYNCOPE GUARDRAILS:**
-> * **NO INORGANIC NITRATE PRE-SAUNA:** Inorganic Dietary Nitrate (`34`) is strictly excised prior to sauna sessions. Combining peak enterosalivary nitrite-to-NO conversion with Tadalafil (`10`) and 90°C cutaneous thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope. Reserve nitrate exclusively for non-sauna athletic sprint training.
-> * **STRICTLY ZERO ANTIOXIDANTS:** No Vit C, PQQ, Astaxanthin, or high-dose polyphenols within **4 hours before or after** Sauna (`28`), HBOT (`29`), or Sprinting (`38`). Hormetic ROS is the mandatory trigger for Nrf2/HIF-1$\alpha$ and training adaptation!
-
----
-
-### 🌙 SLOT 4: EVENING / BEDTIME (20:30 – 22:00) | Membrane Remodeling, Sleep & ECM
+### 🌙 SLOT 3: EVENING / BEDTIME (20:30 – 22:00) | Membrane Remodeling, Sleep & Neuroprotection
 *Take with light evening protein/broth or 30 minutes before sleep.*
 
 | Module | Intervention | Exact Dose | Pill Form | Core Function |
 | :--- | :--- | :--- | :--- | :--- |
 | **`35`** | **DLPC (Polyenylphosphatidylcholine)**| 1.2–2.4 g | 2–3 softgels | Tafazzin $\text{L}_4\text{CL}$ mature cardiolipin remodeling |
-| **`35`** | **Trimethylglycine (TMG / Betaine)** | 1.5 g | 2 tablets *(or 1.5g powder in smoothie)* | Clears SAH via BHMT, sparing SAMe for PEMT |
+| **`31`** | **L-Theanine** | 200 mg | 1 capsule *(or powder)*| Glutamate antagonism, GABA-A facilitation & slow-wave sleep |
+| **`34`** | ***Streptococcus salivarius* K12/M18**| 1 lozenge | Oral probiotic tab | **Dissolve slowly on tongue before sleep**; clears periodontal pathogens & preserves oral nitrate reduction |
 | **`23`** | **Apigenin** | 50 mg | 1 capsule | Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+) |
 | **`11`** | **Kyolic Aged Garlic (SAC)** | 600 mg | 1 capsule | Split dose for nocturnal vascular endothelial protection |
 | **`36`** | **Chebulic + Rosmarinic Acid** | 500 mg / 250 mg | 1–2 capsules | Cleaves established glucosepane collagen crosslinks |
-| **`42`** | **Palmitoylethanolamide (PEA)** | 400–600 mg | 1–2 capsules | Macrophage PPAR$\alpha/\gamma/\delta$ co-activation, upregulates MerTK, prevents post-engulfment paralysis |
 | **`42`** | **Melatonin (Nocturnal Microdose)** | 0.3–1.0 mg | 1 cap / drop | Direct MPO heme-pocket inhibition; blocks HOCl & NETs during sleep |
-| **`31`** | **Magnesium L-Threonate / Bisglycinate**| 300–400 mg elem. | 2–3 capsules | GABA-A agonism, NMDA stability & sleep architecture |
+| **`31`** | **Magnesium L-Threonate / Bisglycinate**| 300–400 mg elem. | 2–3 capsules | GABA-A agonism, NMDA stability & slow-wave sleep architecture |
+
+> **💡 v5.0 PILL BURDEN TRIMS & MODIFICATIONS (SLOT 3):**
+> * **Palmitoylethanolamide (PEA, `42`) Excised:** PEA is retired from the daily stack. In non-chronic-pain athletic cohorts, its macrophage PPAR$\alpha$/MerTK efferocytosis support is already heavily dominated by daily **C3G ($330\text{ mg}$)**, **high-dose marine EPA/DHA + SPMs**, and **GlyNAC**. Dropping PEA saves 1–2 large capsules and $25–35/month.
+> * **TMG (1.5 g, `35`) Consolidated to Smoothie:** Anhydrous betaine powder dissolves with zero taste in the daily blueberry smoothie, eliminating 2 large tablets from the bedtime pillbox while pairing directly with Creatine to clear SAH via BHMT. (Can remain in Slot 3 as tablets if smoothie is skipped).
+> * **Oral Probiotic Moved to Bedtime Supplements:** *S. salivarius* K12/M18 is now cataloged directly here in the ingested bedtime sequence so it is dissolved on the palate after brushing and flossing.
 
 ---
 
@@ -317,7 +314,7 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 │ • Organic Amla Powder: 2.5 g (Emblicanin lipid peroxidation shield)         │
 │ • Taurine Powder: 1.5 g (Dose 1/2: mt-tRNA wobble U34 & neutrophil HOCl)    │
 │ • TMG (Betaine Anhydrous): 1.5 g (Pillbox consolidation: clears SAH / BHMT) │
-│ • Chondroitin Sulfate: 1.2 g (Primary GAG option; omit if HMW-HA in broth)  │
+│ • Chondroitin Sulfate: 1.2 g (Articular cartilage aggrecan bristles & CD44)│
 │ • Pure N-Acetylcysteine (NAC): 1.0 g (Glycine + NAC = GlyNAC NETs cleavage) │
 │ • Agaricus blazei Murill Extract: 1.0 g (Beta-1,3/1,6-glucan Dectin-1)      │
 │ • Cyanidin-3-Glucoside (C3G): 300–330 mg active (SIRT6 / LXRα / SGLT1-GLUT2) │
@@ -326,30 +323,39 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 │ • 1.25–1.5 cups Frozen Organic Wild Blueberries + 3–4 Ice Cubes             │
 │ *Blend on high for 45–60 sec; consume immediately before NAC oxidizes.      │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 🥣 TENDON / PRE-WORKOUT BROTH (30–60 min Pre-Training)                      │
-│ 12-16 oz Warm Savory Broth (65–75°C) + 15 g Collagen + 1/4–1/2 tsp Salt     │
-│ • ALTERNATIVE GAG OPTION: High-MW Hyaluronic Acid: 200–500 mg HMW-HA        │
-│   (Select for spinal disc hydration; do NOT stack both Chondroitin & HMW-HA)│
+│ 🥣 TENDON / PRE-WORKOUT SAVORY BROTH (30–60 min Pre-Training)               │
+│ 12–16 oz Warm Savory Broth (65–75°C) + 15 g Collagen + 1/4–1/2 tsp Salt     │
+│ • High-MW Hyaluronic Acid: 200–500 mg HMW-HA (>1.5 MDa)                     │
+│   (Hydrates spinal disc nucleus pulposus & synovial fluid; synergizes with  │
+│    Chondroitin Sulfate in smoothie for total joint + disc ECM coverage)     │
+│ • 15–20 mg Zinc Carnosine (Intestinal Alkaline Phosphatase LPS blocker)    │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (20:45)                                        │
 │ 15–20g Collagen + 10–15g Micellar Casein + 7–10g Coconut Flour + 5g Cacao   │
 ├─────────────────────────────────────────────────────────────────────────────┤
+│ 🌙 RECIPE 5: NOCTURNAL ALKALINIZING SLEEP COCKTAIL (21:30 – 22:00)          │
+│ In 4–6 oz Warm Water:                                                       │
+│ • 1/2 tsp (~2.0–2.5 g) Pure Sodium Bicarbonate (NaHCO3 USP)                 │
+│ • 2.0–3.0 g Pure Myo-Inositol Powder                                        │
+│ *Buffers nocturnal renal ammoniagenesis & metabolic acidosis (chloride-free;│
+│  zero BP elevation); Myo-inositol IP3 signaling deepens slow-wave sleep.    │
+├─────────────────────────────────────────────────────────────────────────────┤
 │ 🌙 BEDTIME HARDWARE & BIOPHYSICAL RITUAL (22:00)                            │
-│ 1. Dissolve 1 S. salivarius K12/M18 oral probiotic lozenge on tongue (`34`) │
-│ 2. Apply topical Niacinamide 5% followed by Tretinoin 0.05% (`32`)          │
-│ 3. 15-minute pre-sleep auricular taVNS session (left tragus - `31`)        │
-│ 4. Apply 3M Micropore surgical mouth tape horizontally (`31`)               │
-│ 5. Optional Needle-Free Travel Fallback: 5.0–8.0 g L-Ornithine + Choline (`19`)
+│ 1. Auricular taVNS: 15 min on left tragus (25 Hz, 200 µs pulse width) (`31`) │
+│ 2. Mouth Taping: Apply 3M Micropore surgical tape horizontally (`31`)       │
+│ 3. Bedroom Environment: 65–68°F (18–20°C), 100% blackout eye mask/shades    │
+│ 4. Topical Dermatology: Topical Niacinamide 5% -> Tretinoin 0.05% (`32`)    │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 📅 INFRADIAN PULSED PROTOCOLS (MONTHLY TO ANNUAL CYCLES)
+### 📅 INFRADIAN & PULSED PROTOCOLS (TRAINING DAYS, MONTHLY & ANNUAL CYCLES)
 *How to adjust standard daily pillboxes during non-daily, pulsed interventions:*
 
 | Cadence | Intervention | Protocol & Dosage | Pillbox / Daily Adjustment |
 | :--- | :--- | :--- | :--- |
+| **Training / Sauna Days (4–5x/wk)** | **Pre-Hormesis Thermal & Athletic Pouch (`27` & `28`)** | **100 mg Selbex (Teprenone / GGA)** taken 60 min prior to thermal or high-intensity athletic session | Carry in mini-pouch. Primes HSF1 for **$3\times\text{ HSP70}$ induction**. Compatible with: (1) Finnish Sauna ($80\text{--}90^\circ\text{C}$, 20–25 min), (2) Far-Infrared (FIR) Sauna ($55\text{--}65^\circ\text{C}$, 30–45 min), or (3) Hot Water Immersion ($40\text{--}42^\circ\text{C}$, 20–30 min). **Zero inorganic nitrate pre-heat; zero antioxidants 4h before/after.** |
 | **Monthly** | **Mayo Pulsed Senolytics (`14`)** | Liposomal Fisetin ($20\text{--}25\text{ mg/kg}$) + Quercetin (1g) + PCC1 (500mg) $\times$ 2 days | Add to Meal 1 with 30mL EVOO. Maintain daily pillboxes. |
 | **Monthly** | **Deep Microneedling (`32`)** | 1.5mm scalp (hair stem cells) + 0.5–1.0mm face (collagen) with sterile HMW-HA | Pause topical Tretinoin for 48h post-needling. |
 | **Quarterly**| **Valter Longo 5-Day FMD (`39`)** | 5-day WFPB calorie restriction (Day 1: 900 kcal; Days 2–5: 613 kcal + glycerol drink) | **PAUSE Slot 2 Acarbose (`01`), Enclomiphene (`17`), and Vasodilators: Tadalafil (`10`), Aged Garlic (`11`), Olive Leaf (`13`)** to prevent severe fasting orthostatic syncope. Maintain salt & water. |
@@ -364,15 +370,16 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 ---
 
 # SECTION V: PRECISION NUTRITION, FUNCTIONAL RECIPES & POWDER VEHICLES (MODULE 37)
-# Module 37: Longevity Culinary Engine — Restorative Broth, Collagen Mugcake, Powder Smoothie & RS3 Starch
+# Module 37: Longevity Culinary Engine — Restorative Broth, Collagen Mugcake, Powder Smoothie, RS3 Starch & Nocturnal Alkalinizing Cocktail
 
 ## 1. The Nutritional Longevity Philosophy: Precision Fueling & Substrate Shunting
 The Version 5.0 architecture decouples nutritional delivery into targeted biochemical vehicles. Rather than haphazardly mixing compounds or consuming unpalatable raw powders in water, the protocol integrates specific functional food matrices designed to maximize pharmacokinetics, prevent metabolic interference (e.g., the Randle cycle), and achieve high daily adherence:
 
-1. **The Connective Tissue & Tendon Loading Window:** Hydrolyzed collagen paired with liposomal vitamin C in a warm broth matrix to optimize prolyl and lysyl hydroxylase activity prior to mechanical loading.
+1. **The Connective Tissue & Tendon Loading Window:** Hydrolyzed collagen paired with liposomal vitamin C and high-molecular-weight hyaluronic acid in a warm broth matrix to optimize prolyl and lysyl hydroxylase activity prior to mechanical loading.
 2. **The Nocturnal Proteostasis & Satiety Vehicle:** A rapid 60-second collagen/casein microwave mugcake delivering continuous nighttime glycine and amino acids for tissue remodeling without glycemic disruption.
-3. **The "One Smoothie Per Day" Powder Delivery Vehicle:** A strictly carbohydrate-only, fat-free wild blueberry base engineered to transport high-dose bioactive powders (chondroitin, amla, taurine, glycine, greens, *Agaricus blazei*, creatine) with rapid gastric transit and zero fatty acid competition.
+3. **The "One Smoothie Per Day" Powder Delivery Vehicle:** A strictly carbohydrate-only, fat-free wild blueberry base engineered to transport high-dose bioactive powders (chondroitin, amla, taurine, glycine, greens, *Agaricus blazei*, creatine, C3G, TMG) with rapid gastric transit and zero fatty acid competition.
 4. **The High-Pressure RS3 Retrogradation Starch Shunt:** High-pressure gelatinization followed by cold recrystallization, transforming digestible carbohydrates into non-digestible butyrogenic fuel for colonic commensals.
+5. **The Nocturnal Acid-Base & Slow-Wave Sleep Vehicle:** A rapid warm sodium bicarbonate + myo-inositol aqueous cocktail to buffer renal ammoniagenesis, prevent nocturnal metabolic acidosis, and deepen N3 restorative slow-wave sleep.
 
 ---
 
@@ -385,7 +392,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 
 ### Ingredients & Preparation
 * **15 g Hydrolyzed Collagen Peptides** (Type I & III, pasture-raised bovine or marine).
-* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA):** Soluble linear glycosaminoglycan that binds to aggrecan and CD44 in cartilage and intervertebral discs, stimulating endogenous synoviocyte HA synthesis and retaining axial disc hydration.
+* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA, $>1.5\text{ MDa}$):** Soluble linear glycosaminoglycan that acts as the central structural backbone of cartilage proteoglycans, concentrates in the synovial fluid and **nucleus pulposus of intervertebral discs**, and stimulates endogenous synoviocyte HA synthesis. Synergizes with Chondroitin Sulfate in the cold smoothie.
 * **12–16 oz Warm Broth Base:** 
   * High-quality commercial or homemade bone/cartilage stock, OR
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
@@ -397,7 +404,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 ### Instructions
 1. Heat 12–16 oz of purified RO water to approximately $65\text{--}75^\circ\text{C}$ ($150\text{--}165^\circ\text{F}$).
 2. Dissolve the bouillon or bone broth concentrate thoroughly with a spoon or handheld milk frother.
-3. Whisk in the 15 g of hydrolyzed collagen powder until completely clear and dissolved (collagen peptides dissolve effortlessly in warm liquids without clumping or altering texture).
+3. Whisk in the 15 g of hydrolyzed collagen powder and HMW-HA until completely clear and dissolved (collagen peptides and HMW-HA dissolve effortlessly in warm liquids without clumping).
 4. Consume warm 30–60 minutes prior to training (Phase C) or as a grounding morning ritual (Phase A), taking the liposomal vitamin C concurrently.
 
 ---
@@ -432,7 +439,7 @@ Sleep architecture depends heavily on central core body cooling and inhibitory n
 
 ### I. Master Inventory of Non-Bedtime Bulk Powders
 
-Excluding your pre-bed bicarbonate/sleep cocktail, the bulk powders across the v5.0 architecture divide into four operational categories based on solubility, thermal requirements, and circadian kinetics:
+The bulk powders across the v5.0 architecture divide into four operational categories based on solubility, thermal requirements, and circadian kinetics:
 
 #### 1. The Core Daily Smoothie Payload (Water-Soluble / Carb-Matrix Compatible)
 * **Creatine Monohydrate ($5.0\text{ g}$):** Offloads endogenous guanidinoacetate N-methyltransferase (GAMT) synthesis to spare ~45% of systemic SAMe for hepatic PEMT phosphatidylcholine synthesis (Module 35).
@@ -443,15 +450,18 @@ Excluding your pre-bed bicarbonate/sleep cocktail, the bulk powders across the v
 * **Organic Amla Fruit Powder ($2.0\text{--}3.0\text{ g}$, target $2.5\text{ g}$):** Delivers emblicanin A/B polyphenols for systemic lipid peroxidation shielding and endothelial support.
 * **Organic *Agaricus blazei* Murill Extract ($500\text{--}1,000\text{ mg}$):** Provides $\beta\text{-1,3/1,6-D-glucans}$ for Dectin-1 innate immune surveillance.
 * **Super-Greens Powder ($5.0\text{--}10.0\text{ g}$ Spirulina / Chlorella / Barley Grass):** Supplies chlorophyllin, carotenoids, and trace phytonutrients.
-* **Chondroitin Sulfate ($1,200\text{ mg}$):** Sulfated glycosaminoglycan that engages articular CD44 receptors to suppress MMP-13 and aggrecanase. *(Note: Can be dropped if retaining $200\text{--}500\text{ mg}$ HMW-HA in the morning broth to avoid dual-GAG redundancy).*
+* **Chondroitin Sulfate ($1,200\text{ mg}$):** Sulfated glycosaminoglycan that engages articular chondrocyte CD44 receptors to suppress MMP-13 and aggrecanase while forming aggrecan proteoglycan bristles.
 
-#### 2. Pillbox-to-Smoothie Consolidations (Optional Tablet Reductions)
-* **Trimethylglycine / TMG ($1.5\text{ g}$ anhydrous betaine powder):** Currently occupies 2 large tablets in Slot 4. Moving TMG into the smoothie cuts two big pills, dissolves completely, and pairs directly with Creatine to clear S-adenosylhomocysteine (SAH) via BHMT.
-* **L-Citrulline ($4.0\text{ g}$):** Specified in the Module 10 patch to supply upstream arginine/NO substrate for endothelial eNOS alongside Microdose Tadalafil. It is naturally tart (malate or free-form) and blends seamlessly into the lemon-blueberry base (or into the pre-workout drink on non-sauna days).
+#### 2. Pillbox-to-Smoothie Consolidations (Tablet Reductions & Cost Optimization)
+* **Trimethylglycine / TMG ($1.5\text{ g}$ anhydrous betaine powder):** Moving TMG into the smoothie cuts 2 large tablets from bedtime, dissolves completely with clean taste, and pairs directly with Creatine to clear S-adenosylhomocysteine (SAH) via BHMT.
+* **Calcium Alpha-Ketoglutarate / Ca-AKG ($1,000\text{ mg}$ powder):** Can be added to the smoothie or morning water, eliminating 2 large tablets from Slot 1 while cutting supplement cost by >60%.
+* **L-Carnosine ($500\text{ mg}$ powder):** Pure water-soluble powder; can be blended into the smoothie to eliminate 1 capsule from Slot 2.
+* **L-Citrulline ($3.0\text{--}4.0\text{ g}$ powder):** Naturally tart, dissolves instantly in the lemon-blueberry smoothie; eliminates swallowing 4–5 giant 750mg capsules while fueling eNOS.
 
 #### 3. Thermally & Kinetically Isolated Daily Powders (Keep Out of the Cold Smoothie)
 * **Pre-Workout Savory Tendon Broth (Module 37):** **Hydrolyzed Bovine/Marine Collagen Peptides ($15\text{ g}$)** + **High-Molecular-Weight Hyaluronic Acid ($200\text{--}500\text{ mg}$)** + **Unrefined Mineral Salt ($1/4\text{--}1/2\text{ tsp}$)**. Keep these in $65\text{--}75^\circ\text{C}$ savory broth $30\text{--}60\text{ minutes}$ pre-training rather than the cold smoothie; HMW-HA gels into viscous clumps in cold ice blends, and isolating collagen pre-workout ensures a sharp plasma hydroxyproline/proline spike timed to mechanical tendon loading.
 * **Nocturnal Mugcake Dry Pre-Mix (Module 37):** **Hydrolyzed Collagen Peptides ($15\text{--}20\text{ g}$)** + **Micellar Casein ($10\text{--}15\text{ g}$)** + **Coconut Flour or Oat Fiber ($7\text{--}10\text{ g}$)** + **Raw Organic Cacao ($5\text{ g}$)** + **Allulose ($1\text{--}2\text{ tsp}$)** + **Ceylon Cinnamon ($1/2\text{ tsp}$)** + **Baking Powder ($1/4\text{ tsp}$)**.
+* **Nocturnal Alkalinizing Sleep Cocktail (Recipe 5):** **Pure Sodium Bicarbonate ($2.0\text{--}2.5\text{ g}$)** + **Myo-Inositol Powder ($2.0\text{--}3.0\text{ g}$)** in warm water.
 
 #### 4. Infradian / Quarterly Bulk Powders (Pulsed Only)
 * **Quarterly Turnbuckle Fusion Primer (Module 03, Day 1):** **Stearic Acid ($\text{C18:0}$) or Glycerol Monostearate ($5\text{--}10\text{ g}$)** + **Sunflower Lecithin ($2\text{--}4\text{ g}$)** (requires hot liquid emulsification above $60^\circ\text{C}$ for micellar absorption).
@@ -469,10 +479,10 @@ The smoothie is engineered as a **strictly fat-free, dairy-free, low-protein car
 | **Liquid Base** | $10\text{--}12\text{ oz}$ ($300\text{--}350\text{ mL}$) Cold RO Water or Unsweetened Coconut Water | Low-viscosity aqueous solvent; coconut water supplies potassium to support $\text{Na}^+/\text{Cl}^-$-coupled $\text{SLC6A6}$ taurine uptake. |
 | **Acidifier** | Juice of $1/2$ Fresh Lemon ($\sim 15\text{ mL}$) | Drops pH to $<4.0$, stabilizing the flavylium cation form of Cyanidin-3-Glucoside (C3G) against neutral-pH degradation in the stomach and protonating NAC/Creatine for clean dissolution. |
 | **Whole-Fruit Matrix** | $1.25\text{--}1.5\text{ cups}$ ($\sim 180\text{--}210\text{ g}$) Frozen Organic Wild Blueberries + $3\text{--}4$ Ice Cubes | Supplies endogenous pterostilbene and anthocyanins while providing pectin suspension for insoluble greens and mushroom beta-glucans. |
-| **Dry Scoop (Pre-Balled in Mason Jars)** | • **Glycine:** $7.5\text{ g}$<br>• **Creatine Monohydrate:** $5.0\text{ g}$<br>• **Super-Greens Blend:** $5.0\text{ g}$<br>• **Amla Powder:** $2.5\text{ g}$<br>• **Taurine:** $1.5\text{ g}$<br>• **TMG (Betaine):** $1.5\text{ g}$ *(pillbox consolidation)*<br>• **Chondroitin Sulfate:** $1.2\text{ g}$ *(if retained)*<br>• **Pure NAC:** $1.0\text{ g}$<br>• ***Agaricus blazei* Extract:** $1.0\text{ g}$<br>• **C3G Extract:** $300\text{--}330\text{ mg}$ active | **Total Dry Payload: $\sim 25.5\text{ g}$ per serving**.<br><br>*Flavor Balance:* The $7.5\text{ g}$ of pure glycine provides clean sucrose-like sweetness that completely neutralizes the sulfurous bite of $1.0\text{ g}$ NAC, the sour astringency of Amla, and the earthiness of *Agaricus blazei* and greens. |
+| **Dry Scoop (Pre-Batched in Mason Jars)** | • **Glycine:** $7.5\text{ g}$<br>• **Creatine Monohydrate:** $5.0\text{ g}$<br>• **Super-Greens Blend:** $5.0\text{ g}$<br>• **Amla Powder:** $2.5\text{ g}$<br>• **Taurine:** $1.5\text{ g}$<br>• **TMG (Betaine):** $1.5\text{ g}$ *(pillbox consolidation)*<br>• **Chondroitin Sulfate:** $1.2\text{ g}$<br>• **Pure NAC:** $1.0\text{ g}$<br>• ***Agaricus blazei* Extract:** $1.0\text{ g}$<br>• **C3G Extract:** $300\text{--}330\text{ mg}$ active | **Total Dry Payload: $\sim 25.5\text{ g}$ per serving**.<br><br>*Flavor Balance:* The $7.5\text{ g}$ of pure glycine provides clean sucrose-like sweetness that completely neutralizes the sulfurous bite of $1.0\text{ g}$ NAC, the sour astringency of Amla, and the earthiness of *Agaricus blazei* and greens. |
 
 **Batch-Prep & Blending Execution:**
-1. **Sunday Dry-Jar Batching:** Line up 7 small 4-oz glass mason jars and tare on a precision scale; scoop the 10 dry powders into each jar once a week so daily prep takes $<90\text{ seconds}$.
+1. **Sunday Dry-Jar Batching:** Line up 7 small 4-oz glass mason jars and tare on a precision scale; scoop the dry powders into each jar once a week so daily prep takes $<90\text{ seconds}$.
 2. **Order of Addition (Prevents Blade Caking):** Pour the $10\text{--}12\text{ oz}$ cold water and lemon juice into the blender *first*, dump the dry powder jar directly onto the liquid surface, and place the frozen wild blueberries and ice on top.
 3. **Shear Time:** Blend on high for $45\text{--}60\text{ seconds}$ and consume immediately before NAC oxidizes in aqueous solution.
 
@@ -480,63 +490,83 @@ The smoothie is engineered as a **strictly fat-free, dairy-free, low-protein car
 
 ### III. Circadian Timing: Solving the 4-Hour Hormetic ROS Collision
 
-The Kenaley Protocol enforces a strict biophysical rule: **zero exogenous antioxidants (NAC, Vitamin C, Amla, Astaxanthin, or high-dose polyphenols) within 4 hours before or after Sprinting (Module 38), Finnish Sauna (Module 28), or HBOT (Module 29)**, because endogenous superoxide/$\text{H}_2\text{O}_2$ transients are required to oxidize Keap1 and stabilize $\text{Nrf2}/\text{HIF-1}\alpha$.
-
-Because this smoothie delivers a massive reducing payload (**$1.0\text{ g}$ NAC + $2.5\text{ g}$ Amla + $330\text{ mg}$ C3G + Wild Blueberries**), placing it at `16:00` between a `12:00` workout and a `17:30` sauna—or at `10:30 AM` before a `12:00` sprint session—violates the 4-hour hormetic buffer.
+The Kenaley Protocol enforces a strict biophysical rule: **zero exogenous antioxidants (NAC, Vitamin C, Amla, Astaxanthin, or high-dose polyphenols) within 4 hours before or after Sprinting (Module 38), Thermal Hormesis / Sauna / HWI (Module 28), or HBOT (Module 29)**, because endogenous superoxide/$\text{H}_2\text{O}_2$ transients are required to oxidize Keap1 and stabilize $\text{Nrf2}/\text{HIF-1}\alpha$.
 
 Use one of these two collision-free timing tracks depending on your daily training/sauna block:
 
-#### Track A: Midday Training + Immediate Post-Workout Sauna (`12:00–14:00` Hormetic Block)
+#### Track A: Midday Training + Immediate Post-Workout Thermal Hormesis (`12:00–14:00` Hormetic Block)
 * **06:30–11:30:** Fasted deep work + Slot 1 AM pills.
-* **11:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + HMW-HA + Zinc Carnosine). *(Hold the Vitamin C or keep to a low $250\text{ mg}$ physiological cofactor dose so you don't blunt workout ROS).*
-* **12:00–14:00:** BMT Sprints / Lifting (`Module 38`) $\to$ immediate transition into $85\text{--}90^\circ\text{C}$ Finnish Sauna (`Module 28`, primed at `12:15` with $100\text{ mg}$ Selbex).
+* **11:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + $200\text{--}500\text{ mg}$ HMW-HA + Zinc Carnosine). *(Hold high-dose Vitamin C or keep to $\le 250\text{ mg}$ so workout ROS is unhindered).*
+* **12:00–14:00:** BMT Sprints / Lifting (`Module 38`) $\to$ immediate transition into Thermal Hormesis (`Module 28`: $80\text{--}90^\circ\text{C}$ Finnish Sauna for 20–25 min, $55\text{--}65^\circ\text{C}$ Far-Infrared Sauna for 30–45 min, or $40\text{--}42^\circ\text{C}$ Hot Water Immersion for 20–30 min; primed at `12:15` with $100\text{ mg}$ Selbex).
 * **14:15 (Meal 1):** Post-workout lean protein + RS3 resistant starch + Acarbose + Slot 2 non-antioxidant lipids (Bempedoic acid/Ezetimibe, K2/D3, Krill/Omega-3).
-* **18:15–18:45 (THE SMOOTHIE WINDOW — $>4\text{ Hours}$ Post-Sauna):** Consume the **Master Blueberry Powder Smoothie** 15 minutes before or alongside a lighter Dinner (Meal 2).
-* *Why this window is optimal:* Your 4-hour post-workout/post-sauna Nrf2/HSP70 signaling cascade is 100% complete. Taking the smoothie at `18:15` floods the liver with GlyNAC, Taurine, and C3G right as you transition into the evening restorative phase, while the **C3G ($330\text{ mg}$)** simultaneously acts as your Stage 2 brush-border SGLT1/GLUT2 blocker for any carbohydrates in Meal 2.
+* **18:15–18:45 (THE SMOOTHIE WINDOW — $>4\text{ Hours}$ Post-Thermal):** Consume the **Master Blueberry Powder Smoothie** 15 minutes before or alongside Dinner (Meal 2).
+* *Why this window is optimal:* Your 4-hour post-workout/post-thermal Nrf2/HSP70 signaling cascade is 100% complete. Taking the smoothie at `18:15` floods the liver with GlyNAC, Taurine, and C3G right as you transition into the evening restorative phase, while **C3G ($330\text{ mg}$)** simultaneously acts as your Stage 2 brush-border SGLT1/GLUT2 blocker for any carbohydrates in Meal 2.
+* **20:45–21:15:** Evening Collagen Mugcake (Recipe 2).
+* **21:30–22:00:** Nocturnal Alkalinizing Sleep Cocktail (Recipe 5: $\text{NaHCO}_3$ + Myo-Inositol) + Slot 3 Bedtime stack (DLPC, L-Theanine, Apigenin, Garlic, Chebulic/Rosmarinic, Melatonin, Mg-Threonate, *S. salivarius* K12 lozenge; PEA excised).
+* **22:00:** Bedtime hardware (taVNS left tragus + 3M mouth tape).
 
-#### Track B: Late-Afternoon Training + Sauna (`16:30–18:30` Hormetic Block)
+#### Track B: Late-Afternoon Training + Thermal Hormesis (`16:30–18:30` Hormetic Block)
 * **06:30–10:00:** Fasted deep work + Slot 1 AM pills.
 * **10:30–11:00 (THE SMOOTHIE WINDOW — $>5.5\text{ Hours}$ Pre-Training):** Break the morning fast with the **Master Blueberry Powder Smoothie**.
 * *Why this window works:* Because the smoothie is strictly fat-free and fiber-dispersed, gastric emptying completes within $45\text{--}60\text{ minutes}$ and plasma free-thiol peaks from NAC clear well before your `16:30` sprint/sauna session ($\ge 5.5\text{ hours}$ separation).
 * **12:30 (Meal 1):** Main RS3 starch + lean protein meal + Slot 2 pills.
-* **15:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + HMW-HA) + Slot 3 ($100\text{ mg}$ Selbex).
-* **16:30–18:30:** BMT Sprints / Lifting $\to$ Finnish Sauna.
+* **15:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + $200\text{--}500\text{ mg}$ HMW-HA) + Training Pouch ($100\text{ mg}$ Selbex).
+* **16:30–18:30:** BMT Sprints / Lifting $\to$ Finnish Sauna, FIR Sauna, or Hot Water Immersion.
+* **19:15–20:00 (Meal 2):** Whole-food dinner.
+* **20:45–22:30:** Mugcake (20:45) $\to$ Recipe 5 Bicarbonate + Myo-Inositol & Slot 3 Bedtime pills (21:30) $\to$ Bedtime hardware & mouth tape (22:00).
 
 ---
 
-### IV. Deep Biochemical Mechanisms of the Smoothie Payload
+## 5. Recipe 5: Nocturnal Alkalinizing Sleep Cocktail (21:30 – 22:00)
 
-### Chondroitin Sulfate: Extracellular Matrix Integrity & Cartilage Homeostasis
-In this powder matrix, **Chondroitin Sulfate (1,200 mg)** is selected for articular joint matrix remodeling and cellular signaling.
-* **Re-evaluating Glucosamine:** Early biohacker dogmas strictly banned oral glucosamine out of concern for free amino sugar glycation and hexosamine flux. However, rigorous geroscience demonstrates that D-glucosamine actually extends mammalian lifespan: in landmark trials by Weimer et al. (*Nature Communications* 2014), glucosamine supplementation extended median lifespan in mice by ~10% via mitochondrial mitohormesis, transient glycolysis impairment, and robust AMPK activation, mimicking caloric restriction.
-* **The Chondroitin Advantage:** While glucosamine is biochemically rehabilitated, **Chondroitin Sulfate** remains the superior structural constituent for the daily blueberry matrix. As a fully polymerized sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$), it cannot undergo open-chain reducing sugar degradation. It binds up to 1,000 times its volume in water within the joint cavity, stimulates endogenous proteoglycan synthesis, engages CD44 receptors to inhibit catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses articular NF-$\kappa$B signaling to preserve cartilage thickness under high-impact athletic loading.
+### Clinical Rationale & Biochemical Mechanism
+As human kidneys age, their structural nephron density and capacity to generate bicarbonate via renal glutaminolysis decline. During nocturnal recumbency and slow-wave sleep, low-grade metabolic acidosis worsens, forcing the proximal renal tubules to upregulate compensatory **ammoniagenesis** ($\text{Glutamine} \to 2\text{ NH}_4^+ + 2\text{ HCO}_3^-$). High intratubular ammonium concentrations directly activate the alternative complement pathway (C3–C9), driving chronic tubulointerstitial inflammation, peritubular capillary loss, and progressive eGFR decline.
 
-### The Anabolic-Butyrogenic Cecal Starch Shunt (Modules 01 & 37)
-Strict ketogenic or low-carb diets impair explosive glycolytic Rate of Force Development (RFD) and thyroid conversion, while high-carb diets drive methylglyoxal (MGO) and glucosepane ECM crosslinks.
-* **The High-EV Starch Solution:** Combining high-pressure gelatinized, $4^\circ\text{C}$-retrograded **RS3 resistant starch** (crystalline $\alpha\text{-(1}\to\text{4)}$-D-glucan double helices) with first-bite **Acarbose (25–50 mg, Module 01)** and brush-border SGLT1/GLUT2 inhibition (**C3G 300–330 mg**) resolves this metabolic trade-off. 
-* Athletic glycogen repletion is supported while shunting $>60\%$ of the carbohydrate mass to the distal ileum and cecum, converting a potential postprandial glucose spike into a massive wave of Class I/II HDAC-inhibiting **butyrate** and endogenous L-cell GLP-1.
+Ingesting a targeted, low-dose alkalinizing buffer before bed completely suppresses this nocturnal ammoniagenesis drive, sparing renal parenchyma:
 
-### The Single GAG Optimization Mandate: Chondroitin vs. HMW-HA
-* Both Chondroitin Sulfate (in the daily blueberry smoothie) and High-Molecular-Weight Hyaluronic Acid (in the morning broth) are high-molecular-weight glycosaminoglycans acting primarily on **CD44** and synovial/disc hydration. Intact oral HMW-HA ($>1\text{ MDa}$) has $<5\text{--}10\%$ lymphatic uptake via M-cells, relying largely on cecal *Bacteroides* fermentation. 
-* When ingesting **30–35 g/day of hydrolyzed collagen + 5–10 g glycine + Liposomal Vitamin C** timed 45 minutes before mechanical tendon loading, running *both* Chondroitin and HMW-HA daily is redundant pharmacoeconomic drag.
-* **Rule:** Select **Chondroitin Sulfate (1,200 mg)** for articular joint cartilage and chondrocyte CD44 signaling, OR select **HMW-HA (200–500 mg)** for intervertebral spinal disc hydration and dermal turgor. Do not double-dose redundant GAGs.
+1. **Renal Tubulointerstitial Shielding:** $1/2\text{ tsp}$ (~$2.0\text{--}2.5\text{ g}$) of pure pharmaceutical-grade **Sodium Bicarbonate ($\text{NaHCO}_3$)** provides $\sim 24\text{--}30\text{ mEq}$ of base equivalents. This neutralizes the metabolic fixed-acid load generated by dietary animal protein and cellular catabolism, keeping urinary pH $\ge 6.5\text{--}7.0$ overnight and eliminating the trigger for renal complement-mediated interstitial fibrosis.
+2. **Zero Blood Pressure Hazard (The Chloride-Free Sodium Distinction):** Standard dietary table salt ($\text{NaCl}$) drives hypertension because the **chloride anion ($\text{Cl}^-$)** triggers renal vasoconstriction, sodium retention, and plasma volume expansion via the tubuloglomerular feedback mechanism. In contrast, extensive human nephrology and hypertension RCTs (e.g., Luft et al., *Hypertension* 1990; de Brito-Ashurst et al., *JASN* 2009) prove that **Sodium Bicarbonate does NOT increase systolic or diastolic blood pressure**, nor does it blunt the restorative nocturnal blood pressure dip.
+3. **Myo-Inositol Sleep Architecture & Second-Messenger Signaling:** Adding **$2.0\text{--}3.0\text{ g}$ Myo-Inositol** converts the nightcap into a potent neurochemical sleep accelerator. Inositol is the foundational precursor for the intracellular phosphatidylinositol ($4,5$)-bisphosphate ($\text{PIP}_2$) second-messenger system. In the brain, age-related depletion of cellular inositol desensitizes $5\text{-HT}_2$ serotonergic and $\text{GABA}_A$ receptor complexes. Exogenous inositol resensitizes central GABA-A and serotonin receptors, blunts nocturnal cortisol pulsatility, reduces sleep latency, and substantially prolongs deep, slow-wave (N3) non-REM sleep without residual daytime grogginess or GABA receptor down-regulation.
+
+### Ingredients & Exact Specs
+* **$1/2\text{ tsp}$ ($2.0\text{--}2.5\text{ g}$) Pure Sodium Bicarbonate USP** (food/pharmaceutical grade, e.g. Bob's Red Mill or Arm & Hammer USP).
+* **$2.0\text{--}3.0\text{ g}$ Pure Myo-Inositol Powder** (100% pure water-soluble crystalline powder).
+* **4–6 oz Warm Purified RO Water** ($40\text{--}50^\circ\text{C}$).
+
+### Instructions
+1. Measure 4–6 oz of warm purified water into a small glass.
+2. Stir in $1/2\text{ tsp}$ Sodium Bicarbonate and 1 scoop ($2.0\text{--}3.0\text{ g}$) Myo-Inositol.
+3. Swirl for 15 seconds until completely clear and dissolved (both powders dissolve instantly in warm water).
+4. Drink 30–45 minutes prior to sleep (21:30–22:00), immediately preceding the bedtime pillbox slot and mouth tape application.
+
+---
+
+## 6. Deep Biochemical Mechanisms: Dual-GAG Synergy, SIRT6 & Efferocytosis
+
+### The Dual-GAG Synergy: Chondroitin Sulfate + High-Molecular-Weight Hyaluronic Acid (HMW-HA)
+Earlier minimalist drafts suggested choosing either Chondroitin or HMW-HA to reduce supplement count. However, from a structural extracellular matrix (ECM) perspective, **combining both is highly synergistic because they occupy distinct anatomical compartments and structural roles:**
+
+* **The Proteoglycan "Bottle Brush" Architecture:** In healthy articular cartilage, **Hyaluronic Acid (HMW-HA)** forms the long, non-sulfated central filamentous backbone (up to thousands of disaccharide repeats). Along this backbone, core proteins bind via link protein, and radiating outward from these core proteins are hundreds of sulfated glycosaminoglycan chains—predominantly **Chondroitin Sulfate** ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$).
+  * **Hyaluronic Acid (Broth):** Forms the **central wire spine** of the brush. It concentrates heavily in the avascular **nucleus pulposus of intervertebral spinal discs** and synovial fluid, providing viscoelastic hydrodynamic cushioning and axial shock absorption.
+  * **Chondroitin Sulfate (Smoothie):** Forms the **dense bristles** of the brush. Its dense negative sulfate charges create electrostatic repulsion that draws in water molecules under mechanical compression, providing cartilage compressive resilience, while binding CD44 to downregulate catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase.
+* **Separation by Vehicle:** By placing **Chondroitin Sulfate ($1,200\text{ mg}$)** into the cold daytime blueberry smoothie and **HMW-HA ($200\text{--}500\text{ mg}$)** into the warm pre-workout savory broth, you avoid cold-liquid clumping while delivering comprehensive structural protection for both synovial joint cartilage and axial intervertebral discs.
 
 ### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
-The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
+The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation:
 * Cyanidin binds directly to an allosteric pocket on SIRT6, accelerating the catalytic deacetylation of histone **H3 lysine 9 (H3K9ac)** and **H3 lysine 56 (H3K56ac)**.
 * This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
-* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
-* **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, suppressing postprandial glucose surges, blunting glucosepane crosslinking, and shunting carbohydrates downstream.
+* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ).
+* **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, blunting postprandial glucose surges and glucosepane crosslinking.
 
 ### GlyNAC & Efferocytosis Engine: Neutrophil NET Cleavage & Macrophage LXRα Activation
 Beyond sirtuin and anti-glycation mechanisms, the daily smoothie delivers the core components of the **Hepatic TRM Resolution and Efferocytosis Stack ([Module 42](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/42_Stem_Cell_Niche_Expansion_Protocol_of_Record.md#L141)):**
-* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**, protecting hepatocytes from ICAM-1 stress.
+* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**.
 * **Macrophage LXRα Activation (Cyanidin-3-Glucoside / C3G):** Acts as a direct natural ligand for LXRα in hepatic Kupffer cells, driving cholesterol efflux pumps (ABCA1/ABCG1) and upregulating MerTK "eat-me" efferocytic receptors to clear senescent CXCR4hi neutrophils without inducing SREBP-1c hepatic steatosis.
 * **Taurine Neutrophil HOCl Scavenging (1.5 g Taurine in smoothie + 1.5 g split elsewhere):** Scavenges tissue-destroying hypochlorous acid (HOCl) released by neutrophil myeloperoxidase (MPO), forming anti-inflammatory taurine chloramine (TauCl) and stabilizing mitochondrial tRNA translation.
 
 ---
 
-## 5. Recipe 4: High-Pressure Retrograded Resistant Starch (RS3) Protocol
+## 7. Recipe 4: High-Pressure Retrograded Resistant Starch (RS3) Protocol
 
 ### Food Chemistry: Amylose Gelatinization & Double-Helix Crystallization
 Ordinary cooked potatoes, rice, and tubers consist of rapidly digestible starch (RDS) that hydrolyzes into glucose in the upper jejunum within 15–20 minutes, driving acute postprandial glycemic spikes. 
@@ -561,6 +591,24 @@ Ordinary cooked potatoes, rice, and tubers consist of rapidly digestible starch 
 5. **The Acarbose Shunt Execution:**
    * Take **25–50 mg Acarbose (Module 01)** with the very first forkful of the starch meal.
    * The combination of crystalline RS3 and brush-border enzyme blockade ensures that $>60\text{--}75\%$ of the total carbohydrate payload passes into the colon intact, driving massive butyrate synthesis and triggering endogenous L-cell GLP-1 secretion.
+
+---
+
+## 8. Pill-to-Powder Cost Optimization Matrix: Converting Encapsulated Pills to Bulk Kitchen Powders
+
+A common friction point in long-term longevity protocols is capsule fatigue and high recurring monthly costs for encapsulated compounds that are naturally water-soluble powders. By purchasing pure bulk powders and incorporating them into the kitchen routines (smoothie, broth, or bedtime drink), you can eliminate **8 to 14 pills per day** and slash monthly costs by **$80–$120/month**:
+
+| Compound | Encapsulated Pill Format | Bulk Kitchen Powder Format | Daily Dose | Monthly Cost (Pills) | Monthly Cost (Bulk Powder) | Monthly Savings & Pill Burden Reduction | Where to Incorporate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Trimethylglycine (TMG / Betaine)** | 2 large tablets (750 mg ea) | 100% Pure USP Betaine Anhydrous Powder | $1.5\text{ g}$ | ~$22.00 | ~$1.20 ($16 / 1 kg tub) | **Saves $20.80/mo**; cuts 2 large pills/day | Daily Blueberry Smoothie (neutral sweet taste) |
+| **Calcium Alpha-Ketoglutarate (Ca-AKG)** | 2 large tablets (500 mg ea) | Pure Ca-AKG Powder | $1,000\text{ mg}$ | ~$48.00 | ~$7.50 ($25 / 100 g) | **Saves $40.50/mo**; cuts 2 large pills/day | Morning water or Daily Smoothie |
+| **L-Carnosine** | 1–2 capsules (500 mg ea) | 100% Pure L-Carnosine Powder | $500\text{ mg}$ | ~$32.00 | ~$4.00 ($25 / 100 g) | **Saves $28.00/mo**; cuts 1–2 pills/day | Daily Blueberry Smoothie (neutral taste) |
+| **L-Citrulline** | 4–5 giant capsules (750 mg ea) | 100% Pure L-Citrulline Powder | $3.0\text{--}4.0\text{ g}$ | ~$26.00 | ~$3.50 ($22 / 500 g) | **Saves $22.50/mo**; cuts 4–5 huge horse pills | Daily Blueberry Smoothie (naturally tart; matches lemon) |
+| **Myo-Inositol** | 4–6 capsules (500 mg ea) | 100% Pure Myo-Inositol Powder | $2.0\text{--}3.0\text{ g}$ | ~$28.00 | ~$2.80 ($18 / 500 g) | **Saves $25.20/mo**; cuts 4–6 capsules | Recipe 5 Nocturnal Sleep Cocktail in warm water |
+| **Glycine & Taurine** | 8–12 capsules | Bulk USP Powders | $7.5\text{ g Gly} / 1.5\text{ g Tau}$ | ~$45.00 | ~$3.00 ($20 / 1 kg tubs) | **Saves $42.00/mo**; already in smoothie | Daily Blueberry Smoothie |
+
+> **💡 Net Economic & Adherence Impact:**
+> Converting these 5 encapsulated supplements into their bulk powder counterparts eliminates **13 to 21 pills swallowed per day** and generates **~$135 to $155 in direct monthly savings**, while ensuring higher daily bioavailability and easier dosing adjustments.
 
 
 ---
@@ -2732,56 +2780,83 @@ Lethal hypertensive interaction: 1,3-DMHA must NEVER be co-administered with Sel
 ---
 
 ## MODULE 28: 28 Finnish Thermal Sauna HSP70
-# Finnish Thermal Sauna: Heat Shock Factor-1 & Cardiovascular Hemodynamics
+# Thermal Hormesis & Proteostasis: Finnish Sauna, Far-Infrared (FIR), and Hot Water Immersion (HWI)
 
 **Pillar:** Biophysical Hardware & Protein Chaperoning  
 **Conviction Tier:** CORE BET  
-**Evidence Grade:** E3 (Kuopio KIHD Cohort) / E2 (Hemodynamic Biomarkers)  
+**Evidence Grade:** E3 (Kuopio KIHD Cohort) / E2 (Hemodynamic Biomarkers) / E1 (Human Hyperthermia RCTs)  
 **Stance:** Consensus-Supported (Exceptional epidemiological and mechanistic alignment)  
-**Estimated Monthly Cost:** $40 -- $60 / month (amortized)  
+**Estimated Monthly Cost:** $40 -- $60 / month (amortized home FIR or Finnish sauna)  
 **Primary Target Hallmark:** Loss of Proteostasis & Mitochondrial Dysfunction  
 
 ---
 
-## 1. Biophysical & Biochemical Mechanism
-Whole-body thermal hyperthermia (>=175-190 deg F) triggers the dissociation of HSF1 from HSP90, driving transcription of Heat Shock Proteins (HSP70/90) that refold denatured proteins. Induces arterial shear stress, plasma volume expansion, and left ventricular compliance.
+## 1. Biophysical & Biochemical Mechanism: Core Hyperthermia & HSF1 Activation
+
+Biological aging is characterized by the accumulation of misfolded, aggregated, and crosslinked proteins that overwhelm baseline chaperone capacity. The heat shock response is an evolutionarily ancient proteostatic rescue system governed by **Heat Shock Factor 1 (HSF1)**:
+
+* **The Biophysical Threshold:** Under basal physiological conditions ($37.0^\circ\text{C}$), monomeric HSF1 is sequestered in an inactive state by binding to chaperone complexes containing **HSP90**, **HSP70**, and **HDAC6**. When whole-body thermal exposure drives core body (rectal) temperature up by **$\Delta T_{core} \ge +1.0\text{--}1.5^\circ\text{C}$ (reaching $\sim 38.2\text{--}38.5^\circ\text{C}$)**, accumulating heat-denatured cellular proteins competitively displace HSP90 and HSP70 from HSF1.
+* **HSF1 Phosphorylation & Nuclear Translocation:** Released HSF1 undergoes rapid homotrimerization, nuclear translocation, and hyperphosphorylation at Ser326. Trimeric HSF1 binds with high affinity to conserved **Heat Shock Elements (HSEs)** in the promoter regions of target genes, driving explosive multi-fold transcription of inducible molecular chaperones, including **HSP70 (HSPA1A)**, **HSP90**, and small heat shock proteins (**HSP27 / HSPB1**).
+* **Proteomic Rescue & Autophagy:** Induced HSP70 refolds partially denatured proteins, prevents cytotoxic amyloidogenic aggregation, and directs irreparably damaged proteins to chaperone-mediated autophagy (CMA) and ubiquitin-proteasome degradation.
+* **Vascular Shear Stress & Hemodynamics:** Whole-body hyperthermia increases cardiac output by $60\text{--}70\%$ and heart rate to $120\text{--}150\text{ bpm}$ (mimicking moderate aerobic exercise) while inducing cutaneous vasodilation. The resulting laminar shear stress across the endothelial lumen phosphorylates endothelial nitric oxide synthase (**eNOS at Ser1177**), dramatically increasing vascular nitric oxide (NO) bioavailability, arterial compliance, and microvascular perfusion.
 
 ---
 
-## 2. The Empirical Evidence Base
-Laukkanen et al. (JAMA Intern Med 2015): 2,315 Finnish men followed over 20.7 years; 4-7 sessions weekly conferred a 50% reduction in fatal cardiovascular disease and 40% reduction in all-cause mortality compared to 1x/week.
+## 2. Comparative Modality Engineering: Finnish, Far-Infrared (FIR) & Hot Water Immersion (HWI)
+
+While traditional Finnish dry sauna is the epidemiological gold standard in Scandinavian cohorts, home longevity practitioners can trigger equivalent HSF1 proteostasis and cardiovascular adaptation through **Far-Infrared (FIR)** or **Hot Water Immersion (HWI)**:
+
+| Parameter | Traditional Finnish Dry Sauna | Far-Infrared (FIR) Sauna | Hot Water Immersion (HWI) |
+| :--- | :--- | :--- | :--- |
+| **Primary Physics** | Convective & radiant ambient air heat | Radiant photon absorption ($3\text{--}12\ \mu\text{m}$) | Direct conductive liquid heat transfer |
+| **Operating Temp** | $80\text{--}90^\circ\text{C}$ ($176\text{--}194^\circ\text{F}$) | $55\text{--}65^\circ\text{C}$ ($130\text{--}150^\circ\text{F}$) | $40\text{--}42^\circ\text{C}$ ($104\text{--}108^\circ\text{F}$) |
+| **Session Duration** | 20–25 minutes | 30–45 minutes | 20–30 minutes (immersed to clavicle) |
+| **Relative Humidity**| 10–20% (dry air) | Ambient room humidity | 100% (liquid boundary) |
+| **Mechanism of Core Heat** | Massive ambient thermal gradient driving heat inward; partially offset by sweat evaporation | Infrared photons penetrate $3\text{--}4\text{ cm}$ into dermis/subcutis, directly exciting tissue water dipoles | Liquid water thermal conductivity is $\approx 23\times$ higher than air; evaporative cooling is 100% blocked |
+| **HSF1 / HSP70 Induction** | $2.0\text{--}3.0\times$ baseline PBMC HSP70 | Equivalent $2.0\text{--}2.8\times$ baseline HSP70 (due to longer duration & deep tissue heating) | Equivalent $2.5\text{--}3.2\times$ baseline HSP70 (rapid core temp rise due to zero evaporative loss) |
+| **Cardiovascular Strain** | Moderate-High (HR 120–150 bpm) | Low-Moderate (HR 100–125 bpm; gentler on airways) | Moderate (HR 105–130 bpm; hydrostatic pressure increases venous return & stroke volume) |
+| **Home Accessibility** | Requires high-voltage 240V dedicated dry sauna cabin | Readily accessible (110V/120V low-EMF FIR cabin, panel, or blanket) | **Universal** (standard residential bathtub filled to $40\text{--}42^\circ\text{C}$) |
 
 ---
 
-## 3. Honest Bayesian Probability & Expected Value
+## 3. The Empirical Evidence Base
+
+* **Laukkanen et al. (Kuopio Ischaemic Heart Disease Risk Factor Study / KIHD, *JAMA Intern Med* 2015):** 2,315 Finnish men followed prospectively over 20.7 years. Men utilizing sauna 4–7 sessions per week exhibited a **50% reduction in fatal cardiovascular disease** (HR 0.50, 95% CI 0.31–0.80) and a **40% reduction in all-cause mortality** (HR 0.60, 95% CI 0.46–0.79) compared to 1 session per week, with profound dose-dependent neuroprotection against Alzheimer's disease and vascular dementia.
+* **Far-Infrared Clinical Evidence (Waon Therapy):** Japanese multicenter trials using Far-Infrared thermal therapy ($60^\circ\text{C}$ for 15 min followed by warm blanket rest) demonstrated significant improvements in NYHA functional class, flow-mediated dilation (FMD), ventricular remodeling, and circulating BNP in chronic heart failure patients (Miyata et al., *J Am Coll Cardiol* 2008).
+* **Hot Water Immersion Evidence:** Landmark trials by Faulkner et al. (*Extrem Physiol Med* 2017) and Thomas et al. (*J Appl Physiol* 2016) demonstrated that 30 minutes of hot water immersion at $40^\circ\text{C}$ increased resting energy expenditure by 80%, induced marked acute elevations in circulating extracellular HSP72, and blunted postprandial glucose peaks to an extent comparable to moderate cycling exercise.
+
+---
+
+## 4. Honest Bayesian Probability & Expected Value
 * **P(Real Human Healthspan Extension):** **85%**
-* **Expected Value Justification:** The intervention targets a fundamental rate-limiting step in biological aging. The asymmetric upside significantly outweighs operational friction and monetary expense.
+* **Expected Value Justification:** Thermal hormesis simultaneously clears misfolded intracellular proteins via chaperone-mediated proteostasis and drives microvascular endothelial shear stress. The asymmetric healthspan upside vastly outweighs operational friction.
 
 ---
 
-## 4. Physiological Failure Modes & Drug-Drug Interactions
-Dehydration and electrolyte depletion; replace with isotonic salted water immediately post-session. Safe in stable individuals.
+## 5. Precise Operational Protocol Across Modalities
+
+Execute thermal hormesis **4 to 5 sessions per week**, timed either immediately post-workout (Track A) or late afternoon (Track B):
+
+1. **Finnish Sauna Option:** 20–25 minutes at $80\text{--}90^\circ\text{C}$ ($176\text{--}194^\circ\text{F}$).
+2. **Far-Infrared (FIR) Sauna Option:** 30–45 minutes at $55\text{--}65^\circ\text{C}$ ($130\text{--}150^\circ\text{F}$). Ensure low-EMF carbon/ceramic heaters.
+3. **Hot Water Immersion (HWI) Bath Option:** 20–30 minutes in a hot tub or bathtub filled to $40\text{--}42^\circ\text{C}$ ($104\text{--}108^\circ\text{F}$) with water level reaching the upper chest/neck. (Verify water temperature with an inexpensive digital cooking or bath thermometer).
+4. **Post-Exposure Cooling:** 2–3 minute lukewarm to cool shower; avoid jarring whole-body ice plunges immediately after sauna if the primary goal of the session is maximal sustained HSP70 chaperoning and hypertrophy signaling.
+5. **Rehydration:** 16–24 oz RO water with 1/4–1/2 tsp unrefined mineral salt (1,000 mg Na) + potassium bicarbonate.
 
 ---
 
-## 5. Precise Operational Protocol
-20 to 25 minutes at 175-190 deg F (80-88 deg C) 4 to 5 times per week, followed by a cool shower.
+## 6. Physiological Failure Modes, Drug Interactions & Guardrails
+
+* **⛔ Zero Dietary Inorganic Nitrate Pre-Sauna:** Inorganic Dietary Nitrate (`34`) must NEVER be taken within 4 hours prior to thermal exposure. Combining enterosalivary nitrite-to-NO conversion with **Microdose Tadalafil (`10`)** and massive cutaneous thermal vasodilation triggers dangerous arterial blood pressure collapse and heat syncope. Reserve nitrate exclusively for non-thermal sprint sessions.
+* **⛔ Strictly Zero Antioxidants (4-Hour Window):** Do NOT consume high-dose Vitamin C, NAC, Amla, Astaxanthin, or high-dose polyphenols within **4 hours before or after** any thermal hormesis session. Thermal stress generates an obligate burst of mitochondrial reactive oxygen species (ROS) that oxidizes Keap1, stabilizing **Nrf2** for endogenous antioxidant defense. Exogenous free radical scavengers extinguish this adaptive trigger.
+* **⛔ Fasting Hypotension:** During extended fasting or Longo FMD cycles (`39`), pause all thermal sauna and hot tub sessions or limit to gentle 10-minute lukewarm sessions, as depleted glycogen and circulating volume amplify orthostatic dizziness.
 
 ---
 
-## 6. Objective Surveillance & Kill Criteria
-* **Biomarkers to Monitor:** Severe orthostatic dizziness, cardiac arrhythmias, or inability to tolerate thermal load.
-* **Kill Rule:** If biomarkers cross negative thresholds or objective efficacy is absent after the designated evaluation window, terminate or down-titrate the bet immediately.
+## 7. v5.0 Kinetic & Stoichiometric Optimization Patch
 
----
-
-## 7. Epistemic Frontier Questions (For Advanced AI Interrogation)
-> What is the exact half-life of newly synthesized HSP70 chaperones in human peripheral blood mononuclear cells post-sauna exposure?
-
-
----
-## v5.0 Kinetic & Stoichiometric Optimization Patch
-* **Teprenone Thermal Pre-Loading:** Administer **100 mg Selbex (Teprenone, `27`) 60 minutes prior to entering the sauna ($85\text{–}95^\circ\text{C}$, 25 min)** to lower the thermal activation threshold of **HSF1**, amplifying HSP70/HSP90 chaperone induction. Suspend sauna for **96 hours prior to DunedinPACE blood draws** to avoid acute heat-shock leukocytosis.
+* **Chemical HSF1 Sensitization with Teprenone (Selbex):** Administer **100 mg Selbex (Teprenone / Geranylgeranylacetone, Module 27) 60 minutes prior** to entering Finnish Sauna, Far-Infrared Sauna, or Hot Water Immersion. Teprenone binds to the C-terminal domain of HSP70, causing a conformational change that lowers the thermal activation threshold of **HSF1**, driving up to **$3\times\text{ greater HSP70/HSP90}$ transcriptional induction** at equivalent core temperatures.
+* **Epigenetic Assay Washout:** Suspend all sauna and hot water immersion for **96 hours prior to DunedinPACE or Horvath epigenetic blood draws** to avoid confounding acute thermal leukocytosis and transient DNA repair shifts.
 
 
 ---
@@ -3285,15 +3360,16 @@ To preserve low arterial Pulse Wave Velocity (PWV), glomerular basement membrane
 ---
 
 ## MODULE 37: 37 Longevity Nutrition Recipes and Powders
-# Module 37: Longevity Culinary Engine — Restorative Broth, Collagen Mugcake, Powder Smoothie & RS3 Starch
+# Module 37: Longevity Culinary Engine — Restorative Broth, Collagen Mugcake, Powder Smoothie, RS3 Starch & Nocturnal Alkalinizing Cocktail
 
 ## 1. The Nutritional Longevity Philosophy: Precision Fueling & Substrate Shunting
 The Version 5.0 architecture decouples nutritional delivery into targeted biochemical vehicles. Rather than haphazardly mixing compounds or consuming unpalatable raw powders in water, the protocol integrates specific functional food matrices designed to maximize pharmacokinetics, prevent metabolic interference (e.g., the Randle cycle), and achieve high daily adherence:
 
-1. **The Connective Tissue & Tendon Loading Window:** Hydrolyzed collagen paired with liposomal vitamin C in a warm broth matrix to optimize prolyl and lysyl hydroxylase activity prior to mechanical loading.
+1. **The Connective Tissue & Tendon Loading Window:** Hydrolyzed collagen paired with liposomal vitamin C and high-molecular-weight hyaluronic acid in a warm broth matrix to optimize prolyl and lysyl hydroxylase activity prior to mechanical loading.
 2. **The Nocturnal Proteostasis & Satiety Vehicle:** A rapid 60-second collagen/casein microwave mugcake delivering continuous nighttime glycine and amino acids for tissue remodeling without glycemic disruption.
-3. **The "One Smoothie Per Day" Powder Delivery Vehicle:** A strictly carbohydrate-only, fat-free wild blueberry base engineered to transport high-dose bioactive powders (chondroitin, amla, taurine, glycine, greens, *Agaricus blazei*, creatine) with rapid gastric transit and zero fatty acid competition.
+3. **The "One Smoothie Per Day" Powder Delivery Vehicle:** A strictly carbohydrate-only, fat-free wild blueberry base engineered to transport high-dose bioactive powders (chondroitin, amla, taurine, glycine, greens, *Agaricus blazei*, creatine, C3G, TMG) with rapid gastric transit and zero fatty acid competition.
 4. **The High-Pressure RS3 Retrogradation Starch Shunt:** High-pressure gelatinization followed by cold recrystallization, transforming digestible carbohydrates into non-digestible butyrogenic fuel for colonic commensals.
+5. **The Nocturnal Acid-Base & Slow-Wave Sleep Vehicle:** A rapid warm sodium bicarbonate + myo-inositol aqueous cocktail to buffer renal ammoniagenesis, prevent nocturnal metabolic acidosis, and deepen N3 restorative slow-wave sleep.
 
 ---
 
@@ -3306,7 +3382,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 
 ### Ingredients & Preparation
 * **15 g Hydrolyzed Collagen Peptides** (Type I & III, pasture-raised bovine or marine).
-* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA):** Soluble linear glycosaminoglycan that binds to aggrecan and CD44 in cartilage and intervertebral discs, stimulating endogenous synoviocyte HA synthesis and retaining axial disc hydration.
+* **200–500 mg High-Molecular-Weight Hyaluronic Acid (HMW-HA, $>1.5\text{ MDa}$):** Soluble linear glycosaminoglycan that acts as the central structural backbone of cartilage proteoglycans, concentrates in the synovial fluid and **nucleus pulposus of intervertebral discs**, and stimulates endogenous synoviocyte HA synthesis. Synergizes with Chondroitin Sulfate in the cold smoothie.
 * **12–16 oz Warm Broth Base:** 
   * High-quality commercial or homemade bone/cartilage stock, OR
   * 1–2 tsp concentrated savory base (e.g., *Better Than Bouillon* Organic Roasted Chicken or Beef base dissolved in hot RO water).
@@ -3318,7 +3394,7 @@ Crucially, **prolyl 4-hydroxylase** and **lysyl hydroxylase**—the two iron-dep
 ### Instructions
 1. Heat 12–16 oz of purified RO water to approximately $65\text{--}75^\circ\text{C}$ ($150\text{--}165^\circ\text{F}$).
 2. Dissolve the bouillon or bone broth concentrate thoroughly with a spoon or handheld milk frother.
-3. Whisk in the 15 g of hydrolyzed collagen powder until completely clear and dissolved (collagen peptides dissolve effortlessly in warm liquids without clumping or altering texture).
+3. Whisk in the 15 g of hydrolyzed collagen powder and HMW-HA until completely clear and dissolved (collagen peptides and HMW-HA dissolve effortlessly in warm liquids without clumping).
 4. Consume warm 30–60 minutes prior to training (Phase C) or as a grounding morning ritual (Phase A), taking the liposomal vitamin C concurrently.
 
 ---
@@ -3353,7 +3429,7 @@ Sleep architecture depends heavily on central core body cooling and inhibitory n
 
 ### I. Master Inventory of Non-Bedtime Bulk Powders
 
-Excluding your pre-bed bicarbonate/sleep cocktail, the bulk powders across the v5.0 architecture divide into four operational categories based on solubility, thermal requirements, and circadian kinetics:
+The bulk powders across the v5.0 architecture divide into four operational categories based on solubility, thermal requirements, and circadian kinetics:
 
 #### 1. The Core Daily Smoothie Payload (Water-Soluble / Carb-Matrix Compatible)
 * **Creatine Monohydrate ($5.0\text{ g}$):** Offloads endogenous guanidinoacetate N-methyltransferase (GAMT) synthesis to spare ~45% of systemic SAMe for hepatic PEMT phosphatidylcholine synthesis (Module 35).
@@ -3364,15 +3440,18 @@ Excluding your pre-bed bicarbonate/sleep cocktail, the bulk powders across the v
 * **Organic Amla Fruit Powder ($2.0\text{--}3.0\text{ g}$, target $2.5\text{ g}$):** Delivers emblicanin A/B polyphenols for systemic lipid peroxidation shielding and endothelial support.
 * **Organic *Agaricus blazei* Murill Extract ($500\text{--}1,000\text{ mg}$):** Provides $\beta\text{-1,3/1,6-D-glucans}$ for Dectin-1 innate immune surveillance.
 * **Super-Greens Powder ($5.0\text{--}10.0\text{ g}$ Spirulina / Chlorella / Barley Grass):** Supplies chlorophyllin, carotenoids, and trace phytonutrients.
-* **Chondroitin Sulfate ($1,200\text{ mg}$):** Sulfated glycosaminoglycan that engages articular CD44 receptors to suppress MMP-13 and aggrecanase. *(Note: Can be dropped if retaining $200\text{--}500\text{ mg}$ HMW-HA in the morning broth to avoid dual-GAG redundancy).*
+* **Chondroitin Sulfate ($1,200\text{ mg}$):** Sulfated glycosaminoglycan that engages articular chondrocyte CD44 receptors to suppress MMP-13 and aggrecanase while forming aggrecan proteoglycan bristles.
 
-#### 2. Pillbox-to-Smoothie Consolidations (Optional Tablet Reductions)
-* **Trimethylglycine / TMG ($1.5\text{ g}$ anhydrous betaine powder):** Currently occupies 2 large tablets in Slot 4. Moving TMG into the smoothie cuts two big pills, dissolves completely, and pairs directly with Creatine to clear S-adenosylhomocysteine (SAH) via BHMT.
-* **L-Citrulline ($4.0\text{ g}$):** Specified in the Module 10 patch to supply upstream arginine/NO substrate for endothelial eNOS alongside Microdose Tadalafil. It is naturally tart (malate or free-form) and blends seamlessly into the lemon-blueberry base (or into the pre-workout drink on non-sauna days).
+#### 2. Pillbox-to-Smoothie Consolidations (Tablet Reductions & Cost Optimization)
+* **Trimethylglycine / TMG ($1.5\text{ g}$ anhydrous betaine powder):** Moving TMG into the smoothie cuts 2 large tablets from bedtime, dissolves completely with clean taste, and pairs directly with Creatine to clear S-adenosylhomocysteine (SAH) via BHMT.
+* **Calcium Alpha-Ketoglutarate / Ca-AKG ($1,000\text{ mg}$ powder):** Can be added to the smoothie or morning water, eliminating 2 large tablets from Slot 1 while cutting supplement cost by >60%.
+* **L-Carnosine ($500\text{ mg}$ powder):** Pure water-soluble powder; can be blended into the smoothie to eliminate 1 capsule from Slot 2.
+* **L-Citrulline ($3.0\text{--}4.0\text{ g}$ powder):** Naturally tart, dissolves instantly in the lemon-blueberry smoothie; eliminates swallowing 4–5 giant 750mg capsules while fueling eNOS.
 
 #### 3. Thermally & Kinetically Isolated Daily Powders (Keep Out of the Cold Smoothie)
 * **Pre-Workout Savory Tendon Broth (Module 37):** **Hydrolyzed Bovine/Marine Collagen Peptides ($15\text{ g}$)** + **High-Molecular-Weight Hyaluronic Acid ($200\text{--}500\text{ mg}$)** + **Unrefined Mineral Salt ($1/4\text{--}1/2\text{ tsp}$)**. Keep these in $65\text{--}75^\circ\text{C}$ savory broth $30\text{--}60\text{ minutes}$ pre-training rather than the cold smoothie; HMW-HA gels into viscous clumps in cold ice blends, and isolating collagen pre-workout ensures a sharp plasma hydroxyproline/proline spike timed to mechanical tendon loading.
 * **Nocturnal Mugcake Dry Pre-Mix (Module 37):** **Hydrolyzed Collagen Peptides ($15\text{--}20\text{ g}$)** + **Micellar Casein ($10\text{--}15\text{ g}$)** + **Coconut Flour or Oat Fiber ($7\text{--}10\text{ g}$)** + **Raw Organic Cacao ($5\text{ g}$)** + **Allulose ($1\text{--}2\text{ tsp}$)** + **Ceylon Cinnamon ($1/2\text{ tsp}$)** + **Baking Powder ($1/4\text{ tsp}$)**.
+* **Nocturnal Alkalinizing Sleep Cocktail (Recipe 5):** **Pure Sodium Bicarbonate ($2.0\text{--}2.5\text{ g}$)** + **Myo-Inositol Powder ($2.0\text{--}3.0\text{ g}$)** in warm water.
 
 #### 4. Infradian / Quarterly Bulk Powders (Pulsed Only)
 * **Quarterly Turnbuckle Fusion Primer (Module 03, Day 1):** **Stearic Acid ($\text{C18:0}$) or Glycerol Monostearate ($5\text{--}10\text{ g}$)** + **Sunflower Lecithin ($2\text{--}4\text{ g}$)** (requires hot liquid emulsification above $60^\circ\text{C}$ for micellar absorption).
@@ -3390,10 +3469,10 @@ The smoothie is engineered as a **strictly fat-free, dairy-free, low-protein car
 | **Liquid Base** | $10\text{--}12\text{ oz}$ ($300\text{--}350\text{ mL}$) Cold RO Water or Unsweetened Coconut Water | Low-viscosity aqueous solvent; coconut water supplies potassium to support $\text{Na}^+/\text{Cl}^-$-coupled $\text{SLC6A6}$ taurine uptake. |
 | **Acidifier** | Juice of $1/2$ Fresh Lemon ($\sim 15\text{ mL}$) | Drops pH to $<4.0$, stabilizing the flavylium cation form of Cyanidin-3-Glucoside (C3G) against neutral-pH degradation in the stomach and protonating NAC/Creatine for clean dissolution. |
 | **Whole-Fruit Matrix** | $1.25\text{--}1.5\text{ cups}$ ($\sim 180\text{--}210\text{ g}$) Frozen Organic Wild Blueberries + $3\text{--}4$ Ice Cubes | Supplies endogenous pterostilbene and anthocyanins while providing pectin suspension for insoluble greens and mushroom beta-glucans. |
-| **Dry Scoop (Pre-Balled in Mason Jars)** | • **Glycine:** $7.5\text{ g}$<br>• **Creatine Monohydrate:** $5.0\text{ g}$<br>• **Super-Greens Blend:** $5.0\text{ g}$<br>• **Amla Powder:** $2.5\text{ g}$<br>• **Taurine:** $1.5\text{ g}$<br>• **TMG (Betaine):** $1.5\text{ g}$ *(pillbox consolidation)*<br>• **Chondroitin Sulfate:** $1.2\text{ g}$ *(if retained)*<br>• **Pure NAC:** $1.0\text{ g}$<br>• ***Agaricus blazei* Extract:** $1.0\text{ g}$<br>• **C3G Extract:** $300\text{--}330\text{ mg}$ active | **Total Dry Payload: $\sim 25.5\text{ g}$ per serving**.<br><br>*Flavor Balance:* The $7.5\text{ g}$ of pure glycine provides clean sucrose-like sweetness that completely neutralizes the sulfurous bite of $1.0\text{ g}$ NAC, the sour astringency of Amla, and the earthiness of *Agaricus blazei* and greens. |
+| **Dry Scoop (Pre-Batched in Mason Jars)** | • **Glycine:** $7.5\text{ g}$<br>• **Creatine Monohydrate:** $5.0\text{ g}$<br>• **Super-Greens Blend:** $5.0\text{ g}$<br>• **Amla Powder:** $2.5\text{ g}$<br>• **Taurine:** $1.5\text{ g}$<br>• **TMG (Betaine):** $1.5\text{ g}$ *(pillbox consolidation)*<br>• **Chondroitin Sulfate:** $1.2\text{ g}$<br>• **Pure NAC:** $1.0\text{ g}$<br>• ***Agaricus blazei* Extract:** $1.0\text{ g}$<br>• **C3G Extract:** $300\text{--}330\text{ mg}$ active | **Total Dry Payload: $\sim 25.5\text{ g}$ per serving**.<br><br>*Flavor Balance:* The $7.5\text{ g}$ of pure glycine provides clean sucrose-like sweetness that completely neutralizes the sulfurous bite of $1.0\text{ g}$ NAC, the sour astringency of Amla, and the earthiness of *Agaricus blazei* and greens. |
 
 **Batch-Prep & Blending Execution:**
-1. **Sunday Dry-Jar Batching:** Line up 7 small 4-oz glass mason jars and tare on a precision scale; scoop the 10 dry powders into each jar once a week so daily prep takes $<90\text{ seconds}$.
+1. **Sunday Dry-Jar Batching:** Line up 7 small 4-oz glass mason jars and tare on a precision scale; scoop the dry powders into each jar once a week so daily prep takes $<90\text{ seconds}$.
 2. **Order of Addition (Prevents Blade Caking):** Pour the $10\text{--}12\text{ oz}$ cold water and lemon juice into the blender *first*, dump the dry powder jar directly onto the liquid surface, and place the frozen wild blueberries and ice on top.
 3. **Shear Time:** Blend on high for $45\text{--}60\text{ seconds}$ and consume immediately before NAC oxidizes in aqueous solution.
 
@@ -3401,63 +3480,83 @@ The smoothie is engineered as a **strictly fat-free, dairy-free, low-protein car
 
 ### III. Circadian Timing: Solving the 4-Hour Hormetic ROS Collision
 
-The Kenaley Protocol enforces a strict biophysical rule: **zero exogenous antioxidants (NAC, Vitamin C, Amla, Astaxanthin, or high-dose polyphenols) within 4 hours before or after Sprinting (Module 38), Finnish Sauna (Module 28), or HBOT (Module 29)**, because endogenous superoxide/$\text{H}_2\text{O}_2$ transients are required to oxidize Keap1 and stabilize $\text{Nrf2}/\text{HIF-1}\alpha$.
-
-Because this smoothie delivers a massive reducing payload (**$1.0\text{ g}$ NAC + $2.5\text{ g}$ Amla + $330\text{ mg}$ C3G + Wild Blueberries**), placing it at `16:00` between a `12:00` workout and a `17:30` sauna—or at `10:30 AM` before a `12:00` sprint session—violates the 4-hour hormetic buffer.
+The Kenaley Protocol enforces a strict biophysical rule: **zero exogenous antioxidants (NAC, Vitamin C, Amla, Astaxanthin, or high-dose polyphenols) within 4 hours before or after Sprinting (Module 38), Thermal Hormesis / Sauna / HWI (Module 28), or HBOT (Module 29)**, because endogenous superoxide/$\text{H}_2\text{O}_2$ transients are required to oxidize Keap1 and stabilize $\text{Nrf2}/\text{HIF-1}\alpha$.
 
 Use one of these two collision-free timing tracks depending on your daily training/sauna block:
 
-#### Track A: Midday Training + Immediate Post-Workout Sauna (`12:00–14:00` Hormetic Block)
+#### Track A: Midday Training + Immediate Post-Workout Thermal Hormesis (`12:00–14:00` Hormetic Block)
 * **06:30–11:30:** Fasted deep work + Slot 1 AM pills.
-* **11:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + HMW-HA + Zinc Carnosine). *(Hold the Vitamin C or keep to a low $250\text{ mg}$ physiological cofactor dose so you don't blunt workout ROS).*
-* **12:00–14:00:** BMT Sprints / Lifting (`Module 38`) $\to$ immediate transition into $85\text{--}90^\circ\text{C}$ Finnish Sauna (`Module 28`, primed at `12:15` with $100\text{ mg}$ Selbex).
+* **11:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + $200\text{--}500\text{ mg}$ HMW-HA + Zinc Carnosine). *(Hold high-dose Vitamin C or keep to $\le 250\text{ mg}$ so workout ROS is unhindered).*
+* **12:00–14:00:** BMT Sprints / Lifting (`Module 38`) $\to$ immediate transition into Thermal Hormesis (`Module 28`: $80\text{--}90^\circ\text{C}$ Finnish Sauna for 20–25 min, $55\text{--}65^\circ\text{C}$ Far-Infrared Sauna for 30–45 min, or $40\text{--}42^\circ\text{C}$ Hot Water Immersion for 20–30 min; primed at `12:15` with $100\text{ mg}$ Selbex).
 * **14:15 (Meal 1):** Post-workout lean protein + RS3 resistant starch + Acarbose + Slot 2 non-antioxidant lipids (Bempedoic acid/Ezetimibe, K2/D3, Krill/Omega-3).
-* **18:15–18:45 (THE SMOOTHIE WINDOW — $>4\text{ Hours}$ Post-Sauna):** Consume the **Master Blueberry Powder Smoothie** 15 minutes before or alongside a lighter Dinner (Meal 2).
-* *Why this window is optimal:* Your 4-hour post-workout/post-sauna Nrf2/HSP70 signaling cascade is 100% complete. Taking the smoothie at `18:15` floods the liver with GlyNAC, Taurine, and C3G right as you transition into the evening restorative phase, while the **C3G ($330\text{ mg}$)** simultaneously acts as your Stage 2 brush-border SGLT1/GLUT2 blocker for any carbohydrates in Meal 2.
+* **18:15–18:45 (THE SMOOTHIE WINDOW — $>4\text{ Hours}$ Post-Thermal):** Consume the **Master Blueberry Powder Smoothie** 15 minutes before or alongside Dinner (Meal 2).
+* *Why this window is optimal:* Your 4-hour post-workout/post-thermal Nrf2/HSP70 signaling cascade is 100% complete. Taking the smoothie at `18:15` floods the liver with GlyNAC, Taurine, and C3G right as you transition into the evening restorative phase, while **C3G ($330\text{ mg}$)** simultaneously acts as your Stage 2 brush-border SGLT1/GLUT2 blocker for any carbohydrates in Meal 2.
+* **20:45–21:15:** Evening Collagen Mugcake (Recipe 2).
+* **21:30–22:00:** Nocturnal Alkalinizing Sleep Cocktail (Recipe 5: $\text{NaHCO}_3$ + Myo-Inositol) + Slot 3 Bedtime stack (DLPC, L-Theanine, Apigenin, Garlic, Chebulic/Rosmarinic, Melatonin, Mg-Threonate, *S. salivarius* K12 lozenge; PEA excised).
+* **22:00:** Bedtime hardware (taVNS left tragus + 3M mouth tape).
 
-#### Track B: Late-Afternoon Training + Sauna (`16:30–18:30` Hormetic Block)
+#### Track B: Late-Afternoon Training + Thermal Hormesis (`16:30–18:30` Hormetic Block)
 * **06:30–10:00:** Fasted deep work + Slot 1 AM pills.
 * **10:30–11:00 (THE SMOOTHIE WINDOW — $>5.5\text{ Hours}$ Pre-Training):** Break the morning fast with the **Master Blueberry Powder Smoothie**.
 * *Why this window works:* Because the smoothie is strictly fat-free and fiber-dispersed, gastric emptying completes within $45\text{--}60\text{ minutes}$ and plasma free-thiol peaks from NAC clear well before your `16:30` sprint/sauna session ($\ge 5.5\text{ hours}$ separation).
 * **12:30 (Meal 1):** Main RS3 starch + lean protein meal + Slot 2 pills.
-* **15:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + HMW-HA) + Slot 3 ($100\text{ mg}$ Selbex).
-* **16:30–18:30:** BMT Sprints / Lifting $\to$ Finnish Sauna.
+* **15:30:** Savory Pre-Workout Broth ($15\text{ g}$ Collagen + $200\text{--}500\text{ mg}$ HMW-HA) + Training Pouch ($100\text{ mg}$ Selbex).
+* **16:30–18:30:** BMT Sprints / Lifting $\to$ Finnish Sauna, FIR Sauna, or Hot Water Immersion.
+* **19:15–20:00 (Meal 2):** Whole-food dinner.
+* **20:45–22:30:** Mugcake (20:45) $\to$ Recipe 5 Bicarbonate + Myo-Inositol & Slot 3 Bedtime pills (21:30) $\to$ Bedtime hardware & mouth tape (22:00).
 
 ---
 
-### IV. Deep Biochemical Mechanisms of the Smoothie Payload
+## 5. Recipe 5: Nocturnal Alkalinizing Sleep Cocktail (21:30 – 22:00)
 
-### Chondroitin Sulfate: Extracellular Matrix Integrity & Cartilage Homeostasis
-In this powder matrix, **Chondroitin Sulfate (1,200 mg)** is selected for articular joint matrix remodeling and cellular signaling.
-* **Re-evaluating Glucosamine:** Early biohacker dogmas strictly banned oral glucosamine out of concern for free amino sugar glycation and hexosamine flux. However, rigorous geroscience demonstrates that D-glucosamine actually extends mammalian lifespan: in landmark trials by Weimer et al. (*Nature Communications* 2014), glucosamine supplementation extended median lifespan in mice by ~10% via mitochondrial mitohormesis, transient glycolysis impairment, and robust AMPK activation, mimicking caloric restriction.
-* **The Chondroitin Advantage:** While glucosamine is biochemically rehabilitated, **Chondroitin Sulfate** remains the superior structural constituent for the daily blueberry matrix. As a fully polymerized sulfated glycosaminoglycan ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$), it cannot undergo open-chain reducing sugar degradation. It binds up to 1,000 times its volume in water within the joint cavity, stimulates endogenous proteoglycan synthesis, engages CD44 receptors to inhibit catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase, and suppresses articular NF-$\kappa$B signaling to preserve cartilage thickness under high-impact athletic loading.
+### Clinical Rationale & Biochemical Mechanism
+As human kidneys age, their structural nephron density and capacity to generate bicarbonate via renal glutaminolysis decline. During nocturnal recumbency and slow-wave sleep, low-grade metabolic acidosis worsens, forcing the proximal renal tubules to upregulate compensatory **ammoniagenesis** ($\text{Glutamine} \to 2\text{ NH}_4^+ + 2\text{ HCO}_3^-$). High intratubular ammonium concentrations directly activate the alternative complement pathway (C3–C9), driving chronic tubulointerstitial inflammation, peritubular capillary loss, and progressive eGFR decline.
 
-### The Anabolic-Butyrogenic Cecal Starch Shunt (Modules 01 & 37)
-Strict ketogenic or low-carb diets impair explosive glycolytic Rate of Force Development (RFD) and thyroid conversion, while high-carb diets drive methylglyoxal (MGO) and glucosepane ECM crosslinks.
-* **The High-EV Starch Solution:** Combining high-pressure gelatinized, $4^\circ\text{C}$-retrograded **RS3 resistant starch** (crystalline $\alpha\text{-(1}\to\text{4)}$-D-glucan double helices) with first-bite **Acarbose (25–50 mg, Module 01)** and brush-border SGLT1/GLUT2 inhibition (**C3G 300–330 mg**) resolves this metabolic trade-off. 
-* Athletic glycogen repletion is supported while shunting $>60\%$ of the carbohydrate mass to the distal ileum and cecum, converting a potential postprandial glucose spike into a massive wave of Class I/II HDAC-inhibiting **butyrate** and endogenous L-cell GLP-1.
+Ingesting a targeted, low-dose alkalinizing buffer before bed completely suppresses this nocturnal ammoniagenesis drive, sparing renal parenchyma:
 
-### The Single GAG Optimization Mandate: Chondroitin vs. HMW-HA
-* Both Chondroitin Sulfate (in the daily blueberry smoothie) and High-Molecular-Weight Hyaluronic Acid (in the morning broth) are high-molecular-weight glycosaminoglycans acting primarily on **CD44** and synovial/disc hydration. Intact oral HMW-HA ($>1\text{ MDa}$) has $<5\text{--}10\%$ lymphatic uptake via M-cells, relying largely on cecal *Bacteroides* fermentation. 
-* When ingesting **30–35 g/day of hydrolyzed collagen + 5–10 g glycine + Liposomal Vitamin C** timed 45 minutes before mechanical tendon loading, running *both* Chondroitin and HMW-HA daily is redundant pharmacoeconomic drag.
-* **Rule:** Select **Chondroitin Sulfate (1,200 mg)** for articular joint cartilage and chondrocyte CD44 signaling, OR select **HMW-HA (200–500 mg)** for intervertebral spinal disc hydration and dermal turgor. Do not double-dose redundant GAGs.
+1. **Renal Tubulointerstitial Shielding:** $1/2\text{ tsp}$ (~$2.0\text{--}2.5\text{ g}$) of pure pharmaceutical-grade **Sodium Bicarbonate ($\text{NaHCO}_3$)** provides $\sim 24\text{--}30\text{ mEq}$ of base equivalents. This neutralizes the metabolic fixed-acid load generated by dietary animal protein and cellular catabolism, keeping urinary pH $\ge 6.5\text{--}7.0$ overnight and eliminating the trigger for renal complement-mediated interstitial fibrosis.
+2. **Zero Blood Pressure Hazard (The Chloride-Free Sodium Distinction):** Standard dietary table salt ($\text{NaCl}$) drives hypertension because the **chloride anion ($\text{Cl}^-$)** triggers renal vasoconstriction, sodium retention, and plasma volume expansion via the tubuloglomerular feedback mechanism. In contrast, extensive human nephrology and hypertension RCTs (e.g., Luft et al., *Hypertension* 1990; de Brito-Ashurst et al., *JASN* 2009) prove that **Sodium Bicarbonate does NOT increase systolic or diastolic blood pressure**, nor does it blunt the restorative nocturnal blood pressure dip.
+3. **Myo-Inositol Sleep Architecture & Second-Messenger Signaling:** Adding **$2.0\text{--}3.0\text{ g}$ Myo-Inositol** converts the nightcap into a potent neurochemical sleep accelerator. Inositol is the foundational precursor for the intracellular phosphatidylinositol ($4,5$)-bisphosphate ($\text{PIP}_2$) second-messenger system. In the brain, age-related depletion of cellular inositol desensitizes $5\text{-HT}_2$ serotonergic and $\text{GABA}_A$ receptor complexes. Exogenous inositol resensitizes central GABA-A and serotonin receptors, blunts nocturnal cortisol pulsatility, reduces sleep latency, and substantially prolongs deep, slow-wave (N3) non-REM sleep without residual daytime grogginess or GABA receptor down-regulation.
+
+### Ingredients & Exact Specs
+* **$1/2\text{ tsp}$ ($2.0\text{--}2.5\text{ g}$) Pure Sodium Bicarbonate USP** (food/pharmaceutical grade, e.g. Bob's Red Mill or Arm & Hammer USP).
+* **$2.0\text{--}3.0\text{ g}$ Pure Myo-Inositol Powder** (100% pure water-soluble crystalline powder).
+* **4–6 oz Warm Purified RO Water** ($40\text{--}50^\circ\text{C}$).
+
+### Instructions
+1. Measure 4–6 oz of warm purified water into a small glass.
+2. Stir in $1/2\text{ tsp}$ Sodium Bicarbonate and 1 scoop ($2.0\text{--}3.0\text{ g}$) Myo-Inositol.
+3. Swirl for 15 seconds until completely clear and dissolved (both powders dissolve instantly in warm water).
+4. Drink 30–45 minutes prior to sleep (21:30–22:00), immediately preceding the bedtime pillbox slot and mouth tape application.
+
+---
+
+## 6. Deep Biochemical Mechanisms: Dual-GAG Synergy, SIRT6 & Efferocytosis
+
+### The Dual-GAG Synergy: Chondroitin Sulfate + High-Molecular-Weight Hyaluronic Acid (HMW-HA)
+Earlier minimalist drafts suggested choosing either Chondroitin or HMW-HA to reduce supplement count. However, from a structural extracellular matrix (ECM) perspective, **combining both is highly synergistic because they occupy distinct anatomical compartments and structural roles:**
+
+* **The Proteoglycan "Bottle Brush" Architecture:** In healthy articular cartilage, **Hyaluronic Acid (HMW-HA)** forms the long, non-sulfated central filamentous backbone (up to thousands of disaccharide repeats). Along this backbone, core proteins bind via link protein, and radiating outward from these core proteins are hundreds of sulfated glycosaminoglycan chains—predominantly **Chondroitin Sulfate** ($[4\text{-}\beta\text{-D-glucuronosyl-1,4-}\beta\text{-N-acetyl-D-galactosamine-4-sulfate}]_n$).
+  * **Hyaluronic Acid (Broth):** Forms the **central wire spine** of the brush. It concentrates heavily in the avascular **nucleus pulposus of intervertebral spinal discs** and synovial fluid, providing viscoelastic hydrodynamic cushioning and axial shock absorption.
+  * **Chondroitin Sulfate (Smoothie):** Forms the **dense bristles** of the brush. Its dense negative sulfate charges create electrostatic repulsion that draws in water molecules under mechanical compression, providing cartilage compressive resilience, while binding CD44 to downregulate catabolic matrix metalloproteinase-13 (MMP-13) and aggrecanase.
+* **Separation by Vehicle:** By placing **Chondroitin Sulfate ($1,200\text{ mg}$)** into the cold daytime blueberry smoothie and **HMW-HA ($200\text{--}500\text{ mg}$)** into the warm pre-workout savory broth, you avoid cold-liquid clumping while delivering comprehensive structural protection for both synovial joint cartilage and axial intervertebral discs.
 
 ### Cyanidin: Targeted Sirtuin-6 (SIRT6) Allosteric Chromatin Activation
-The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation. SIRT6 is an NAD+-dependent deacylase and mono-ADP-ribosyltransferase localized to chromatin:
+The addition of **~300–330 mg of active Cyanidin** (via organic wild blueberries augmented with standardized black rice / *Oryza sativa* or elderberry extract) provides targeted **Sirtuin-6 (SIRT6)** allosteric stimulation:
 * Cyanidin binds directly to an allosteric pocket on SIRT6, accelerating the catalytic deacetylation of histone **H3 lysine 9 (H3K9ac)** and **H3 lysine 56 (H3K56ac)**.
 * This deacetylation condenses telomeric and pericentric heterochromatin, silencing dangerous **LINE-1 (L1) retrotransposons** that awaken during biological aging to trigger cGAS-STING innate autoimmune inflammation.
-* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ). Delivering this in the wild blueberry smoothie pairs naturally with the endogenous anthocyanin matrix for optimal mucosal uptake.
-* **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, suppressing postprandial glucose surges, blunting glucosepane crosslinking, and shunting carbohydrates downstream.
+* Concurrently, SIRT6 ribosylates and activates **PARP-1**, dramatically accelerating the repair of DNA double-strand breaks via non-homologous end joining (NHEJ).
+* **Dual Action in the Anti-Glycation Tier ([Module 01](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/01_Acarbose_Starch_Shunting.md)):** Beyond chromatin epigenetics, C3G operates at the intestinal brush border to competitively inhibit SGLT1 and GLUT2 transporters, blunting postprandial glucose surges and glucosepane crosslinking.
 
 ### GlyNAC & Efferocytosis Engine: Neutrophil NET Cleavage & Macrophage LXRα Activation
 Beyond sirtuin and anti-glycation mechanisms, the daily smoothie delivers the core components of the **Hepatic TRM Resolution and Efferocytosis Stack ([Module 42](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/42_Stem_Cell_Niche_Expansion_Protocol_of_Record.md#L141)):**
-* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**, protecting hepatocytes from ICAM-1 stress.
+* **The GlyNAC Engine (5–10 g Pure Glycine + 1 g NAC):** Replenishes intracellular hepatic glutathione (GSH) depleted by inflammaging, while providing reducing equivalents to chemically reduce and cleave the extracellular DNA-histone-disulfide scaffolds of **Neutrophil Extracellular Traps (NETs)**.
 * **Macrophage LXRα Activation (Cyanidin-3-Glucoside / C3G):** Acts as a direct natural ligand for LXRα in hepatic Kupffer cells, driving cholesterol efflux pumps (ABCA1/ABCG1) and upregulating MerTK "eat-me" efferocytic receptors to clear senescent CXCR4hi neutrophils without inducing SREBP-1c hepatic steatosis.
 * **Taurine Neutrophil HOCl Scavenging (1.5 g Taurine in smoothie + 1.5 g split elsewhere):** Scavenges tissue-destroying hypochlorous acid (HOCl) released by neutrophil myeloperoxidase (MPO), forming anti-inflammatory taurine chloramine (TauCl) and stabilizing mitochondrial tRNA translation.
 
 ---
 
-## 5. Recipe 4: High-Pressure Retrograded Resistant Starch (RS3) Protocol
+## 7. Recipe 4: High-Pressure Retrograded Resistant Starch (RS3) Protocol
 
 ### Food Chemistry: Amylose Gelatinization & Double-Helix Crystallization
 Ordinary cooked potatoes, rice, and tubers consist of rapidly digestible starch (RDS) that hydrolyzes into glucose in the upper jejunum within 15–20 minutes, driving acute postprandial glycemic spikes. 
@@ -3482,6 +3581,24 @@ Ordinary cooked potatoes, rice, and tubers consist of rapidly digestible starch 
 5. **The Acarbose Shunt Execution:**
    * Take **25–50 mg Acarbose (Module 01)** with the very first forkful of the starch meal.
    * The combination of crystalline RS3 and brush-border enzyme blockade ensures that $>60\text{--}75\%$ of the total carbohydrate payload passes into the colon intact, driving massive butyrate synthesis and triggering endogenous L-cell GLP-1 secretion.
+
+---
+
+## 8. Pill-to-Powder Cost Optimization Matrix: Converting Encapsulated Pills to Bulk Kitchen Powders
+
+A common friction point in long-term longevity protocols is capsule fatigue and high recurring monthly costs for encapsulated compounds that are naturally water-soluble powders. By purchasing pure bulk powders and incorporating them into the kitchen routines (smoothie, broth, or bedtime drink), you can eliminate **8 to 14 pills per day** and slash monthly costs by **$80–$120/month**:
+
+| Compound | Encapsulated Pill Format | Bulk Kitchen Powder Format | Daily Dose | Monthly Cost (Pills) | Monthly Cost (Bulk Powder) | Monthly Savings & Pill Burden Reduction | Where to Incorporate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Trimethylglycine (TMG / Betaine)** | 2 large tablets (750 mg ea) | 100% Pure USP Betaine Anhydrous Powder | $1.5\text{ g}$ | ~$22.00 | ~$1.20 ($16 / 1 kg tub) | **Saves $20.80/mo**; cuts 2 large pills/day | Daily Blueberry Smoothie (neutral sweet taste) |
+| **Calcium Alpha-Ketoglutarate (Ca-AKG)** | 2 large tablets (500 mg ea) | Pure Ca-AKG Powder | $1,000\text{ mg}$ | ~$48.00 | ~$7.50 ($25 / 100 g) | **Saves $40.50/mo**; cuts 2 large pills/day | Morning water or Daily Smoothie |
+| **L-Carnosine** | 1–2 capsules (500 mg ea) | 100% Pure L-Carnosine Powder | $500\text{ mg}$ | ~$32.00 | ~$4.00 ($25 / 100 g) | **Saves $28.00/mo**; cuts 1–2 pills/day | Daily Blueberry Smoothie (neutral taste) |
+| **L-Citrulline** | 4–5 giant capsules (750 mg ea) | 100% Pure L-Citrulline Powder | $3.0\text{--}4.0\text{ g}$ | ~$26.00 | ~$3.50 ($22 / 500 g) | **Saves $22.50/mo**; cuts 4–5 huge horse pills | Daily Blueberry Smoothie (naturally tart; matches lemon) |
+| **Myo-Inositol** | 4–6 capsules (500 mg ea) | 100% Pure Myo-Inositol Powder | $2.0\text{--}3.0\text{ g}$ | ~$28.00 | ~$2.80 ($18 / 500 g) | **Saves $25.20/mo**; cuts 4–6 capsules | Recipe 5 Nocturnal Sleep Cocktail in warm water |
+| **Glycine & Taurine** | 8–12 capsules | Bulk USP Powders | $7.5\text{ g Gly} / 1.5\text{ g Tau}$ | ~$45.00 | ~$3.00 ($20 / 1 kg tubs) | **Saves $42.00/mo**; already in smoothie | Daily Blueberry Smoothie |
+
+> **💡 Net Economic & Adherence Impact:**
+> Converting these 5 encapsulated supplements into their bulk powder counterparts eliminates **13 to 21 pills swallowed per day** and generates **~$135 to $155 in direct monthly savings**, while ensuring higher daily bioavailability and easier dosing adjustments.
 
 
 ---
@@ -4215,7 +4332,7 @@ High-throughput plasma proteomics in the paper demonstrated that aging suppresse
 When a Kupffer cell engulfs a senescent neutrophil, its intracellular cholesterol and lipid load doubles. That sterol influx activates $\text{LXR}\alpha/\beta$ (which heterodimerizes with $\text{RXR}$). Activated $\text{LXR/RXR}$ transcribes $\text{MerTK}$ (the primary efferocytic "eat-me" receptor that binds Annexin V/phosphatidylserine-exposed cells via Gas6/Protein S bridges) and $\text{ABCA1/ABCG1}$ (cholesterol efflux pumps). Synthetic $\text{LXR}$ agonists (like T0901317) failed clinically because they activate hepatic $\text{SREBP-1c}$, causing severe hypertriglyceridemia and hepatic steatosis. However, selective modulators bypass this:
 * **Phytosterols ($\beta$-Sitosterol, Stigmasterol, Campesterol) & Fucosterol:** Act as selective $\text{LXR}$ modulators (SLiMs). Fucosterol (derived from brown algae) and $\beta$-sitosterol activate $\text{LXR}\alpha/\beta$ and upregulate $\text{ABCA1}$ and $\text{MerTK}$ expression on macrophages without inducing hepatic $\text{SREBP-1c}$ lipogenesis.
 * **Cyanidin-3-O-glucoside (C3G) & Taurine:** $\text{C3G}$ acts as a direct natural ligand for $\text{LXR}\alpha$ in macrophages, driving cholesterol efflux and suppressing $\text{TNF-}\alpha/\text{IL-6}$ transcription. Taurine conjugates with bile acids and directly modulates hepatic $\text{LXR}\alpha$ without triggering de novo lipogenesis, while simultaneously scavenging the hypochlorous acid ($\text{HOCl}$) produced by neutrophil myeloperoxidase ($\text{MPO}$) (forming anti-inflammatory taurine chloramine).
-* **$\text{PPAR}\delta$ / $\text{PPAR}\gamma$ Co-Activation (Pioglitazone, Telmisartan, or Palmitoylethanolamide [PEA]):** In human macrophages, $\text{LXR/RXR}$ works in tandem with $\text{PPAR}\delta$ and $\text{PPAR}\gamma$ to sustain the post-engulfment transcriptional program. Telmisartan (an ARB with selective $\text{PPAR}\gamma/\delta$ agonist activity) or micronized $\text{PEA}$ upregulates $\text{MerTK}$ and stabilizes integrin cofactors on TRMs, preventing the post-engulfment paralysis described in aged WT mice.
+* **$\text{PPAR}\delta$ / $\text{PPAR}\gamma$ Co-Activation (Telmisartan, Pioglitazone, or optional PEA):** In human macrophages, $\text{LXR/RXR}$ works in tandem with $\text{PPAR}\delta$ and $\text{PPAR}\gamma$ to sustain the post-engulfment transcriptional program. Telmisartan (an ARB with selective $\text{PPAR}\gamma/\delta$ agonist activity) upregulates $\text{MerTK}$ and stabilizes integrin cofactors on TRMs. *(Note: Palmitoylethanolamide / PEA is officially excised from the daily stack in v5.0; its efferocytic support is heavily redundant with daily C3G, GlyNAC, and high-dose EPA/DHA, saving pill burden and cost without sacrificing efferocytic throughput).*
 * **Retinoids / Carotenoids (9-cis-Retinoic Acid Precursors / Astaxanthin):** Provide the endogenous ligand tone for the $\text{RXR}$ half of the $\text{LXR/RXR}$ heterodimer, necessary for permissive transcription of efferocytic machinery.
 
 ### D. Clearing CXCR4hi Senescent Neutrophils & Inhibiting MPO / NETosis
@@ -4237,7 +4354,7 @@ Because the study demonstrates that restoring the hepatic TRM–$\text{EP2}$ axi
 If translating this mechanistically into a cohesive stack while awaiting clinical-grade peripheral $\text{EP2}$ antagonists (like $\text{PF-04418948}$):
 1. **Dampen PGE2–EP2 Tone Without Blocking Resolution:** Pair High-Dose $\text{EPA/DHA}$ ($2\text{--}4\text{ g/day}$) + SPMs with natural $\text{mPGES-1}$ inhibitors (AKBA / Boswellia + Curcumin), avoiding chronic high-dose non-selective NSAIDs that halt efferocytosis.
 2. **Bypass the EP2–GYS1 Metabolic Blockade & Restore TRM Mitochondria:** Utilize Urolithin A (mitophagy/membrane potential) + Berberine or Metformin (AMPK-mediated $\text{GYS1}$ inhibition to restore macrophage glycolytic/OXPHOS flux) + Taurine.
-3. **Up-regulate LXR/RXR & Efferocytic Receptors (MerTK):** Incorporate C3G (Cyanidin-3-glucoside), Astaxanthin, and Palmitoylethanolamide (PEA) (or low-dose Telmisartan if clinically indicated for blood pressure) to maintain post-engulfment $\text{LXR/PPAR}$ transcriptional competence.
+3. **Up-regulate LXR/RXR & Efferocytic Receptors (MerTK):** Incorporate C3G (Cyanidin-3-glucoside) and Astaxanthin (or low-dose Telmisartan if clinically indicated for blood pressure) to maintain post-engulfment $\text{LXR/PPAR}$ transcriptional competence. (PEA is retired from the core stack as redundant with C3G + EPA/DHA).
 4. **Neutralize CXCR4hi Neutrophil Toxicity (MPO / NETs) & Portal Endotoxin:** Combine Luteolin + GlyNAC + Tributyrin to suppress $\text{MPO/NETosis}$ and seal the gut-liver axis.
 
 ---
