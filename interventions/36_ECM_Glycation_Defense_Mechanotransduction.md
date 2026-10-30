@@ -48,10 +48,10 @@ To preserve low arterial Pulse Wave Velocity (PWV), glomerular basement membrane
 ---
 
 ## 5. Precise Operational Protocol
-* **Phase 2 (Midday Meal 1) & Phase 3 (Evening Meal 2) Split Dosing:**
-  * **L-Carnosine:** 500 mg 2x/day (1,000 mg/day total).
-  * **Benfotiamine:** 150 mg 2x/day (300 mg/day total).
-  * **Pyridoxamine Dihydrochloride (or P-5-P):** 50 mg/day.
+* **Phase 2 (Midday Meal 1) & Phase 3 (Evening Meal 2) Dosing:**
+  * **L-Carnosine:** 500 mg 1–2x/day (MGO dicarbonyl trapping and sacrificial crosslink interception).
+  * **Mixed Vitamin E (Gamma-Tocopherol + Tocotrienols):** 1 softgel every other day (QOD) with Meal 1 for peroxynitrite trapping and cell membrane shielding.
+  * *(Optimization Note: Excess synthetic B1/Benfotiamine and B6/Pyridoxamine are excised from daily maintenance to eliminate risks of competitive transporter saturation, neuropathy, and micronutrient skew; dicarbonyl defense is sustained cleanly via Carnosine, C3G, and postprandial exercise).*
   * **Rosmarinic Acid:** 250 mg 2x/day (500 mg/day total).
   * **Standardized *Terminalia chebula* Extract (AyuFlex, $\ge 30\%$ chebulinic/chebulagic acids):** 500 mg/day.
 

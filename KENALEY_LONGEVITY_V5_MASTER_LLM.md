@@ -275,8 +275,8 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 | **`11`** | **Rhamnan Sulfate** | 100 mg | 1 capsule | Heparan sulfate endothelial glycocalyx scaffolding |
 | **`12`** | **Antarctic Krill Oil** | 1,000 mg | 1–2 softgels | MFSD2A BBB LPC-DHA delivery + Astaxanthin |
 | **`13`** | **Olive Leaf Extract (Oleuropein)** | 500 mg | 1 capsule | MCU channel activation & AMPK stimulation |
-| **`36`** | **Benfotiamine + Carnosine** | 150 mg / 500 mg | 1–2 capsules | Transketolase activation & MGO dicarbonyl trapping *(or Carnosine in powder)* |
-| **`36`** | **Pyridoxamine (or P-5-P)** | 50 mg | 1 capsule | Glucosepane intermediate trapping |
+| **`36`** | **L-Carnosine** | 500 mg | 1 capsule *(or in broth)* | MGO dicarbonyl trapping & anti-glycation (excess B1 & B6 excised to prevent neuropathic/metabolic accumulation) |
+| **`12`** | **Mixed Vitamin E (Gamma-Tocopherol + Tocotrienols)** | 1 softgel | 1 softgel **(Every Other Day / QOD)** | Scavenges peroxynitrite (RNS), protects cell membranes & downregulates inflammatory eicosanoids without alpha-tocopherol excess |
 | **`04`** | **L-Ergothioneine** | 25 mg | 1 capsule | OCTN1 mitochondrial radioprotection |
 
 *(Note on Aspirin: Daily Aspirin 81 mg is strictly EXCISED from Slot 2 due to fatal synergistic hemorrhage risk when paired with Module 41 TM5614 oral PAI-1 inhibition).*
@@ -291,7 +291,7 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 | **`35`** | **DLPC (Polyenylphosphatidylcholine)**| 1.2–2.4 g | 2–3 softgels | Tafazzin $\text{L}_4\text{CL}$ mature cardiolipin remodeling |
 | **`31`** | **L-Theanine** | 200 mg | 1 capsule *(or powder)*| Glutamate antagonism, GABA-A facilitation & slow-wave sleep |
 | **`34`** | ***Streptococcus salivarius* K12/M18**| 1 lozenge | Oral probiotic tab | **Dissolve slowly on tongue before sleep**; clears periodontal pathogens & preserves oral nitrate reduction |
-| **`23`** | **Apigenin** | 50 mg | 1 capsule | Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+) |
+| **`23`** | **Liposomal Apigenin** | 50 mg | 1 capsule | Positive allosteric GABA-A modulator & nocturnal CD38 inhibition (preserves sleep & NAD+) |
 | **`11`** | **Kyolic Aged Garlic (SAC)** | 600 mg | 1 capsule | Split dose for nocturnal vascular endothelial protection |
 | **`36`** | **Chebulic + Rosmarinic Acid** | 500 mg / 250 mg | 1–2 capsules | Cleaves established glucosepane collagen crosslinks |
 | **`42`** | **Melatonin (Nocturnal Microdose)** | 0.3–1.0 mg | 1 cap / drop | Direct MPO heme-pocket inhibition; blocks HOCl & NETs during sleep |
@@ -315,17 +315,16 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 │ • 10–12 oz Cold RO Water or Unsweetened Coconut Water (potassium / TauT)    │
 │ • Juice of 1/2 Fresh Lemon (~15 mL: drops pH <4.0, stabilizes C3G flavylium)│
 │                                                                             │
-│ DRY SCOOP (10 powders pre-batched in 4-oz Mason Jars — ~25.5g payload):     │
-│ • Pure Glycine: 7.5 g (Sucrose-like sweetness masks NAC & bitter extracts)  │
+│ DRY SCOOP (8 powders pre-batched in 4-oz Mason Jars — ~17.0g payload):      │
 │ • Creatine Monohydrate: 5.0 g (GAMT offloading -> 45% SAMe sparing for PEMT)│
 │ • Super-Greens Powder: 5.0 g (Spirulina / Chlorella / Barley Grass)         │
 │ • Organic Amla Powder: 2.5 g (Emblicanin lipid peroxidation shield)         │
 │ • Taurine Powder: 1.5 g (Dose 1/2: mt-tRNA wobble U34 & neutrophil HOCl)    │
 │ • TMG (Betaine Anhydrous): 1.5 g (Pillbox consolidation: clears SAH / BHMT) │
 │ • Chondroitin Sulfate: 1.2 g (Articular cartilage aggrecan bristles & CD44)│
-│ • Pure N-Acetylcysteine (NAC): 1.0 g (Glycine + NAC = GlyNAC NETs cleavage) │
 │ • Agaricus blazei Murill Extract: 1.0 g (Beta-1,3/1,6-glucan Dectin-1)      │
 │ • Cyanidin-3-Glucoside (C3G): 300–330 mg active (SIRT6 / LXRα / SGLT1-GLUT2) │
+│ • (Note: Glycine & NAC moved to Recipe 5 Bedtime Restorative Sleep Drink)   │
 │                                                                             │
 │ WHOLE FRUIT (Add on top to prevent blade caking):                           │
 │ • 1.25–1.5 cups Frozen Organic Wild Blueberries + 3–4 Ice Cubes             │
@@ -341,12 +340,15 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 │ 🧁 NOCTURNAL GLYCINE MUGCAKE (20:45)                                        │
 │ 15–20g Collagen + 10–15g Micellar Casein + 7–10g Coconut Flour + 5g Cacao   │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 🌙 RECIPE 5: NOCTURNAL ALKALINIZING SLEEP COCKTAIL (21:30 – 22:00)          │
-│ In 4–6 oz Warm Water:                                                       │
-│ • 1/2 tsp (~2.0–2.5 g) Pure Sodium Bicarbonate (NaHCO3 USP)                 │
-│ • 2.0–3.0 g Pure Myo-Inositol Powder                                        │
-│ *Buffers nocturnal renal ammoniagenesis & metabolic acidosis (chloride-free;│
-│  zero BP elevation); Myo-inositol IP3 signaling deepens slow-wave sleep.    │
+│ 🌙 RECIPE 5: NOCTURNAL GLYNAC & ALKALINIZING RESTORATIVE SLEEP DRINK        │
+│ In 6–8 oz Warm Water (21:30 – 22:00):                                       │
+│ • 5.0 g Pure Sodium Bicarbonate (NaHCO3 USP / ~1 level tsp)                 │
+│ • 5.0–7.5 g Pure Glycine Powder (SCN thermolytic core cooling & GSH peak)   │
+│ • 1.0 g Pure N-Acetylcysteine (NAC) Powder (Nocturnal GlyNAC GSH peak)      │
+│ • 2.0–3.0 g Pure Myo-Inositol Powder (Slow-wave sleep IP3 signaling)        │
+│ *Buffers nocturnal renal ammoniagenesis & acidosis (chloride-free; zero BP);│
+│  nocturnal GlyNAC restores hepatic glutathione and clears NETs overnight    │
+│  without quenching daytime exercise-induced ROS adaptations.                │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 🌙 BEDTIME HARDWARE & BIOPHYSICAL RITUAL (22:00)                            │
 │ 1. Auricular taVNS: 15 min on left tragus (25 Hz, 200 µs pulse width) (`31`) │

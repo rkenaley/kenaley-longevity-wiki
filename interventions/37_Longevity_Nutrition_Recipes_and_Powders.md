@@ -9,7 +9,7 @@ The Version 5.0 architecture decouples nutritional delivery into targeted bioche
 4. **The Moist-Heat Protein Batching Engine (Instant Pot):** Bulk preparation of lean local grass-fed beef and pastured chicken cooked under moist pressure to eliminate AGEs, Heterocyclic Amines (HCAs), and Polycyclic Aromatic Hydrocarbons (PAHs), with 100% jus retention.
 5. **The High-Pressure RS3 Retrogradation Starch Shunt (Rice, Lentils, Potatoes):** High-pressure gelatinization followed by a mandatory 24-hour cold recrystallization ($4^\circ\text{C}$), transforming digestible carbohydrates into non-digestible butyrogenic fuel for colonic commensals (*Faecalibacterium prausnitzii*).
 6. **Phytochemical Optimization & Enzyme Restoration (Lustgarten Biomarker Protocol):** High total fiber (60–100g+ daily), mushroom L-ergothioneine preservation (Protocol A Duxelles), sulforaphane restoration via brown mustard seed myrosinase (Protocol B), and low-oxalate high-density greens compression (Protocol C).
-7. **The Nocturnal Acid-Base & Slow-Wave Sleep Vehicle:** A rapid warm sodium bicarbonate + myo-inositol aqueous cocktail to buffer renal ammoniagenesis, prevent nocturnal metabolic acidosis, and deepen N3 restorative slow-wave sleep.
+7. **The Nocturnal Acid-Base & Slow-Wave Sleep Vehicle:** A rapid warm sodium bicarbonate (5g) + GlyNAC (Glycine + NAC) + myo-inositol aqueous cocktail to buffer renal ammoniagenesis, prevent nocturnal metabolic acidosis, and deepen N3 restorative slow-wave sleep.
 
 ---
 
@@ -116,6 +116,8 @@ Sleep architecture depends heavily on central core body cooling and inhibitory n
 The daily smoothie is a **non-negotiable morning or midday habit**. It serves two indispensable physiological roles:
 1. **The Primary Hydration Engine:** Delivers 16–20 oz of pure filtered RO water and electrolyte potassium to jumpstart cellular hydration and glomerular filtration.
 2. **The Nutraceutical Powder Carrier:** Bypasses "pill fatigue" by consolidating 10+ bioactive longevity powders into a single delicious vehicle that takes under 90 seconds to assemble.
+
+*(Optimization Note: Glycine and NAC are consolidated into Recipe 5 Nocturnal Restorative Drink, maximizing overnight glutathione synthesis and preventing any daytime blunting of exercise adaptations).*
 
 The matrix is **strictly fat-free and dairy-free**. Excluding dietary fats prevents Randle Cycle metabolic interference and delayed gastric emptying, while excluding dairy proteins prevents casein from binding and chelating blueberry anthocyanins and C3G in the intestinal lumen.
 
@@ -355,14 +357,16 @@ Ingesting a targeted, low-dose alkalinizing buffer before bed completely suppres
 3. **Myo-Inositol Sleep Architecture & Second-Messenger Signaling:** Adding **$2.0\text{--}3.0\text{ g}$ Myo-Inositol** converts the nightcap into a potent neurochemical sleep accelerator. Inositol is the foundational precursor for the intracellular phosphatidylinositol ($4,5$)-bisphosphate ($\text{PIP}_2$) second-messenger system. In the brain, age-related depletion of cellular inositol desensitizes $5\text{-HT}_2$ serotonergic and $\text{GABA}_A$ receptor complexes. Exogenous inositol resensitizes central GABA-A and serotonin receptors, blunts nocturnal cortisol pulsatility, reduces sleep latency, and substantially prolongs deep, slow-wave (N3) non-REM sleep without residual daytime grogginess or GABA receptor down-regulation.
 
 ### Ingredients & Exact Specs
-* **$1/2\text{ tsp}$ ($2.0\text{--}2.5\text{ g}$) Pure Sodium Bicarbonate USP** (food/pharmaceutical grade, e.g. Bob's Red Mill or Arm & Hammer USP).
-* **$2.0\text{--}3.0\text{ g}$ Pure Myo-Inositol Powder** (100% pure water-soluble crystalline powder).
-* **4–6 oz Warm Purified RO Water** ($40\text{--}50^\circ\text{C}$).
+* **5.0 g Pure Sodium Bicarbonate USP (~1 level tsp):** (Food/pharmaceutical grade, e.g. Bob's Red Mill or Arm & Hammer USP). Neutralizes nocturnal metabolic fixed acids and protects renal tubular architecture.
+* **5.0–7.5 g Pure Glycine Powder:** Lowers core body temperature via SCN thermolytic cutaneous vasodilation; critical precursor for nocturnal glutathione synthesis.
+* **1.0 g Pure N-Acetylcysteine (NAC) Powder:** Pairs with glycine to form the nocturnal GlyNAC engine, replenishing intracellular glutathione and cleaving NETs.
+* **2.0–3.0 g Pure Myo-Inositol Powder:** (100% pure water-soluble crystalline powder). Promotes restorative slow-wave sleep (N3) via phosphoinositide (IP3) second-messenger signaling.
+* **6–8 oz Warm Purified RO Water** ($40\text{--}50^\circ\text{C}$).
 
 ### Instructions
-1. Measure 4–6 oz of warm purified water into a small glass.
-2. Stir in $1/2\text{ tsp}$ Sodium Bicarbonate and 1 scoop ($2.0\text{--}3.0\text{ g}$) Myo-Inositol.
-3. Swirl for 15 seconds until completely clear and dissolved (both powders dissolve instantly in warm water).
+1. Measure 6–8 oz of warm purified water into a small glass.
+2. Stir in 5.0 g Sodium Bicarbonate, 5.0–7.5 g Glycine, 1.0 g NAC, and 2.0–3.0 g Myo-Inositol.
+3. Swirl for 15–20 seconds until completely clear and dissolved (powders dissolve cleanly in warm water).
 4. Drink 30–45 minutes prior to sleep (21:30–22:00), immediately preceding the bedtime pillbox slot and mouth tape application.
 
 ---
