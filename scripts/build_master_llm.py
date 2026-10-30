@@ -59,14 +59,14 @@ def main():
 > 6. **Athletic Performance Architecture: Zac Goodman BMT, Dynamic Tendon Recoil & CNS Sprinting (Module 38)**
 > 7. **Valter Longo 5-Day Fasting Mimicking Diet (FMD) & Autophagic Purge (Module 39)**
 > 8. **The Infradian Master Architecture: Monthly to Annual Pulsed Protocols (Module 40)**
-> 9. **The Complete 42-Module Interventions Ledger (Dosing, Pharmacokinetics, Biophysical Mechanisms, Cofactors, Failure Modes, Surveillance Biomarkers, Kill Criteria, Epistemic Frontier Questions)**
+> 9. **The Complete 43-Module Interventions Ledger (Dosing, Pharmacokinetics, Biophysical Mechanisms, Cofactors, Failure Modes, Surveillance Biomarkers, Kill Criteria, Epistemic Frontier Questions)**
 > 10. **The Epistemic Graveyard (Retired Interventions & Rationale)**
 > 11. **Comprehensive Drug-Drug Interaction & Kinetic Collision Safety Matrix**
 > 12. **Surveillance Biomarker Reference Ranges & Laboratory Testing Schedule**
 >
 > **HOW YOU MUST RESPOND WHEN QUERIED ON THIS PROTOCOL:**
 > - **Act as an elite Longevity Physician-Biophysicist** versed in molecular biology, pharmacology, endocrinology, and biomechanics.
-> - **Cross-reference user questions against the exact 42 modules, pillbox slots, and kinetic collision rules.**
+> - **Cross-reference user questions against the exact 43 modules, pillbox slots, and kinetic collision rules.**
 > - **Biomarker Analysis:** When the user provides their personal lab test results (ApoB, hsCRP, cystatin C, HbA1c, HOMA-IR, Total/Free Testosterone, Estradiol, LH, FSH, SHBG, IGF-1, etc.), compare them strictly against the quantified target reference ranges in this whitepaper. Identify out-of-range markers, highlight underlying biophysical drivers, and suggest specific titration adjustments or cofactors according to the protocol rules.
 > - **Personalized Recommendations:** Always respect the separation between daily maintenance and infradian pulses (e.g., never take senolytics or mitochondrial fission inducers continuously; maintain the strict separation between AMPK/autophagy windows and post-workout mTOR/hypertrophy windows; observe acarbose starch requirements).
 > - **Safety First:** If a proposed compound or dose risks drug-drug interactions (e.g., Tadalafil + Nitrates, Acarbose on zero-carb meals, Selegiline + high-dose Tyramine, high-dose unchelated minerals, or excessive aromatase inhibition), immediately flag the contraindication with clear biochemical explanations.
@@ -97,7 +97,7 @@ Every intervention is classified under an **Evidence Grade (E1 to E5)** and assi
    Aggressive lifetime ApoB reduction (<35 mg/dL), heparan sulfate endothelial glycocalyx shielding, continuous microdose cGMP/eNOS tone, vascular elastin decalcification (K2 MK-7), and enterosalivary nitrate engine activation.
 4. **Pillar IV: Cellular Senescence, Senolytics & Hematological Cleansing** (Modules 14, 15, 16, 41, 42)  
    Intermittent hit-and-run senolytic clearance of senescent cells (Mayo pulsed Fisetin), oral PAI-1 serpin inhibition for stem cell niche rejuvenation (TM5614), therapeutic donor plasmapheresis / neutral blood exchange (TPE) to dilute pro-aging systemic circulating factors, immediate albumin/electrolyte remineralization, and the 12-week Stem Cell Niche Purification and Mobilization Macro-Cycle (Module 42).
-5. **Pillar V: Endocrine Homeostasis, Anabolic Maintenance & Pulsatile Peptides** (Modules 17, 18, 19, 20, 21)  
+5. **Pillar V: Endocrine Homeostasis, Anabolic Maintenance & Pulsatile Peptides** (Modules 17, 18, 19, 20, 21, 43)  
    Preservation of youthful androgenic and growth hormone signaling without axis shutdown: pure trans-enclomiphene microdosing, suicidal aromatase titration (exemestane), nocturnal pulsatile GHRH/GHRP secretagogues (Ipamorelin/CJC-1295), SHBG displacement, and pineal bioregulation (Epitalon).
 6. **Pillar VI: Neuro-Endocrine Optimization, Nootropics & Neuroprotection** (Modules 22, 23, 24, 25, 26, 27)  
    Sub-microdose MAO-B inhibition for nigrostriatal dopamine preservation (Paul Kiesow selegiline), TET-mediated DNA demethylation (Calcium-AKG), PARP-1 DNA repair (AC-11), GSK-3beta inhibition (lithium orotate), cholinergic membrane fluidity (piracetam/CDP-choline), and neurotrophic apothecary support.
@@ -105,7 +105,7 @@ Every intervention is classified under an **Evidence Grade (E1 to E5)** and assi
    Finnish thermal hyperthermia (HSP70), protocolized HBOT hyperoxic-hypoxic stem cell triggers, systemic 660/850nm photobiomodulation, glymphatic sleep architecture (taVNS & mouth taping), dermatological retinoid/GHK-Cu remodeling, multi-barrier air/water purification, extracellular matrix crosslink defense, BMT dynamic athletic performance, 5-day FMD fasting cycles, and the overarching infradian pulse cadence.
 
 ## 1.3 The Compact 8-Tier Functional Taxonomy (Operational Clustering)
-To achieve maximal operational compactness and clear functional synergy, the 42 interventions are consolidated into eight high-yield operational engines:
+To achieve maximal operational compactness and clear functional synergy, the 43 interventions are consolidated into eight high-yield operational engines:
 
 1. **Tier 1: Postprandial Glycemic Shield & Anti-Glycation Engine** (Modules 01, 36, 37, 38)
    • Acarbose (25–50 mg) competitive brush-border α-glucosidase delay & cecal starch shunting
@@ -121,7 +121,8 @@ To achieve maximal operational compactness and clear functional synergy, the 42 
    • Calcium-AKG TET1–3 DNA demethylation, Cat's Claw AC-11 PARP/NER stimulation, SIRT6 H3K9/56 deacetylation, and Epitalon pineal telomerase induction.
 5. **Tier 5: Neuro-Dopaminergic & Cognitive Plasticity Vector** (Modules 12, 22, 25, 26, 27, 31)
    • Sub-microdose Selegiline MAO-B protection, Low-Dose Lithium GSK-3β/BDNF, Piracetam AMPA fluidity, Krill LPC-DHA MFSD2A transport, and glymphatic AQP4 clearance.
-6. **Tier 6: Endocrine Pulsing, Steroidogenesis & Anabolic Preservation Cluster** (Modules 17, 18, 19, 21, 38)
+6. **Tier 6: Endocrine Pulsing, Steroidogenesis & Anabolic Preservation Cluster** (Modules 17, 18, 19, 21, 38, 43)
+   • AC-262536 (10–20 mg morning pulse): Premier partial androgen receptor agonist (14:1 myotrophic:androgenic ratio; sterically perturbs Helix-12 AF-2 to evade canonical MSTN upregulation while preserving follistatin and YAP/TAZ mechanotransduction)
    • Pure trans-enclomiphene SERM, exemestane suicidal aromatase control, SHBG displacement, pulsatile GH secretagogues / travel OKG stack, and BMT dynamic tendon loading.
 7. **Tier 7: Systemic Cellular Cleansing, Senolysis & Proteome Dilution Suite (Infradian)** (Modules 07, 14, 15, 16, 39, 40, 41, 42)
    • TM5614 oral PAI-1 serpin inhibition, Mayo pulsed Fisetin senolysis, Spermidine autophagy, Valter Longo 5-day FMD, Pascoe donor plasmapheresis (TPE), albumin reconstitution, and 12-week Stem Cell Niche Purification and Mobilization Macro-Cycle (Module 42).
@@ -164,6 +165,13 @@ The original community Turnbuckle protocol was biochemically reckless. The v5.0 
 * Excising **D-Ribose** (which glycates proteins 50–100$\times$ faster than glucose) and phototoxic **$\text{C}_{60}$ fullerenes**.
 * **Sequencing Senolysis & PAI-1 Inhibition Before Mobilization:** Mobilizing $\text{CD34}^+$ progenitors with **Fucoidan** or G-CSF in an inflamed, senescent bone marrow niche preferentially expands pre-leukemic **CHIP** clones (*DNMT3A*, *TET2*, *ASXL1*) that thrive under NF-$\kappa$B signaling. Enforcing an NGS CHIP gatekeeper ($VAF < 2\%$) and running **Mayo Fisetin + PCC1 (Module 14)** and **TM5614 oral PAI-1 inhibition (Module 41)** *prior* to mobilization is the only safe way to execute endogenous stem cell expansion.
 
+
+---
+
+### 7. The Partial AR Agonism & Chronobiological Clearance Loophole (Module 43: AC-262536)
+Traditional anabolic regimens force a destructive binary: either accept total HPTA axis shutdown and supraphysiological pathology (exogenous TRT / full-agonist SARMs like RAD-140/LGD-4033) or accept sub-saturating natural muscular adaptations. Full AR agonists induce tight N/C-terminal AR dimerization, directly binding canonical Androgen Response Elements (AREs) on the *MSTN* promoter to trigger the body's homeostatic myostatin brake by weeks 6–8 while suppressing pituitary LH.
+* **Helix-12 (AF-2) Steric Perturbation:** AC-262’s rigid 8-azabicyclo[3.2.1]octane (tropane) core projects its stereospecific 3-*endo*-hydroxyl toward Asn705/Thr877 while its ethylene bridge exerts steric clash against the Helix-12 (AF-2) folding lid. This prevents complete N/C closure, blunting canonical ARE *MSTN* transactivation and prostate stimulation while fully preserving non-canonical **$\beta$-catenin $\to$ TCF4 Follistatin (*FST*)** transcription and PI3K/Akt-driven cytoplasmic sequestration of catabolic FOXO3a.
+* **Chronobiological 24-Hour Clearance Phase Separation:** Lacking metabolic-blocking halogens, AC-262 undergoes rapid Phase II *O*-glucuronidation ($t_{1/2} \approx 6\text{--}12\text{ hr}$). Dosing as a **morning/pre-workout pulse** concentrates peak free ligand ($C_{\max}$) during mechanical loading and Ser81 AR phosphorylation, followed by $75\text{--}87\%$ systemic clearance prior to the nocturnal GnRH/LH secretory window (02:00–08:00). Synergized with evening **Enclomiphene** and promoted **Geranylgeraniol (GG)**, it achieves maximum myotrophic retention with zero hypogonadal crash.
 
 ---
 
@@ -309,10 +317,10 @@ To remain 100% collision-free, execute one of the two standardized daily chronob
 ---
 """)
 
-    # 8. Section IX: The Complete 42-Module Interventions Ledger (Modules 01 - 42)
-    doc.append("""# SECTION IX: THE UNABRIDGED 42-MODULE INTERVENTIONS LEDGER
+    # 8. Section IX: The Complete 43-Module Interventions Ledger (Modules 01 - 42)
+    doc.append("""# SECTION IX: THE UNABRIDGED 43-MODULE INTERVENTIONS LEDGER
 
-This ledger contains the exhaustive biophysical, pharmacokinetic, clinical, and surveillance details for all 42 active protocol interventions.
+This ledger contains the exhaustive biophysical, pharmacokinetic, clinical, and surveillance details for all 43 active protocol interventions.
 
 """)
 
@@ -398,6 +406,9 @@ The Kenaley Protocol enforces the following immutable pharmacological safety rul
 | **Turnbuckle Fission Cycle (INT-03)** | Long-Term Uncycled Use | Chronic mitochondrial fragmentation, severe ATP depletion, impaired muscle recovery, cellular crisis. | Enforce strict 4-day quarterly pulse: 4 days of fission induction immediately followed by high-dose fusion and cardiolipin rebuilding (SS-31, DLPC, PQQ). |
 | **Exemestane (INT-18)** | Excessive Dosing without Lab Surveillance | Total estradiol crash (< 10 pg/mL), leading to accelerated arterial stiffness, loss of bone mineral density, joint pain, lipid dysregulation, and severe depressive symptoms. | Microdose only (6.25 mg twice weekly or as needed). Monitor serum ultrasensitive Estradiol quarterly; maintain target range 20 - 30 pg/mL. Discontinue immediately if E2 < 15 pg/mL. |
 | **Enclomiphene (INT-17)** | Long-term use without Hematocrit Monitoring | Secondary erythrocytosis / elevated hematocrit (> 52%), increasing blood viscosity and thrombotic risk. | Quarterly CBC surveillance. Titrate down or conduct therapeutic phlebotomy / plasmapheresis if hematocrit exceeds 52%. |
+| **AC-262536 (INT-43)** | Curcumin / Piperine (BioPerine) | UGT2B17/UGT2B7 & CYP3A4 clearance blockade. Curcuminoids and piperine potently inhibit Phase II glucuronidation, extending AC-262 half-life from ~8h to >16–20h, spilling ligand into the nocturnal GnRH/LH window and causing HPTA axis suppression. | **MANDATORY PRN DEMOTION & TEMPORAL ISOLATION.** Demote Curcumin to PRN recovery on non-training days only. When used, separate by $\ge 10\text{ hours}$ from AC-262 and avoid piperine-enhanced forms. |
+| **AC-262536 (INT-43)** | Supplemental Boron | Severe synergistic SHBG depletion. AC-262 first-pass hepatic AR activation lowers SHBG by 20–35%; combining with Boron crashes SHBG < 12–15 nmol/L, accelerating testosterone clearance and spiking peripheral aromatization. | **PAUSE BORON ON-CYCLE.** Discontinue supplemental Boron for the duration of the 8–12 week AC-262 cycle; resume on Day 4 post-cycle as SHBG rebounds. |
+| **AC-262536 (INT-43)** | Prophylactic Suicidal AI (Exemestane) | Severe dual estrogen deprivation crisis. AC-262 does not aromatize. Prophylactic Exemestane combined with Enclomiphene ER$\alpha$ blockade leaves the body devoid of both ligand and functional receptor activity, destroying eNOS, tendon collagen, HDL-C, and hepatic IGF-1. | **STRICTLY PRN RESERVE ONLY.** Do not dose prophylactically. Rely on Grape Seed Extract (>1g/d) for gentle peripheral aromatase buffering. Deploy Exemestane 6.25 mg ONLY if ultrasensitive LC-MS/MS confirms $E_2 > 55\text{--}60\text{ pg/mL}$ with clinical symptoms. |
 
 ---
 """)

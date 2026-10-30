@@ -925,6 +925,28 @@ window.PROTOCOL_DATA = [
     "Artifact Link": "interventions/42_Stem_Cell_Niche_Expansion_Protocol_of_Record.md"
   },
   {
+    "ID": "INT-43",
+    "Intervention": "AC-262536 (Premier Partial AR Agonist SARM)",
+    "Conviction Tier": "FRONTIER ANABOLIC / SELECTIVE AR MODULATION",
+    "Biological Pillar": "Endocrine Architecture & Anabolic Maintenance",
+    "Evidence Grade": "E2 (Preclinical Structural Biology) / E3 (Human Translational)",
+    "Evidence Rank": "3",
+    "P(Healthspan %)": "70%",
+    "Est. Monthly Cost ($/mo)": "$45 - $75 / month (on-cycle)",
+    "Est. Monthly Cost (Midpoint)": "60.0",
+    "Target Hallmark": "Loss of Proteostasis, Sarcopenia & Altered Intercellular Communication",
+    "Stance": "Premier SARM of Record (14:1 Myotrophic-to-Androgenic Ratio; Helix-12 AF-2 Loophole)",
+    "Operational Protocol": "10\u201320 mg morning/pre-workout pulse (60\u201390 min prior to training). Synchronized with Piracetam (1,600\u20132,400 mg) + Alpha-GPC (300\u2013600 mg). Midday Geranylgeraniol (150\u2013300 mg). Evening Enclomiphene (3.125\u20136.25 mg). Curcumin strictly PRN and >=10h separated. 8\u201312 week pulsed cycles.",
+    "Surveillance Biomarkers": "Fasted morning pre-pulse: Total/Free Testosterone (LC-MS/MS), Sensitive Estradiol (25\u201345 pg/mL), LH, FSH, SHBG (>15 nmol/L), ApoB, ApoA-I, HDL-C, ALT, AST, GGT, Cystatin-C.",
+    "Kill Criteria": "ALT/AST elevation > 3x ULN, persistent suppression of LH (< 1.0 IU/L) despite Enclomiphene, profound HDL-C collapse (< 25 mg/dL), or severe dyslipidemia refractory to Citrus Bergamot.",
+    "Biophysical Mechanism": "Partial androgen receptor (AR) agonist (Ki ~ 5.01 nM, Emax 66-70%). 8-azabicyclo[3.2.1]octane (tropane) core sterically clashes with Helix-12 (AF-2), preventing N/C-terminal dimerization. Blunts canonical ARE MSTN transactivation while preserving beta-catenin/TCF4 follistatin upregulation and PI3K/Akt-driven FOXO3a cytoplasmic sequestration.",
+    "Key Empirical Evidence": "Piu et al. (Chem Biol 2008): AC-262536 produced potent myotrophic stimulation (levator ani) with ~14:1 tissue selectivity over ventral prostate and marked sparing of LH suppression compared to full agonists.",
+    "Failure Modes & Hazards": "Co-administration with UGT2B17/UGT2B7 or CYP3A4 inhibitors (curcumin, piperine) extends half-life and collapses nocturnal GnRH window. Continued Boron supplementation crashing SHBG <12 nmol/L. Prophylactic suicidal AI (exemestane) causing profound joint/cardiovascular hypoestrogenism.",
+    "Epistemic Frontier Question": "Does the steric perturbation of Helix-12 by AC-262's tropane core decouple AR phosphorylation at Ser81 from canonical ARE transactivation while fully preserving non-genomic Ca2+/ERK1/2 and YAP/TAZ mechanotransductive synergy in human skeletal muscle?",
+    "Artifact File": "43_AC262_Selective_Androgen_Receptor_Modulator.md",
+    "Artifact Link": "interventions/43_AC262_Selective_Androgen_Receptor_Modulator.md"
+  },
+  {
     "ID": "RET-01",
     "Intervention": "Chronic Metformin (Resistance Lifters)",
     "Conviction Tier": "RETIRED / DEMOTED",

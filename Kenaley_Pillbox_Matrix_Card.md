@@ -129,6 +129,7 @@
 
 | Cadence | Intervention | Protocol & Dosage | Pillbox / Daily Adjustment |
 | :--- | :--- | :--- | :--- |
+| **On-Cycle (8–12 Wk)** | **AC-262 Partial AR SARM Pulse (`43`)** | **10–20 mg AM Pre-Workout** + Piracetam (1.6–2.4g) + Alpha-GPC (300–600mg); Midday Promoted GG (150–300mg); Evening Enclomiphene (3.125–6.25mg) | AM Pre-Workout Pouch. Zero Curcumin/Piperine within 8h. **PAUSE Boron on-cycle; reduce DHEA to 10–15 mg.** Strictly reserve Exemestane for PRN only ($E_2 > 55\text{--}60\text{ pg/mL}$). Monitor LH, SHBG (>15 nmol/L), Lipids, Cystatin-C. |
 | **Training / Sauna Days (4–5x/wk)** | **Pre-Hormesis Thermal & Athletic Pouch (`27` & `28`)** | **100 mg Selbex (Teprenone / GGA)** taken 60 min prior to thermal or high-intensity athletic session | Carry in mini-pouch. Primes HSF1 for **$3\times\text{ HSP70}$ induction**. Compatible with: (1) Finnish Sauna ($80\text{--}90^\circ\text{C}$, 20–25 min), (2) Far-Infrared (FIR) Sauna ($55\text{--}65^\circ\text{C}$, 30–45 min), or (3) Hot Water Immersion ($40\text{--}42^\circ\text{C}$, 20–30 min). **Zero inorganic nitrate pre-heat; zero antioxidants 4h before/after.** |
 | **Monthly** | **Mayo Pulsed Senolytics (`14`)** | Liposomal Fisetin ($20\text{--}25\text{ mg/kg}$) + Quercetin (1g) + PCC1 (500mg) $\times$ 2 days | Add to Meal 1 with 30mL EVOO. Maintain daily pillboxes. |
 | **Monthly** | **Deep Microneedling (`32`)** | 1.5mm scalp (hair stem cells) + 0.5–1.0mm face (collagen) with sterile HMW-HA | Pause topical Tretinoin for 48h post-needling. |
