@@ -72,7 +72,7 @@ The **v5.0 Infradian Master Architecture** decouples the protocol into hierarchi
 * **The Protocol:** Donating 800 mL of plasma removes circulating macromolecular systemic inhibitory factors: **Transforming Growth Factor-$\beta 1$ (TGF-$\beta 1$)**, **CCL11 (eotaxin-1)**, **$\beta_2$-microglobulin**, and circulating plasticizers (PFAS, BPA).
 * **Mandatory Post-Apheresis Reconstitution Protocol:**
   1. *Immediate Intravascular Volume & Oncotic Lock:* 30–40 g Native Whey Isolate + 10 g Free-Form Essential Amino Acids (EAAs) + 500 mL coconut water with 1/2 tsp mineral salt.
-  2. *Albumin Synthesis & Cys34 Thiol Restoration:* **GlyNAC** (3 g Glycine + 1.2 g N-Acetylcysteine) + 200 mg Silymarin (enhances nucleolar RNA polymerase I transcription of preproalbumin).
+  2. *Albumin Synthesis & Cys34 Thiol Restoration:* **GlyNAC** (3 g Glycine + 1.2–3.0 g N-Acetylcysteine) + **240–360 mg Siliphos (Silybin-Phosphatidylcholine Phytosome)** (4.6–10× bioavailability over raw silymarin; prevents hepatic mitochondrial membrane peroxidation, stimulates PGC-1$\alpha$ biogenesis, and enhances nucleolar RNA polymerase I transcription of preproalbumin).
   3. *Ferritin Surveillance:* Maintain serum ferritin strictly locked at $40\text{--}65\text{ ng/mL}$; supplement 25 mg iron bisglycinate if ferritin falls below $35\text{ ng/mL}$.
 
 ### C. Turnbuckle Mitochondrial Fission & Mitophagic Clearance Shock ([Module 03](file:///d:/Ryan%20Files%202026/06_Health_and_Wellness/Whitepaper_v4_Rewrite/interventions/03_Turnbuckle_IMM_Latching_Dischler.md))

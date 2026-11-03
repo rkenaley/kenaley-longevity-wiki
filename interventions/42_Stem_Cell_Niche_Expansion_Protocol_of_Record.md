@@ -199,3 +199,15 @@ If translating this mechanistically into a cohesive stack while awaiting clinica
 
 ---
 
+## 10. Intercellular Telomere Transfer ("Telomere Rivers"): APC $\to$ CD4⁺ T-Cell EV Donation (Lanna Model)
+
+> [!IMPORTANT]
+> **Mechanistic Polarity Correction (Lanna et al., *Nature Cell Biology* 2022):**  
+> A common secondary-literature extraction error inverts the cellular directionality of intercellular telomere transfer, falsely claiming that $\text{CD4}^+$ T-cells release extracellular vesicles (EVs) to donate telomeres to somatic cells. In reality, **Antigen-Presenting Cells (APCs: dendritic cells, macrophages, and B-cells) are the telomere donors**, and **$\text{CD4}^+$ T-cells (specifically naive and central memory T-cells) are the recipients** across the immunological synapse.
+
+* **The Biophysical Synapse Cascade:** Upon forming an immunological synapse with a $\text{CD4}^+$ T-cell, the donor APC degrades its own shelterin complex ($\text{POT1/TRF2}$), recruits **TZAP** (Telomeric Zinc Finger-Associated Protein) to cleave double-stranded telomeric DNA repeats $(\text{TTAGGG})_n$ from its own chromosome ends, and packages these telomere fragments alongside the homologous recombination factor **RAD51** into **extracellular vesicles (EVs)** budding across the synaptic cleft.
+* **Telomerase-Independent Recombination (*In Trans*):** Once endocytosed by the recipient $\text{CD4}^+$ T-cell, the RAD51-coated telomere segments fuse directly with the T-cell's chromosome ends via homologous recombination, elongating T-cell telomeres by **$\sim 3,000\text{ base pairs}$** *independently of telomerase ($\text{hTERT}$)* and shielding the T-cell from replicative senescence during clonal expansion.
+* **Protocol Integration with Module 42:** Because myeloid APCs (macrophages and dendritic cells) require intact mitochondrial membrane potential ($\Delta\Psi_m$) and glycolytic/actin bioenergetics to form stable immunological synapses and bud RAD51-telomere EVs, rescuing macrophage bioenergetics via the **Hepatic TRM / EP2–GYS1 Resolution Stack** (Urolithin A, SS-31, C3G, Taurine, and NR/NMN) directly preserves the donor APC compartment required to sustain adaptive $\text{CD4}^+$ T-cell telomere rejuvenation.
+
+---
+
