@@ -59,7 +59,7 @@ def simple_markdown_to_html(md_text):
     # 6. Formatting (Bold / Italic)
     text = re.sub(r'\*\*\*(.*?)\*\*\*', r'<strong><em>\1</em></strong>', text)
     text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
-    text = re.sub(r'\*(.*?)\*', r'<em>\1</em>', text)
+    text = re.sub(r'(?<!\n)\*([^\*\n]+?)\*', r'<em>\1</em>', text)
 
     # 7. Blockquotes and Alerts
     text = re.sub(r'^> \[!NOTE\]\s*(.*?)$', r'<div class="alert alert-note"><p>\1</p></div>', text, flags=re.MULTILINE)
@@ -111,14 +111,21 @@ def simple_markdown_to_html(md_text):
 
     return '\n\n'.join(processed_blocks)
 
+def format_cell(text):
+    text = re.sub(r'`([^`]+)`', r'<code>\1</code>', text)
+    text = re.sub(r'\*\*\*(.*?)\*\*\*', r'<strong><em>\1</em></strong>', text)
+    text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+    text = re.sub(r'\*(.*?)\*', r'<em>\1</em>', text)
+    return text
+
 def render_markdown_table(table_lines):
     if len(table_lines) < 2:
         return "\n".join(table_lines)
     
-    header_cols = [c.strip() for c in table_lines[0].strip().strip('|').split('|')]
+    header_cols = [format_cell(c.strip()) for c in table_lines[0].strip().strip('|').split('|')]
     rows = []
     for row_line in table_lines[2:]:
-        cols = [c.strip() for c in row_line.strip().strip('|').split('|')]
+        cols = [format_cell(c.strip()) for c in row_line.strip().strip('|').split('|')]
         rows.append(cols)
         
     out = ['<div class="table-container"><table class="data-table">', '  <thead><tr>']
